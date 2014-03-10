@@ -11,7 +11,7 @@
 -
  content: Me only have one ambition, y'know. I only have one thing I really like to see happen. I like to see mankind live together - black, white, Chinese, everyone - that's all.
  author: Bob Marley
-- 
+-
  contet: The happiness of a man in this life does not consist in the absence but in the mastery of his passions.
  author: Alfred Lord Tennyson
 -
@@ -38,7 +38,7 @@
  author: Dijkstra
 -
  content: Simplicity is about subtracting the obvious and adding the meaningful.
- author: John Maeda 
+ author: John Maeda
 -
  content: It's taken me all my life to learn what not to play.
  author: Dizzy Gillespie
@@ -47,7 +47,7 @@
  author: E. F. Schumacher
 -
  content: In the beginner's mind there are many possibilities. In the expert's mind there are few.
- author: Zen master Shunryu Suzuki 
+ author: Zen master Shunryu Suzuki
 -
  content: Simplicity means the achievement of maximum effect with minimum means.
  author: Dr. Koichi Kawana
@@ -55,8 +55,8 @@
  content: In most people's vocabularies, design means veneer. It's interior decorating. It's the fabric of the curtains of the sofa. But to me, nothing could be further from the meaning of design. Design is the fundamental soul of a human-made creation that ends up expressing itself in successive outer layers of the product or service.
  author: Steve Jobs
 -
- content: Out of clutter, find simplicity. From discord, find harmony. In the middle of difficulty lies opportunity. 
- author: Albert Einstein 
+ content: Out of clutter, find simplicity. From discord, find harmony. In the middle of difficulty lies opportunity.
+ author: Albert Einstein
 -
  content: Discussion is an exchange of knowledge; argument an exchange of ignorance
  author: Robert Quillen
@@ -65,7 +65,7 @@
  author: Dr. Koichi Kawana
 -
  content: We are what we repeatedly do. Excellence, therefore, is not an act, but a habit.
- author: Aristotle 
+ author: Aristotle
 -
  content: Problems can’t be solved at the same level of awareness that created them.
  author: Albert Einstein
@@ -95,6 +95,21 @@ But this is not a solution: it is an aggravation of the difficulty. The proper a
 This condition I call neither arising nor passing away, neither dying nor being born. It is without form and without change. It is the eternal, which never originates and never passes away. To find it is the end of suffering."
  context: Udanna Sutta
 
-- 
+-
  content: We have to rise up against all forms of power—but not just power in the narrow sense of the word, referring to the power of a government or of one social group over another: these are only a few particular instances of power.Power is anything that tends to render immobile and untouchable those things that are offered to us as real, as true, as good.
  author: Michel Foucault
+
+ -
+  content: "Find a way to end unemployment or Find a way for people to live without employment. Make whichever one you find work."
+  author: Jackson Mac Low
+  context: Social Project 1, 29 April 1963
+
+ -
+  content: "Find a way to end war. Make it work."
+  author: Jackson Mac Low
+  context: Social Project 2, 29 April 1963
+
+ -
+  content: "Find a way to produce everything everybody needs and to get it to them. Make it work."
+  author: Jackson Mac Low
+  context: Social Project 3, 29 April 1963
