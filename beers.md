@@ -3,15 +3,17 @@
 - Aymara (Maymará, Jujuy, Argentina) (***):
  - Honey
 - Antares (Mar del Plata, Buenos Aires, Argentina)  (*****):
- - Barely Wine
- - Imperial Stout
- - Wee Heavy
- - 15 años
- - Honey
- - Kölsh
- - Scotch
- - Argenta Pale Ale
- - Playa Grande 
+ - Barely Wine (*****)
+ - Imperial Stout (****)
+ - Wee Heavy (*****)
+ - 15 años (***)
+ - Honey (*****)
+ - Kölsh (****)
+ - Scotch (*****)
+ - Argenta Pale Ale (***)
+ - Playa Grande (***)
+ - India Pale Ale (*****)
+ - Unidos por la Cerveza (Guaraná) (**)
 - Athor (***)
 - MAAT (Jujuy, Argentina) (****)
  - Roja
@@ -30,6 +32,8 @@
 - Brooklyn Brewery (Brooklyn, NY, USA) (*****)
 - BrowArmia (@ Warsaw) (*****)
 - Kingston Pale Ale (@ The Shanghai Dragon, Buenos Aires) (***)
+- Stone (Escondido, CA, USA) [web](http://www.stonebrewing.com)
+ - Smoked Porter (*****)
 
 # To Taste
 
