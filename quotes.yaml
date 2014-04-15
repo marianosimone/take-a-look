@@ -142,3 +142,7 @@ We are so afraid of greed that we forget how honourable the love of material thi
 - content: I conclude that there are two ways of constructing a software design: One way is to make it so simple that there are obviously no deficiencies, and the other way is to make it so complicated that there are no obvious deficiencies. The first method is far more difficult. It demands the same skill, devotion, insight, and even inspiration as the discovery of the simple physical laws which underlie the complex phenomena of nature. It also requires a willingness to accept objectives which are limited by physical, logical, and technological constraints, and to accept a compromise when conflicting objectives cannot be met. No committee will ever do this until it is too late.
   author: C.A.R. Hoare
   context: The Emperor's Old Clothes
+
+- content: Interface matters to me more than anything else, and it always has. I just never realized that. I've spent a lot of time over the years desperately trying to think of a "thing" to change the world. I now know why the search was fruitless -- things don't change the world. People change the world by using things. The focus must be on the "using", not the "thing". Now that I'm looking through the right end of the binoculars, I can see a lot more clearly, and there are projects and possibilities that genuinely interest me deeply.
+  author: Bret Victor
+  context: email (9/3/04)
