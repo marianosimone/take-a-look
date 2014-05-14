@@ -200,3 +200,7 @@ Marcel Proust
 > When one knows overt sharp speech to be untrue, incorrect and unbeneficial, one should on no account utter it. When one knows overt sharp speech to be true, correct and unbeneficial, on should try not to utter it. But when one knows overt sharp speech to be true, correct and beneficial, one may utter it, knowing the time to do so.
 
 Sutta Aranavibhanga (MN 139)
+
+> What philosophy is about is not Truth... The cultural role of philosophy is not to deliver truth but to build the spirit of truth and this means: never to let the inquisitive energy of mind go to sleep, never to stop questioning what appears to be obvious and definitive, always to defy the seemingly intact resources of common sense, always to suspect that there might be “another side” in what we take for granted, and never to allow us to forget that there are questions that lie beyond the legitimate horizon of science and are nonetheless crucially important to the survival of humanity as we know it.
+
+Leszek Kolakowski in "Modernity on Endless Trial"
