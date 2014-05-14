@@ -196,3 +196,7 @@ Seth Godin
 > The real voyage of discovery consists of not in seeing new landscapes but in having new eyes.
 
 Marcel Proust
+
+> When one knows overt sharp speech to be untrue, incorrect and unbeneficial, one should on no account utter it. When one knows overt sharp speech to be true, correct and unbeneficial, on should try not to utter it. But when one knows overt sharp speech to be true, correct and beneficial, one may utter it, knowing the time to do so.
+
+Sutta Aranavibhanga (MN 139)
