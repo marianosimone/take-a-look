@@ -15,6 +15,8 @@
  - India Pale Ale (*****)
  - Unidos por la Cerveza (Guaraná) (**)
 - Athor (***)
+- Baldus (Punta Indio, Argentina)
+ - Ale Extra con Amapola (***)
 - MAAT (Jujuy, Argentina) (****)
  - Roja
 - Kross (Curacaví, Chile) (*****)
@@ -25,6 +27,8 @@
  - Negra
  - Frutilla
  - de Abadía
+- Südamerika (Argentina)
+ - Belgian Strong Ale (****)
 - Cumbres (@ Bodega 138, Cusco) (***)
 - Sierra andina (@ Bodega 138, Cusco) (***)
 - Buena Birra Social Club (**)
