@@ -209,3 +209,7 @@ Leszek Kolakowski in "Modernity on Endless Trial"
 > Considering the exclusive right to invention as given not of natural right, but for the benefit of society, I know well the difficulty of drawing a line between the things which are worth to the public the embarrassment of an exclusive patent, and those which are not. As a member of the patent board for several years, while the law authorized a board to grant or refuse patents, I saw with what slow progress a system of general rules could be matured.
 
 Thomas Jefferson to Isaac McPherson, Aug 13th, 1813
+
+> Playing a game is the voluntary attempt to overcome unnecessary obstacles
+
+Bernard Suits about games
