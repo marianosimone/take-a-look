@@ -1,0 +1,1 @@
+- [Privacy Badger](https://www.eff.org/privacybadger)
