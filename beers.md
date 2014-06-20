@@ -19,16 +19,20 @@
  - Ale Extra con Amapola (***)
 - Larsen (La Plata, Argentina)
  - Porter (***)
+- Dust (Argentina)
+ - English Pale Ale (***)
 - MAAT (Jujuy, Argentina) (****)
  - Roja
 - Kross (Curacaví, Chile) (*****)
  - Ale fuerte (madurada en roble americano)
-- Spangher (Buenos Aires, Argentina) (*****):
- - Rubia
- - Roja
- - Negra
- - Frutilla
- - de Abadía
+- Spangher (Buenos Aires, Argentina):
+ - Rubia (****)
+ - Roja (*****)
+ - Negra (****)
+ - Frutilla (****)
+ - de Abadía (****)
+ - Weise (*****)
+ - Barley Wine (***)
 - Südamerika (Argentina)
  - Belgian Strong Ale (****)
 - Cumbres (@ Bodega 138, Cusco) (***)
