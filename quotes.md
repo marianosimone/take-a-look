@@ -213,3 +213,7 @@ Thomas Jefferson to Isaac McPherson, Aug 13th, 1813
 > Playing a game is the voluntary attempt to overcome unnecessary obstacles
 
 Bernard Suits about games
+
+> Non-violence is when one has the chance to harm another but resists from doing so, this is genuine non-violence.
+
+Dalai Lama
