@@ -217,3 +217,11 @@ Bernard Suits about games
 > Non-violence is when one has the chance to harm another but resists from doing so, this is genuine non-violence.
 
 Dalai Lama
+
+> It's an universal law-- intolerance is the first sign of an inadequate education. An ill-educated person behaves with arrogant impatience, whereas truly profound education breeds humility.
+
+Aleksandr Solzhenitsyn
+
+> You only have power over people as long as you don't take everything away from them. But when you've robbed a man of everything, he's no longer in your power--he's free again.
+
+Aleksandr Solzhenitsyn
