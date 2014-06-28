@@ -19,6 +19,8 @@
  - Ale Extra con Amapola (***)
 - Larsen (La Plata, Argentina)
  - Porter (***)
+- Downhill (Rosario, Argentina)
+ - Irish Dry Stout (***)
 - Dust (Argentina)
  - English Pale Ale (***)
 - MAAT (Jujuy, Argentina) (****)
