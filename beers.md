@@ -23,6 +23,10 @@
  - Irish Dry Stout (***)
 - Dust (Argentina)
  - English Pale Ale (***)
+- Jerome (Mendoza, Argentina)
+ - Arcángel Rubia (***)
+ - Arcángel Roja (***)
+ - Belgian Strong Pale Ale Diablo (***)
 - MAAT (Jujuy, Argentina) (****)
  - Roja
 - Kross (Curacaví, Chile) (*****)
