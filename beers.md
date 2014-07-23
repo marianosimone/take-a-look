@@ -32,6 +32,8 @@
  - Arcángel Rubia (***)
  - Arcángel Roja (***)
  - Belgian Strong Pale Ale Diablo (***)
+- Kraken (Caseros, Argentina)
+ - Red Ale (****)
 - Gualta (Mendoza, Argentina)
  - Roja (**)
 - Larsen (La Plata, Argentina)
@@ -40,6 +42,8 @@
  - Roja
 - Kross (Curacaví, Chile) (*****)
  - Ale fuerte (madurada en roble americano)
+- Siete Colores (Argentina)
+ - Scottish Red (***)
 - Spangher (Buenos Aires, Argentina):
  - Rubia (****)
  - Roja (*****)
