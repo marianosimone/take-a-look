@@ -225,3 +225,7 @@ Aleksandr Solzhenitsyn
 > You only have power over people as long as you don't take everything away from them. But when you've robbed a man of everything, he's no longer in your power--he's free again.
 
 Aleksandr Solzhenitsyn
+
+> When you start looking at a problem and it seems really simple, you don’t really understand the complexity of the problem. Then you get into the problem, and you see that it’s really complicated, and you come up with all these convoluted solutions. That’s sort of the middle, and that’s where most people stop… But the really great person will keep on going and find the key, the underlying principle of the problem — and come up with an elegant, really beautiful solution that works.
+
+Steve Jobs, "Insanely Great"
