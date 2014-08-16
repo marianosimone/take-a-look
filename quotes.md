@@ -229,3 +229,11 @@ Aleksandr Solzhenitsyn
 > When you start looking at a problem and it seems really simple, you don’t really understand the complexity of the problem. Then you get into the problem, and you see that it’s really complicated, and you come up with all these convoluted solutions. That’s sort of the middle, and that’s where most people stop… But the really great person will keep on going and find the key, the underlying principle of the problem — and come up with an elegant, really beautiful solution that works.
 
 Steve Jobs, "Insanely Great"
+
+> When you know where to stop, you have stability.
+> When you have stability, you can be tranquil.
+> When you are tranquil, you can be at ease.
+> When you are at ease, you can deliberate.
+> When you can deliberate you can attain your aims.
+
+Confucius, "the Great Learning"
