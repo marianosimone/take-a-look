@@ -10,3 +10,7 @@ As seen in Extreme Programming:
 
 > A practice has to be an activity or a mode of working, but with a special twist: repeated application. In the absence of repetition, we may have an interesting technique, but it is not a practice unless it is performed regularly (in the case of an activity) or enforced systematically (in the case of a mode of working)
 Bertrand Meyer in "Agile! The Good, the Hype and the Ugly"
+
+> When there are two possible solutions, favor the one that is simpler and based on concrete need rather than the more intricate one that boasts of generality
+
+Kevlin Henney in "97 Things Every Software Architect Should Know"
