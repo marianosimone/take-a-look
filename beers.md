@@ -82,3 +82,4 @@
 - Lagunitas Little Sumpin' Sumpin' (Petaluma, California)
 - Hitachino White (Ibaraki, Japan)
 - The Bruery Hottenroth (Placentia, California)
+- Ithaca Beer Co. Flower Power's IPA
