@@ -237,3 +237,7 @@ Steve Jobs, "Insanely Great"
 > When you can deliberate you can attain your aims.
 
 Confucius, "the Great Learning"
+
+> You never really understand a person until you consider things from his point of view... Until you climb into his skin and walk around in it
+
+Harper Lee, "To Kill a Mockingbird" (spoken by Atticus Finch)
