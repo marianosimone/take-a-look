@@ -31,6 +31,8 @@
  - Irish Dry Stout (***)
 - Dust (Argentina)
  - English Pale Ale (***)
+- Fraüsen (Argentina)
+ - India Pale Ale (*****)
 - Great Leap Brewing (Beijing, China)
  - With Sichuan Pepper (**)
 - Gualta (Mendoza, Argentina)
