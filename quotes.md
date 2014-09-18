@@ -241,3 +241,11 @@ Confucius, "the Great Learning"
 > You never really understand a person until you consider things from his point of view... Until you climb into his skin and walk around in it
 
 Harper Lee, "To Kill a Mockingbird" (spoken by Atticus Finch)
+
+> I think knowledge is fixed in time, whereas knowing is continual. Knowledge comes from a source, from an accumulation, from conclusion, while knowing is movement
+
+Bruce Lee, "The Tao of Jeet Kune Do"
+
+> Truth is where the problem is. We shall find the truth when we examine the problem. The problem is never apart from the answer, the problem is the answer - the understanding of the problem is the dissolution of the problem. It is a mistake to think that one can establish a universal definition for verification.
+
+Bruce Lee, "The Tao of Jeet Kune Do"
