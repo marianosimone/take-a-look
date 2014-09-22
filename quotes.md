@@ -249,3 +249,7 @@ Bruce Lee, "The Tao of Jeet Kune Do"
 > Truth is where the problem is. We shall find the truth when we examine the problem. The problem is never apart from the answer, the problem is the answer - the understanding of the problem is the dissolution of the problem. It is a mistake to think that one can establish a universal definition for verification.
 
 Bruce Lee, "The Tao of Jeet Kune Do"
+
+> In nirvana, we become emotionally independent of those persons, places and things in life we previously affixed the adjective "my". We no longer identify ourselves in terms of our relationship to them. The independence does not mean that we don't care, it means that we don't possessively care.  Instead of having friends, we are merely friends.
+
+Ming Zhen Shakya, "Zen and the Martial Arts"
