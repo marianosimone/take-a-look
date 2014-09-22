@@ -14,3 +14,7 @@ Bertrand Meyer in "Agile! The Good, the Hype and the Ugly"
 > When there are two possible solutions, favor the one that is simpler and based on concrete need rather than the more intricate one that boasts of generality
 
 Kevlin Henney in "97 Things Every Software Architect Should Know"
+
+> "Big data" has this intoxicating effect. We start collecting it out of fear, but then it seduces us into thinking that it will give us power. In the end, it's just a mirror, reflecting whatever assumptions we approach it with. But collecting it drives this dynamic of relentless surveillance.
+
+Maciej Cegłowski, "The Internet with a Human Face"
