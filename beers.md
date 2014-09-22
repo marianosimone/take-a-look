@@ -47,6 +47,9 @@
  - Ale fuerte (madurada en roble americano)
 - Larsen (La Plata, Argentina)
  - Porter (***)
+- Lecker (Mar del Plata, Argentina)
+ - Rubia (**)
+ - Roja (*)
 - MAAT (Jujuy, Argentina) (****)
  - Roja
 - Neffer (Argentina)
