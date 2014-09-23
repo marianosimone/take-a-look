@@ -9,3 +9,9 @@ In this keynote speech from JaxConf 2012, Rich Hickey, creator of Clojure and fo
 A narrative that explains how the Internet of liberation became the Internet of inhuman and total surveillance. Increasingly, I'm heartened by the people who understand that the right debate to have is "How do we make the Internet a better place for human habitation?" and not "Is the Internet good or bad for us?" I'm also heartened to see the growth of the view that aggregated personal data is a kind of immortal toxic waste and that the best way to prevent spills is to not collect it in the first place.
 
 [link](http://idlewords.com/bt14.htm)
+
+## TJ Gokcen - "Kanban for Developers"
+
+There is much hype about Kanban since it was perfected and introduced to the world by Toyota. Since then, not only manufacturers but all businesses looked into this simple but extremely powerful approach.
+
+[link](https://www.youtube.com/watch?v=xyhu_0HZr0E)
