@@ -18,3 +18,7 @@ Kevlin Henney in "97 Things Every Software Architect Should Know"
 > "Big data" has this intoxicating effect. We start collecting it out of fear, but then it seduces us into thinking that it will give us power. In the end, it's just a mirror, reflecting whatever assumptions we approach it with. But collecting it drives this dynamic of relentless surveillance.
 
 Maciej Cegłowski, "The Internet with a Human Face"
+
+> Waste is anything that does not improve the quality of the product, does not reduce the amount of time and effort it takes to produce the product or does not provide real value to the customer
+
+TJ Gokcen, "Kanban for developers"
