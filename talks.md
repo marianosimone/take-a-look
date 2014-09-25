@@ -15,3 +15,9 @@ A narrative that explains how the Internet of liberation became the Internet of 
 There is much hype about Kanban since it was perfected and introduced to the world by Toyota. Since then, not only manufacturers but all businesses looked into this simple but extremely powerful approach.
 
 [link](https://www.youtube.com/watch?v=xyhu_0HZr0E)
+
+## Linus Torvalds - "On git" (Tech Talks @ Google 2007)
+
+Linus Torvalds visits Google to share his thoughts on git, the source control management system he created two years ago.
+
+[link](https://www.youtube.com/watch?v=4XpnKHJAok8)
