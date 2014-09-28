@@ -4,3 +4,4 @@ Some (mainly) useful unix packages that everyone should install in every box:
 - **KeepassX**: one of the best password managers
 - **[mitmproxy](http://mitmproxy.org)**: An interactive console program that allows traffic flows to be inspected and edited on the fly.
 - **[pythonpy](https://github.com/Russell91/pythonpy)**: python -c, with tab completion and shorthand
+- **[pdfbooklet](sourceforge.net/projects/pdfbooklet/)**: create booklets from pdfs, in order to print them and make real books
