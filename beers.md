@@ -60,6 +60,8 @@
     - American Ale (**)
 - Siete Colores (Argentina)
     - Scottish Red (***)
+- [Sixtofer](http://www.sixtofer.com.ar) (Lomas de Zamora, Buenos Aires, Argentina)
+    - Oatmeal Stout (****): "La selección de maltas tostadas le otorgan el inconfundible color oscuro e intenso sabor de las cervezas tipo Stout. Se perciben notas a café y chocolate, destacándose como un estilo con cuerpo, balanceado amargor y la característica sedosidad aportada por la avena."
 - Spangher (Buenos Aires, Argentina):
     - Rubia (****)
     - Roja (*****)
