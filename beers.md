@@ -31,6 +31,8 @@
     - Irish Red Ale (***): De alta fermentación de apariencia ámbar y brillante, su espuma blanca e intensa (Alc 6%)
 - Bössanfolk (Buenos Aires, Argentina)
     - Rubia Ahumada (***)
+- [Delirium](http://www.delirium.be) (Belgium)
+    - Delirium Tremens (*****): Pale blond, the fine and regular effervesce ensures a fine and stable head. Scent: Slightly malty, a nice touch of alcohol, spicy. Flavour: Feels like the sound shot of alcohol is igniting the mouth. In reality the tongue and palate are warmed. The taste is characterized by its roundness. The aftertaste is strong, long-lasting and dry bitter.
 - Downhill (Rosario, Argentina)
     - Irish Dry Stout (***)
 - Dust (Argentina)
