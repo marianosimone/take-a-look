@@ -60,6 +60,8 @@
     - Roja (****)
 - Neffer (Argentina)
     - American Ale (**)
+- Rothaus (Badische Staatsbrauerei Rothaus - Grafenhausen, Germany)
+    - Tannenzäpfle (***)
 - Siete Colores (Argentina)
     - Scottish Red (***)
 - [Sixtofer](http://www.sixtofer.com.ar) (Lomas de Zamora, Buenos Aires, Argentina)
