@@ -11,3 +11,7 @@
 # Misc
 
 - [Trello](https://trello.com): Kanvan-like boards/cards app
+
+# Shopping
+
+- [Fatwallwet](http://www.fatwallet.com/): Cupons and deals
