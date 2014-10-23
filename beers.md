@@ -60,6 +60,8 @@
     - Roja (****)
 - Neffer (Argentina)
     - American Ale (**)
+- [Old Speckled Hen](http://www.oldspeckledhen.co.uk/) (U.K)
+    - Old Speckled Hen (***): It has a full, smooth flavour and is very easy to drink. Its rich amber colour and superb fruity aromas are complemented by a delicious blend of malty tastes. Toffee and malt combine with bitterness on the back of the tongue to give a balanced sweetness. This, all followed by a refreshingly dry finish.
 - Rothaus (Badische Staatsbrauerei Rothaus - Grafenhausen, Germany)
     - Tannenzäpfle (***)
 - Siete Colores (Argentina)
