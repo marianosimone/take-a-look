@@ -27,6 +27,8 @@
     - Maltzbeer (*)
 - Beagle (Tierra del Fuego, Argentina)
     - India Pale Ale (*****)
+- Bell (Kalamazoo, Michigan, USA)
+    - Two Hearted Ale (****): "Bell's Two Hearted Ale is defined by its intense hop aroma and malt balance. Hopped exclusively with the Centennial hop varietal from the Pacific Northwest, massive additions in the kettle and again in the fermenter lend their characteristic grapefruit and pine resin aromas. A significant malt body balances this hop presence; together with the signature fruity aromas of Bell's house yeast, this leads to a remarkably drinkable American-style India Pale Ale."
 - Bohl (Argentina)
     - Irish Red Ale (***): De alta fermentación de apariencia ámbar y brillante, su espuma blanca e intensa (Alc 6%)
 - Bössanfolk (Buenos Aires, Argentina)
@@ -57,6 +59,9 @@
     - Red Ale (****)
 - Kross (Curacaví, Chile) (*****)
     - Ale fuerte (madurada en roble americano) (*****)
+- Lagunitas (California, USA)
+    - IPA (***): "Lagunitas IPA was our first seasonal way back in 1995. The recipe was formulated with malt and hops working together to balance it all out on your ‘buds so you can knock back more than one without wearing yourself out. Big on the aroma with a hoppy-sweet finish that’ll leave you wantin’ another sip."
+    - Little Sumpin' Sumpin' Wheat Ale (***) "A truly unique style featuring a strong hop finish on a silky body. A filtered pale wheat ale that is great for both IPA and wheat beer fans."
 - Larsen (La Plata, Argentina)
     - Porter (***)
 - Lecker (Mar del Plata, Argentina)
