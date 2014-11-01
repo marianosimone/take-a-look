@@ -44,6 +44,8 @@
     - Irish Dry Stout (***)
 - Dust (Argentina)
     - English Pale Ale (***)
+- [Firestone Walker Brewing Company](http://www.firestonebeer.com) (California, USA)
+    - Union Jack IPA (***): An aggressively hopped West Coast-style IPA.  Union Jack showcases exceptional dry hop character with stunning pineapple, citrus and piney aromas on the nose accompanied by honey-like malt aromatics.  Double dry hopping brings bold grapefruit, tangerine and citrus flavors that are contrasted by pale malt sweetness to balance this intense brew.  A true tribute to the style that put the West Coast on the craft beer map.
 - Fraüsen (Argentina)
     - India Pale Ale (*****)
 - Great Leap Brewing (Beijing, China)
@@ -69,6 +71,8 @@
     - Roja (*)
 - MAAT (Jujuy, Argentina)
     - Roja (****)
+- [Magic Hat Brewing Co](http://www.magichat.net/) (South Burlington, VT, USA)
+    - Dream Machine IPL (***): "An India Pale Lager, is a melding of varied visions of an india pale ale and an amber lager. Once poured, its light copper color delights the eyes and a citrusy hop aroma flows through the nose. upon first sip, a smooth hop bitterness reveals itself - fresh, bold and slightly spicy - before subtle hints of mild maltiness appear. A big hop bite and a crisp, clean lager finish combine for a beautifully balanced beer." (5.7% ABV, 50 IBUS, 12 SRM)
 - Neffer (Argentina)
     - American Ale (**)
 - [Old Speckled Hen](http://www.oldspeckledhen.co.uk/) (U.K)
