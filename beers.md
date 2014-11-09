@@ -29,12 +29,18 @@
     - India Pale Ale (*****)
 - Bell (Kalamazoo, Michigan, USA)
     - Two Hearted Ale (****): "Bell's Two Hearted Ale is defined by its intense hop aroma and malt balance. Hopped exclusively with the Centennial hop varietal from the Pacific Northwest, massive additions in the kettle and again in the fermenter lend their characteristic grapefruit and pine resin aromas. A significant malt body balances this hop presence; together with the signature fruity aromas of Bell's house yeast, this leads to a remarkably drinkable American-style India Pale Ale."
+- Blue Moon
+    - Mountain Abbey Ale (***)
 - Bohl (Argentina)
     - Irish Red Ale (***): De alta fermentación de apariencia ámbar y brillante, su espuma blanca e intensa (Alc 6%)
 - Bössanfolk (Buenos Aires, Argentina)
     - Rubia Ahumada (***)
 - Brauhaus (@ Calpe) (***)
-- Brooklyn Brewery (Brooklyn, NY, USA) (*****)
+- [Brooklyn Brewery](http://brooklynbrewery.com) (Brooklyn, NY, USA)
+    - Winter Ale (****): A bit roasted
+    - Weisse (****)
+    - Lager (***)
+    - East India Pale Ale (***)
 - BrowArmia (@ Warsaw) (*****)
 - Buena Birra Social Club (**)
 - Cumbres (@ Bodega 138, Cusco) (***)
