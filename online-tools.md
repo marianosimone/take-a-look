@@ -16,3 +16,7 @@
 # Shopping
 
 - [Fatwallwet](http://www.fatwallet.com/): Cupons and deals
+
+# Green
+
+- [Catalog Choice](https://nyc.catalogchoice.org): Unsubscribe from (real) mail deliveries
