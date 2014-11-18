@@ -88,6 +88,10 @@
 - Sierra andina (@ Bodega 138, Cusco) (***)
 - Siete Colores (Argentina)
     - Scottish Red (***)
+- [Singlecut](http://www.singlecutbeer.com/) (Queens, NY, USA)
+    - Billy 18-Watt IPA (IBU 75, ABV 5.0%) (****): A good option for newcommers to IPAs or to drink something tasty while eating
+- [Sixpoint](http://sixpoint.com/) (Redhook, Brooklyn, NY, USA)
+    - Lager (***)
 - [Sixtofer](http://www.sixtofer.com.ar) (Lomas de Zamora, Buenos Aires, Argentina)
     - Oatmeal Stout (****): "La selección de maltas tostadas le otorgan el inconfundible color oscuro e intenso sabor de las cervezas tipo Stout. Se perciben notas a café y chocolate, destacándose como un estilo con cuerpo, balanceado amargor y la característica sedosidad aportada por la avena."
 - Spangher (Buenos Aires, Argentina):
