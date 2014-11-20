@@ -253,3 +253,13 @@ Bruce Lee, "The Tao of Jeet Kune Do"
 > In nirvana, we become emotionally independent of those persons, places and things in life we previously affixed the adjective "my". We no longer identify ourselves in terms of our relationship to them. The independence does not mean that we don't care, it means that we don't possessively care.  Instead of having friends, we are merely friends.
 
 Ming Zhen Shakya, "Zen and the Martial Arts"
+
+> Are you trying to decide if you should keep or get rid of something? These are six reasons to trash, recycle, sell, or donate an object:
+> You don’t use it, love it, need it, or want it.
+> It’s broken, busted, damaged, or destroyed and you haven’t fixed it in six months or more.
+> You have multiples of the same object, and the other one is vastly superior in quality.
+> It’s expired.
+> You don’t have anywhere to store it.
+> It doesn’t fit in the life you desire.
+
+Erin Doland, "Six reasons to let it go" in "unclutterer."
