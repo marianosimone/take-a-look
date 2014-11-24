@@ -31,6 +31,8 @@
     - Two Hearted Ale (****): "Bell's Two Hearted Ale is defined by its intense hop aroma and malt balance. Hopped exclusively with the Centennial hop varietal from the Pacific Northwest, massive additions in the kettle and again in the fermenter lend their characteristic grapefruit and pine resin aromas. A significant malt body balances this hop presence; together with the signature fruity aromas of Bell's house yeast, this leads to a remarkably drinkable American-style India Pale Ale."
 - Blue Moon
     - Mountain Abbey Ale (***)
+- [Blue Point](http://bluepointbrewing.com/) (Long Island, NY, USA)
+    - Toasted Lager (***) " Copper in color, our most popular and unique brew is made from six different malts, including English Pale, Crystal, Munich, Carapils, Wheat, and Belgian Caravienna. Toasted Lager’s balanced flavor of malt and hops makes for easy drinking and the special lager yeast we use produces an exceptional, long-lasting smooth finish." 1.054 OG, 28 IBU’s, 5.5% ABV
 - Bohl (Argentina)
     - Irish Red Ale (***): De alta fermentación de apariencia ámbar y brillante, su espuma blanca e intensa (Alc 6%)
 - Bössanfolk (Buenos Aires, Argentina)
@@ -92,8 +94,11 @@
     - Billy 18-Watt IPA (IBU 75, ABV 5.0%) (****): A good option for newcommers to IPAs or to drink something tasty while eating
 - [Sixpoint](http://sixpoint.com/) (Redhook, Brooklyn, NY, USA)
     - Lager (***)
+    - Sweet  Action (****): Similar to Antare's Honey Beer, sweet but strong
 - [Sixtofer](http://www.sixtofer.com.ar) (Lomas de Zamora, Buenos Aires, Argentina)
     - Oatmeal Stout (****): "La selección de maltas tostadas le otorgan el inconfundible color oscuro e intenso sabor de las cervezas tipo Stout. Se perciben notas a café y chocolate, destacándose como un estilo con cuerpo, balanceado amargor y la característica sedosidad aportada por la avena."
+- [Smuttynose](https://smuttynose.com) (Hampton, NH, USA)
+    - Robust Porter (****): "This smooth, deceptively drinkable beer features an assertive hop profile which accentuates signature flavors of coffee and dark chocolate.". 6.6 ABV, 33 IBU's
 - Spangher (Buenos Aires, Argentina):
     - Rubia (****)
     - Roja (*****)
@@ -116,7 +121,6 @@
 - Cigar City Florida Cracker (Tampa, Florida)
 - Ballast Point Wahoo Wheat With Thai Chili, Lime, and Ginger (San Diego, California)
 - Westbrook Gose (Mount Pleasant, South Carolina)
-- Lagunitas Little Sumpin' Sumpin' (Petaluma, California)
 - Hitachino White (Ibaraki, Japan)
 - The Bruery Hottenroth (Placentia, California)
 - Ithaca Beer Co. Flower Power's IPA
