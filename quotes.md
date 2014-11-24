@@ -268,3 +268,14 @@ Erin Doland, "Six reasons to let it go" in "unclutterer."
 > Genius gives birth, talent delivers.
 
 Jack Kerouac
+
+> "Seven Social Sins"
+> - Politics without principles.
+> - Wealth without work.
+> - Pleasure without conscience.
+> - Knowledge without character.
+> - Commerce without morality.
+> - Science without humanity.
+> - Worship without sacrifice.
+
+Mahatma Gandhi, "Young India", October 22, 1925
