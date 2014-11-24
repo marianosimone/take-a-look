@@ -263,3 +263,8 @@ Ming Zhen Shakya, "Zen and the Martial Arts"
 > It doesn’t fit in the life you desire.
 
 Erin Doland, "Six reasons to let it go" in "unclutterer."
+
+> The main thing to remember is that talent imitates genius, because there’s nothing else to imitate. Since talent can’t originate, it has to imitate, or interpret…
+> Genius gives birth, talent delivers.
+
+Jack Kerouac
