@@ -7,8 +7,6 @@
 - [Download Master](https://chrome.google.com/webstore/detail/mcceagdollnkjlogmdckgjakjapmkdjf)
 - [DuckDuckGo](https://chrome.google.com/webstore/detail/bpphkkgodbfncbcpgopijlfakfgmclao)
 - [Lingua.ly](https://chrome.google.com/webstore/detail/iilcekgoelpgecpjnnoikhbleipnjdhf)
-- [Rapportive](https://chrome.google.com/webstore/detail/hihakjfhbmlmjdnnhegiciffjplmdhin)
-- [Ultimate YouTube Downloader]
 - [Hola Unblocker](https://hola.org/)
 - [Feedly](https://chrome.google.com/webstore/detail/hipbfijinpcgfogaopmgehiegacbhmob)
 - [Project Naptha](https://chrome.google.com/webstore/detail/molncoemjfmpgdkbdlbjmhlcgniigdnf)
