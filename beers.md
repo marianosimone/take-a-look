@@ -89,6 +89,10 @@
     - American Ale (**)
 - [Old Speckled Hen](http://www.oldspeckledhen.co.uk/) (U.K)
     - Old Speckled Hen (***): It has a full, smooth flavour and is very easy to drink. Its rich amber colour and superb fruity aromas are complemented by a delicious blend of malty tastes. Toffee and malt combine with bitterness on the back of the tongue to give a balanced sweetness. This, all followed by a refreshingly dry finish.
+- [Other Half](http://otherhalfbrewing.com/) (New York, USA)
+    - All I See Is Green IPA (****) Dry IPA with a nice malt body and stonefruit hop character from New Zeland Waimea and Rakay hops as well as good ol' Simcoe
+- Rocky Point Artisan Brewers (Long Island, NY, USA)
+  - Megadon (***) #4 in the collaboration with Secret Engine
 - Rothaus (Badische Staatsbrauerei Rothaus - Grafenhausen, Germany)
     - Tannenzäpfle (***)
 - Sierra andina (@ Bodega 138, Cusco) (***)
