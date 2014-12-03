@@ -85,6 +85,7 @@
     - Roja (****)
 - [Magic Hat Brewing Co](http://www.magichat.net/) (South Burlington, VT, USA)
     - Dream Machine IPL (***): "An India Pale Lager, is a melding of varied visions of an india pale ale and an amber lager. Once poured, its light copper color delights the eyes and a citrusy hop aroma flows through the nose. upon first sip, a smooth hop bitterness reveals itself - fresh, bold and slightly spicy - before subtle hints of mild maltiness appear. A big hop bite and a crisp, clean lager finish combine for a beautifully balanced beer." (5.7% ABV, 50 IBUS, 12 SRM)
+    - Blind Faith IPA (**)
 - Neffer (Argentina)
     - American Ale (**)
 - [Old Speckled Hen](http://www.oldspeckledhen.co.uk/) (U.K)
