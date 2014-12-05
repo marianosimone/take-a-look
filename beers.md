@@ -56,6 +56,8 @@
     - Purple Monkey Dishwasher (***): American Porter,  6.70% ABV. Tastes like peanut butter!
 - [Firestone Walker Brewing Company](http://www.firestonebeer.com) (California, USA)
     - Union Jack IPA (***): An aggressively hopped West Coast-style IPA.  Union Jack showcases exceptional dry hop character with stunning pineapple, citrus and piney aromas on the nose accompanied by honey-like malt aromatics.  Double dry hopping brings bold grapefruit, tangerine and citrus flavors that are contrasted by pale malt sweetness to balance this intense brew.  A true tribute to the style that put the West Coast on the craft beer map.
+- [Flying Dog](http://flyingdogbrewery.com) (Frederick, MD, USA)
+    - Snake Dog IPA (***): 60 IBU's, ABV 7.1%. Bitter, but not too hoppy. Nice for people starting on IPAs
 - Fraüsen (Argentina)
     - India Pale Ale (*****)
 - Great Leap Brewing (Beijing, China)
