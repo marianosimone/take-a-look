@@ -64,6 +64,8 @@
     - Cedar Plank IPA (***) IBU's 44, ABV 6.0% "This well-hopped brew is aged with Spanish Cedar, which imparts an intense cigar-box cedar aroma. Peppercorn spiciness and tannins from the wood enhance the bitter hop flavors with a long, lingering finish."
 - Gualta (Mendoza, Argentina)
     - Roja (**)
+- [Ithaca Beer Co.](http://ithacabeer.com) (Ithaca, USA)
+    - Flower Power IPA (***): 7.5% ABV, Hops: Simcoe, Chinook, Citra, Ahtanum, Centennial. "Simultaneously Punchy and soothing with a big body and a finish that boasts pineapple and grapefruit."
 - Jerome (Mendoza, Argentina)
     - Arcángel Rubia (***)
     - Arcángel Roja (***)
@@ -132,4 +134,3 @@
 - Westbrook Gose (Mount Pleasant, South Carolina)
 - Hitachino White (Ibaraki, Japan)
 - The Bruery Hottenroth (Placentia, California)
-- Ithaca Beer Co. Flower Power's IPA
