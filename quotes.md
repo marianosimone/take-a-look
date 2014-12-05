@@ -279,3 +279,7 @@ Jack Kerouac
 > - Worship without sacrifice.
 
 Mahatma Gandhi, "Young India", October 22, 1925
+
+> If you find yourself often thinking that people aren't acting in their own self-interests, maybe you don't know what their interests are
+
+Eugene Wallingford in "[Knowing and Doing](http://www.cs.uni.edu/~wallingf/blog/archives/monthly/2014-12.html#e2014-12-02T14_53_35.htm)"
