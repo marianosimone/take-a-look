@@ -126,6 +126,8 @@
     - Smoked Porter (*****)
 - Südamerika (Argentina)
     - Belgian Strong Ale (****)
+- [Timmerman's](http://www.john-martin.be/) (Brussels, Belgium)
+    - Strawberry Lambic (*): 4.00% ABV. Flavor is too artificial
 
 # To Taste
 
