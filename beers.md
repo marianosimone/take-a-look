@@ -118,6 +118,8 @@
     - de Abadía (****)
     - Weise (*****)
     - Barley Wine (***)
+- [Speakeasy Ales & Lagers](http://www.goodbeer.com/) (CA, USA)
+    - Prohibition Ale (American Amber / Red Ale) (***): 6.10% ABV
 - [Stone](http://www.stonebrewing.com) (Escondido, CA, USA)
     - Smoked Porter (*****)
 - Südamerika (Argentina)
