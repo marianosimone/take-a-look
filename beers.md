@@ -58,6 +58,8 @@
     - Union Jack IPA (***): An aggressively hopped West Coast-style IPA.  Union Jack showcases exceptional dry hop character with stunning pineapple, citrus and piney aromas on the nose accompanied by honey-like malt aromatics.  Double dry hopping brings bold grapefruit, tangerine and citrus flavors that are contrasted by pale malt sweetness to balance this intense brew.  A true tribute to the style that put the West Coast on the craft beer map.
 - [Flying Dog](http://flyingdogbrewery.com) (Frederick, MD, USA)
     - Snake Dog IPA (***): 60 IBU's, ABV 7.1%. Bitter, but not too hoppy. Nice for people starting on IPAs
+- [Founders](http://foundersbrewing.com/) (Grand Rapids, MI, USA)
+    - Dirty Bastard Scotch Ale (***) ABV: 8.5%, IBUs: 50. "Dark ruby in color and brewed with seven varieties of imported malts. Complex in finish, with hints of smoke and peat, paired with a malty richness and a right hook of hop power." Sweet, but with a strong taste
 - Fraüsen (Argentina)
     - India Pale Ale (*****)
 - Great Leap Brewing (Beijing, China)
