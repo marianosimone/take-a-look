@@ -45,6 +45,8 @@
     - East India Pale Ale (***)
 - BrowArmia (@ Warsaw) (*****)
 - Buena Birra Social Club (**)
+- [Central Waters](http://www.centralwaters.com/) (WI, USA)
+    - Sláinte Scottish Style Ale (****) 7.50% ABV
 - Cumbres (@ Bodega 138, Cusco) (***)
 - [Delirium](http://www.delirium.be) (Belgium)
     - Delirium Tremens (*****): Pale blond, the fine and regular effervesce ensures a fine and stable head. Scent: Slightly malty, a nice touch of alcohol, spicy. Flavour: Feels like the sound shot of alcohol is igniting the mouth. In reality the tongue and palate are warmed. The taste is characterized by its roundness. The aftertaste is strong, long-lasting and dry bitter.
@@ -87,6 +89,8 @@
 - Lecker (Mar del Plata, Argentina)
     - Rubia (**)
     - Roja (*)
+- LoveBeer (Marentino, Italy)
+    - Madamin (**) Oak amber ale. Fermented and maturated only in oak vats. The name "Madamin" is a piedmontese word meaning "young lady". It tastes like Champagne!
 - MAAT (Jujuy, Argentina)
     - Roja (****)
 - [Magic Hat Brewing Co](http://www.magichat.net/) (South Burlington, VT, USA)
