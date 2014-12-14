@@ -112,6 +112,7 @@
 - [Singlecut](http://www.singlecutbeer.com/) (Queens, NY, USA)
     - Billy 18-Watt IPA (IBU 75, ABV 5.0%) (****): A good option for newcommers to IPAs or to drink something tasty while eating
 - [Sixpoint](http://sixpoint.com/) (Redhook, Brooklyn, NY, USA)
+    - Bengali Tiger (American IPA) (****): ABV 6.5%, IBU 69, SRM 11. A sweet, not-hoppy-at-all IPA
     - Lager (***)
     - Sweet  Action (****): Similar to Antare's Honey Beer, sweet but strong
 - [Sixtofer](http://www.sixtofer.com.ar) (Lomas de Zamora, Buenos Aires, Argentina)
