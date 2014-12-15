@@ -45,6 +45,8 @@
     - East India Pale Ale (***)
 - BrowArmia (@ Warsaw) (*****)
 - Buena Birra Social Club (**)
+- [Captain Lawrence](http://www.captainlawrencebrewing.com/) (Elmsford, NY, USA)
+    - Kölsch (***) IBU 25, OG: 13, ABV: 5% "Low in bitternes, but packed full of malty rich flavors, this beer expresses a small amount of the fruitiness you find in most ales, as well as the clean crisp flavors associated with a lager. The aroma is influenced by the small amount of American grown hops we add post fermentation with contribute a touch citrus". Nice for people not used to craft beers, as it's light and smoot, but with taste.
 - [Central Waters](http://www.centralwaters.com/) (WI, USA)
     - Sláinte Scottish Style Ale (****) 7.50% ABV
 - Cumbres (@ Bodega 138, Cusco) (***)
@@ -119,6 +121,8 @@
     - Oatmeal Stout (****): "La selección de maltas tostadas le otorgan el inconfundible color oscuro e intenso sabor de las cervezas tipo Stout. Se perciben notas a café y chocolate, destacándose como un estilo con cuerpo, balanceado amargor y la característica sedosidad aportada por la avena."
 - [Smuttynose](https://smuttynose.com) (Hampton, NH, USA)
     - Robust Porter (****): "This smooth, deceptively drinkable beer features an assertive hop profile which accentuates signature flavors of coffee and dark chocolate.". 6.6 ABV, 33 IBU's
+- [Southern Tier](http://www.southerntierbrewing.com/) (NY, USA)
+    - American IPA (***) 7.30% ABV
 - Spangher (Buenos Aires, Argentina):
     - Rubia (****)
     - Roja (*****)
