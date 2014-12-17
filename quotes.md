@@ -287,3 +287,7 @@ Eugene Wallingford in "[Knowing and Doing](http://www.cs.uni.edu/~wallingf/blog/
 > We get wise by asking questions, and even if these are not answered, we get wise, for a well-packed question carries its answer on its back, as a snail carries its shell
 
 James Stephens
+
+> The most important point in our practice is to have right effort. The right effort which is directed to right direction is necessary. Usually our effort is making towards wrong direction. Especially, if your effort is making... your effort is directed towards wrong direction without knowing it means so-called deluded effort. Our effort in our practice should be directed from being to non-being, from achievement to non-achievement.
+
+Shunryu Suzuki Roshi
