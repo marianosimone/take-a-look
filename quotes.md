@@ -291,3 +291,7 @@ James Stephens
 > The most important point in our practice is to have right effort. The right effort which is directed to right direction is necessary. Usually our effort is making towards wrong direction. Especially, if your effort is making... your effort is directed towards wrong direction without knowing it means so-called deluded effort. Our effort in our practice should be directed from being to non-being, from achievement to non-achievement.
 
 Shunryu Suzuki Roshi
+
+> It's not surprise that mentoring our friends and family in gameplay makes us happy and brings us closer together. Paul Ekman, a pioneering emotions researcher and an expert on the phenomenon of naches, explains that this particular emotion is also likely an evolved mechanism, designed to enhance group survival. The happiness we get from cheering on friends and family ensures our personal investment in other people's growth and achievements. It encourages us to contribute to someone else's success, and as a result we form networks of support from which everyone involved benefits.
+
+Jane McGonigal, about "naches" in "Reality Is Broken: Why Games Make Us Better and How They Can Change the World"
