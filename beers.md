@@ -135,6 +135,7 @@
     - Prohibition Ale (American Amber / Red Ale) (***): 6.10% ABV
 - [Stone](http://www.stonebrewing.com) (Escondido, CA, USA)
     - Smoked Porter (*****)
+    - Old Guardian Barely Wine (****): ALC/VOL: 11.6% IBUS: 80, A bit sweet
 - Südamerika (Argentina)
     - Belgian Strong Ale (****)
 - [Timmerman's](http://www.john-martin.be/) (Brussels, Belgium)
