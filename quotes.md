@@ -299,3 +299,7 @@ Jane McGonigal, about "naches" in "Reality Is Broken: Why Games Make Us Better a
 > I've learned that people will forget what you said, people will forget what you did, but people will never forget how you made them feel
 
 Maya Angelou
+
+> Those who prefer their principles over their happiness, they refuse to be happy outside the conditions they seem to have attached to their happiness.
+
+Albert Camus
