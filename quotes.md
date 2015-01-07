@@ -303,3 +303,15 @@ Maya Angelou
 > Those who prefer their principles over their happiness, they refuse to be happy outside the conditions they seem to have attached to their happiness.
 
 Albert Camus
+
+> Intelligence is not only the ability to reason; it is also the ability to find relevant material in memory and to deploy attention when needed.
+
+Daniel Kahneman, "Thinking, Fast and Slow"
+
+> “Risk” does not exist “out there”, independent of our minds and culture, waiting to be measured. Human beings have invented the concept of “risk” to help them understand and cope with the dangers and uncertainties of life. Although these dangers are real, there is no such thing as “real risk” or “objective risk.”
+
+Daniel Kahneman, "Thinking, Fast and Slow"
+
+> Her experiments are profound—her findings suggest that living in a culture that surrounds us with reminders of money may shape our behavior and our attitudes in ways that we do not know about and of which we may not be proud. Some cultures provide frequent reminders of respect, others constantly remind their members of God, and some societies prime obedience by large images of the Dear Leader. Can there be any doubt that the ubiquitous portraits of the national leader in dictatorial societies not only convey the feeling that “Big Brother Is Watching” but also lead to an actual reduction in spontaneous thought and independent action?
+
+Daniel Kahneman, "Thinking, Fast and Slow", about the priming effect and the foundings of Kathleen Vohs
