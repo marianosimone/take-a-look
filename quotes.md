@@ -320,6 +320,6 @@ Daniel Kahneman, "Thinking, Fast and Slow", about the priming effect and the fou
 
 About the "Peter Principle"
 
-> When I speak about the banality of evil, I do so only on the strictly factual level (...) He was not stupid. It was thoughtlessness. Something by no means identical to stupidity (...). Such remoteness from reality can wreak more havoc than all the evil instincts taken togeter.
+> When I speak about the banality of evil, I do so only on the strictly factual level (...) He was not stupid. It was thoughtlessness. Something by no means identical to stupidity (...). Such remoteness from reality can wreak more havoc than all the evil instincts taken together.
 
 Hannah Arendt, "Eichmann in Jerusalem: Report of the Banality of Evil" 
