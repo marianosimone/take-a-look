@@ -319,3 +319,7 @@ Daniel Kahneman, "Thinking, Fast and Slow", about the priming effect and the fou
 > (...) the idea that in an organization where promotion is based on achievement, success, and merit, that organization's members will eventually be promoted beyond their level of ability. The principle is commonly phrased, "Employees tend to rise to their level of incompetence.
 
 About the "Peter Principle"
+
+> When I speak about the banality of evil, I do so only on the strictly factual level (...) He was not stupid. It was thoughtlessness. Something by no means identical to stupidity (...). Such remoteness from reality can wreak more havoc than all the evil instincts taken togeter.
+
+Hannah Arendt, "Eichmann in Jerusalem: Report of the Banality of Evil" 
