@@ -315,3 +315,7 @@ Daniel Kahneman, "Thinking, Fast and Slow"
 > Her experiments are profound—her findings suggest that living in a culture that surrounds us with reminders of money may shape our behavior and our attitudes in ways that we do not know about and of which we may not be proud. Some cultures provide frequent reminders of respect, others constantly remind their members of God, and some societies prime obedience by large images of the Dear Leader. Can there be any doubt that the ubiquitous portraits of the national leader in dictatorial societies not only convey the feeling that “Big Brother Is Watching” but also lead to an actual reduction in spontaneous thought and independent action?
 
 Daniel Kahneman, "Thinking, Fast and Slow", about the priming effect and the foundings of Kathleen Vohs
+
+> (...) the idea that in an organization where promotion is based on achievement, success, and merit, that organization's members will eventually be promoted beyond their level of ability. The principle is commonly phrased, "Employees tend to rise to their level of incompetence.
+
+About the "Peter Principle"
