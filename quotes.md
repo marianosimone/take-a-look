@@ -323,3 +323,7 @@ About the "Peter Principle"
 > When I speak about the banality of evil, I do so only on the strictly factual level (...) He was not stupid. It was thoughtlessness. Something by no means identical to stupidity (...). Such remoteness from reality can wreak more havoc than all the evil instincts taken together.
 
 Hannah Arendt, "Eichmann in Jerusalem: Report of the Banality of Evil" 
+
+> Forgiving a behavior does not mean excusing it in the past or tolerating it in the future, just letting go of your anger about it
+
+Kent Beck
