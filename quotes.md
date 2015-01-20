@@ -327,3 +327,7 @@ Hannah Arendt, "Eichmann in Jerusalem: Report of the Banality of Evil"
 > Forgiving a behavior does not mean excusing it in the past or tolerating it in the future, just letting go of your anger about it
 
 Kent Beck
+
+> Advice, like fruit, is best when it’s fresh. But advice quickly decays, and 15 year-old advice is bound to be radioactive. Sharing a life experience is one thing (grandparents are great at this – listen to them!), but advice is another thing. Don’t give advice about things you used to know. Just because you did something a long time ago doesn’t mean you’re qualified to talk about it today.
+
+Jason Fried, "[Giving Less Advice](https://signalvnoise.com/posts/3719-giving-less-advice)"
