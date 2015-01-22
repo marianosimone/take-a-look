@@ -2,6 +2,7 @@
 
 - [JQM Designer](http://jqmdesigner.appspot.com): JQuery Mobile mockup app (but also good for mocking up mobile apps)
 - [BeeFree](https://beefree.io): Email communications building tool
+- [Lorempixel](http://lorempixel.com/): Url-generated images
 
 # Dev Utils
 
