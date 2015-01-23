@@ -322,7 +322,7 @@ About the "Peter Principle"
 
 > When I speak about the banality of evil, I do so only on the strictly factual level (...) He was not stupid. It was thoughtlessness. Something by no means identical to stupidity (...). Such remoteness from reality can wreak more havoc than all the evil instincts taken together.
 
-Hannah Arendt, "Eichmann in Jerusalem: Report of the Banality of Evil" 
+Hannah Arendt, "Eichmann in Jerusalem: Report of the Banality of Evil"
 
 > Forgiving a behavior does not mean excusing it in the past or tolerating it in the future, just letting go of your anger about it
 
@@ -331,3 +331,7 @@ Kent Beck
 > Advice, like fruit, is best when it’s fresh. But advice quickly decays, and 15 year-old advice is bound to be radioactive. Sharing a life experience is one thing (grandparents are great at this – listen to them!), but advice is another thing. Don’t give advice about things you used to know. Just because you did something a long time ago doesn’t mean you’re qualified to talk about it today.
 
 Jason Fried, "[Giving Less Advice](https://signalvnoise.com/posts/3719-giving-less-advice)"
+
+> Creatives aren’t good at their art because of their tools; their talent stems from the skills and knowledge they’ve acquired while using their tools. And if those tools stop working or a better one is invented, you can simply switch without losing the accumulated knowledge of your craft. At worse, switching tools will simply slow you down a little, temporarily.
+
+Paul Jarvis [about tools](http://pjrvs.com/a/tools)
