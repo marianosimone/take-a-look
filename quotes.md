@@ -335,3 +335,8 @@ Jason Fried, "[Giving Less Advice](https://signalvnoise.com/posts/3719-giving-le
 > Creatives aren’t good at their art because of their tools; their talent stems from the skills and knowledge they’ve acquired while using their tools. And if those tools stop working or a better one is invented, you can simply switch without losing the accumulated knowledge of your craft. At worse, switching tools will simply slow you down a little, temporarily.
 
 Paul Jarvis [about tools](http://pjrvs.com/a/tools)
+
+> Chaos: When the present determines the future, but the approximate present does not approximately determine the future.
+
+Edward Norton Lorenz
+
