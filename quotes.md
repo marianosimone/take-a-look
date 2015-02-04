@@ -91,6 +91,10 @@ Albert Einstein
 
 Chuck Palahniuk in Fight Club
 
+> It's only after we've lost everything that we're free to do anything
+
+Chuck Palahniuk in Fight Club
+
 > In the end, deceivers deceive only themselves
 
 Mahatma Gandhi in "Reflections on Gandhi", by George Orwell
@@ -218,6 +222,10 @@ Bernard Suits about games
 
 Dalai Lama
 
+> Anger, hatred and jealousy never solve problems, only affection, concern and respect can do that.
+
+Dalai Lama
+
 > It's an universal law-- intolerance is the first sign of an inadequate education. An ill-educated person behaves with arrogant impatience, whereas truly profound education breeds humility.
 
 Aleksandr Solzhenitsyn
@@ -340,3 +348,26 @@ Paul Jarvis [about tools](http://pjrvs.com/a/tools)
 
 Edward Norton Lorenz
 
+> To me minimalism is to live with everything you need and nothing you don’t. Having good quality things that will last a long time, hopefully a lifetime - and yes, those are expensive. To live in a place that is comfortable to me and my family - neither huge nor tiny, just right size, with the furniture and the appliances that we need.
+
+mnmal.org
+
+> Cutting funding for bike lanes because there isn't enough demand is like cutting literacy funding because not enough people are reading. Bike lanes are not built to satisfy demand. They're meant to serve as an incentive to encourage more cycling by increasing safety.
+
+Dave Meslin
+
+> If you don't like something change it; if you can't change it, change the way you think about it.
+
+Mary Engelbreit
+
+> Change the way you look at things and the things you look at change
+
+Wayne W. Dyer
+
+> A true warrior is invincible because he or she contests with nothing.
+
+Morihei Ueshiba
+
+> You are what your deep, driving desire is. As your desire is, so is your will. As your will is, so is your deed. As your deed is, so is your destiny.
+
+Brihadaranyaka Upanisha
