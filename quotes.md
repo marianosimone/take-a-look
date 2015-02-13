@@ -371,3 +371,7 @@ Morihei Ueshiba
 > You are what your deep, driving desire is. As your desire is, so is your will. As your will is, so is your deed. As your deed is, so is your destiny.
 
 Brihadaranyaka Upanisha
+
+> Thinking doesn’t guarantee that we won’t make mistakes. But not thinking guarantees that we will.
+
+Leslie Lamport
