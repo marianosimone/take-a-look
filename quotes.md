@@ -226,6 +226,10 @@ Dalai Lama
 
 Dalai Lama
 
+> It is vital that when we educate our children’s brains we do not neglect to educate their hearts by nurturing their compassionate nature.
+
+Dalai Lama
+
 > It's an universal law-- intolerance is the first sign of an inadequate education. An ill-educated person behaves with arrogant impatience, whereas truly profound education breeds humility.
 
 Aleksandr Solzhenitsyn
@@ -375,3 +379,15 @@ Brihadaranyaka Upanisha
 > Thinking doesn’t guarantee that we won’t make mistakes. But not thinking guarantees that we will.
 
 Leslie Lamport
+
+> The way we communicate with others and with ourselves ultimately determines the quality of our lives.
+
+Anthony Robbins
+
+> Love is something that if you give it away, give it away, you end up having more.
+
+Malvina Reynolds
+
+> Do not wait until the conditions are perfect to begin. Beginning makes the conditions perfect.
+
+Alan Cohen
