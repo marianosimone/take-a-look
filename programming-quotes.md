@@ -39,10 +39,6 @@ Dykstra
 
 John McCarthy
 
-> I'm not a great programmer; I'm just a good programmer with great habits
-
-Kent Beck
-
 > A programming language is low level when its programs require attention to the irrelevant
 
 Alan J. Perlis.
@@ -79,7 +75,15 @@ Linus Torvalds
 
 Linus Torvalds
 
+> I'm not a great programmer; I'm just a good programmer with great habits
+
+Kent Beck
+
 > Doing good engineering is not primarily making good decisions, it's seeking good feedback which lets you quickly discard bad decisions
+
+Kent Beck
+
+> The *craft* of programming begins with empathy, not formatting or languages or tools or algorithms or data structures
 
 Kent Beck
 
@@ -90,3 +94,7 @@ Linus Torvalds
 > There are two ways of constructing a software design. One way is to make it so simple that there are obviously no deficiencies. And the other way is to make it so complicated that there are no obvious deficiencies
 
 C.A.R. Hoare
+
+> Another realization: choosing a tool is easy; adopting a tool is hard. One merely requires a decision; the other requires commitment.
+
+Elisabeth Hendrickson (@testobsessed)
