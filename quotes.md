@@ -250,6 +250,10 @@ Steve Jobs, "Insanely Great"
 
 Confucius, "the Great Learning"
 
+> The exemplary person harmonizes with others, but does not necessarily agree with them; the small person agrees with others but is not harmonious with them
+
+Confucius
+
 > You never really understand a person until you consider things from his point of view... Until you climb into his skin and walk around in it
 
 Harper Lee, "To Kill a Mockingbird" (spoken by Atticus Finch)
@@ -391,3 +395,19 @@ Malvina Reynolds
 > Do not wait until the conditions are perfect to begin. Beginning makes the conditions perfect.
 
 Alan Cohen
+
+> When you listen, it's amazing what you can learn. When you act on what you've learned, it's amazing what you can change.
+
+Audrey McLaughlin
+
+> Every gun that is made, every warship launched, every rocket fired, signifies in the final sense a theft from those who hunger and are not fed, those who are cold and are not clothed.
+
+Dwight D. Eisenhower
+
+> The definition of a revolution: it destroys the perfect and enables the impossible.
+
+Seth Godin
+
+> You've got to learn your instrument. Then, you practice, practice, practice. And then, when you finally get up there on the bandstand, forget all that and just wail.
+
+Charlie Parker
