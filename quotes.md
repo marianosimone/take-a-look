@@ -411,3 +411,47 @@ Seth Godin
 > You've got to learn your instrument. Then, you practice, practice, practice. And then, when you finally get up there on the bandstand, forget all that and just wail.
 
 Charlie Parker
+
+> The great source of both the misery and disorders of human life, seems to arise from over-rating the difference between one permanent situation and another. Avarice over-rates the difference between poverty and riches: ambition, that between a private and a public station: vain-glory, that between obscurity and extensive reputation. The person under the influence of any of those extravagant passions, is not only miserable in his actual situation, but is often disposed to disturb the peace of society, in order to arrive at that which he so foolishly admires. The slightest observation, however, might satisfy him, that, in all the ordinary situations of human life, a well-disposed mind may be equally calm, equally cheerful, and equally contented. Some of those situations may, no doubt, deserve to be preferred to others: but none of them can deserve to be pursued with that passionate ardour which drives us to violate the rules either of prudence or of justice; or to corrupt the future tranquillity of our minds, either by shame from the remembrance of our own folly, or by remorse from the horror of our own injustice.
+
+Adam Smith, "The Theory of Moral Sentiments"
+
+> Personal development through the acquisition of knowledge and skills is the primary objective of education.
+
+Nakabayashi Shinji
+
+> You do not inherit the earth from your ancestors: you borrow it from your children.
+
+Antoine de Saint Exupéry
+
+> Be content with what you have; rejoice in the way things are. When you realize there is nothing lacking, the whole world belongs to you.
+
+Lao Tzu
+
+> Let he that would move the world, first move himself
+
+Socrates
+
+> There are two ways to live: one is as if nothing is a miracle; the other as if everything is.
+
+Albert Einstein
+
+> In order to deviate successfully, one has to have at least a passing acquaintance with whatever norm one expects to deviate from
+
+Frank Zappa, "The Real Frank Zappa Book"
+
+> The scientist does not study nature because it is useful; he studies it because he delights in it, and he delights in it because it is beautiful. If nature were not beautiful, it would not be worth knowing, and if nature were not worth knowing, life would not be worth living.
+
+Jules Henri Poincaré
+
+> Never interrupt someone doing something you said couldn't be done.
+
+Amelia Earhart
+
+> Speaking about Bishop Berkeley (who, may I remind you, was a prophet of the greatness of America), I remember that he wrote that the taste of an apple is neither in the apple itself - the apple cannot taste itself - nor in the mouth of the eater. It requires a contact between them. The same thing happens to a book or to a collection of books, to a library. For what is a book in itself? A book is a physical object in a world of physical objects. It is a set of dead symbols. And then the right reader comes along, and the words - or rather the poetry behind the words, for the words themselves are mere symbols - spring to life, and we have a resurrection of the word.
+
+Jorge Luis Borges, "The Riddle of Poetry", Norton Lectures on Poetry, 1967
+
+> Anything we do that isn't coming from [natural giving] energy, we pay for it, and everybody else pays for it. Everything we do out of fear of punishment if we don't, everybody pays for it. Everythin we do for a reward, everybody pays for it. Everything we do to make people like us, everybody pays for it. Everything we do out of guilt, shame, duty, obligation, everybody pays for it. That is why weere designed to enjoy giving, and give from the heart.
+
+Marshal Rosenberg, "The Basics of Nonviolent Communication", April 2000
