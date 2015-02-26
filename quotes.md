@@ -455,3 +455,7 @@ Jorge Luis Borges, "The Riddle of Poetry", Norton Lectures on Poetry, 1967
 > Anything we do that isn't coming from [natural giving] energy, we pay for it, and everybody else pays for it. Everything we do out of fear of punishment if we don't, everybody pays for it. Everythin we do for a reward, everybody pays for it. Everything we do to make people like us, everybody pays for it. Everything we do out of guilt, shame, duty, obligation, everybody pays for it. That is why weere designed to enjoy giving, and give from the heart.
 
 Marshal Rosenberg, "The Basics of Nonviolent Communication", April 2000
+
+> Reality is that which, when you stop believing in it, doesn't go away.
+
+Philip K. Dick
