@@ -459,3 +459,7 @@ Marshal Rosenberg, "The Basics of Nonviolent Communication", April 2000
 > Reality is that which, when you stop believing in it, doesn't go away.
 
 Philip K. Dick
+
+> If someone's ungrateful and you tell him he's ungrateful, okay, you've called him a name. You haven't solved anything.
+
+Robert M. Pirsig, "Zen and the Art of Motorcycle Maintenance"
