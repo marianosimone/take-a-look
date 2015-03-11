@@ -98,3 +98,7 @@ C.A.R. Hoare
 > Another realization: choosing a tool is easy; adopting a tool is hard. One merely requires a decision; the other requires commitment.
 
 Elisabeth Hendrickson (@testobsessed)
+
+> The next important element in the concept of “beautiful code” is flexibility. I define flexibility here as freedom from enforcement from tools. When programmers are forced to do something against their intentions, for the tools’ sake, the result is stress. This stress negatively affects the programmer. The end result is far from happiness, and far from beauty as well, according to our definitions of beauty in code. Humans are more valuable than any tools or languages. Computers should serve programmers to maximize their productivity and happiness, but in reality, they often increase the burden instead of lightening it.
+
+Yukihiro Matsumoto, "Treating Code As an Essay" (from "Beautiful Code")
