@@ -463,3 +463,18 @@ Philip K. Dick
 > If someone's ungrateful and you tell him he's ungrateful, okay, you've called him a name. You haven't solved anything.
 
 Robert M. Pirsig, "Zen and the Art of Motorcycle Maintenance"
+
+> If you are tempted to reveal
+> A tale to you someone has told
+> About another, make it pass
+> Before you speak, three gates of gold.
+> These narrow gates: First, "is it true?"
+> Then, "is it needful?" In your mind
+> Give truthful answer.  And the next
+> Is last and narrowest, "Is it kind?"
+> And if to reach your lips at last
+> It passes through these gateways three,
+> Then you may tell the tale, nor fear,
+> What result of speech may be.
+
+Beth Day, "Three Gates"
