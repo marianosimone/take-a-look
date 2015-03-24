@@ -102,3 +102,15 @@ Elisabeth Hendrickson (@testobsessed)
 > The next important element in the concept of “beautiful code” is flexibility. I define flexibility here as freedom from enforcement from tools. When programmers are forced to do something against their intentions, for the tools’ sake, the result is stress. This stress negatively affects the programmer. The end result is far from happiness, and far from beauty as well, according to our definitions of beauty in code. Humans are more valuable than any tools or languages. Computers should serve programmers to maximize their productivity and happiness, but in reality, they often increase the burden instead of lightening it.
 
 Yukihiro Matsumoto, "Treating Code As an Essay" (from "Beautiful Code")
+
+> (...) a good engineer is not the one who knows how to build the most advanced system, but the one who knows when not to build that system.
+
+Leon Fayer, "[Your code may be elegant](http://omniti.com/seeds/your-code-may-be-elegant)"
+
+> We should forget about small efficiencies, say about 97% of the time: premature optimization is the root of all evil.
+
+Donald Knuth
+
+> Understanding what is and isn't "premature" is what separates senior engineers from junior engineers.
+
+Leon Fayer, "[Dissecting Today's Internet Traffic Spikes](http://omniti.com/seeds/dissecting-todays-internet-traffic-spikes)"
