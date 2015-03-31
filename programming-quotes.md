@@ -114,3 +114,7 @@ Donald Knuth
 > Understanding what is and isn't "premature" is what separates senior engineers from junior engineers.
 
 Leon Fayer, "[Dissecting Today's Internet Traffic Spikes](http://omniti.com/seeds/dissecting-todays-internet-traffic-spikes)"
+
+> Take a human desire, preferably one that has been around for a really long time…Identify that desire and use modern technology to take out steps
+
+Ev Williams
