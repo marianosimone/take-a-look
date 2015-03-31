@@ -478,3 +478,23 @@ Robert M. Pirsig, "Zen and the Art of Motorcycle Maintenance"
 > What result of speech may be.
 
 Beth Day, "Three Gates"
+
+> When you throw a rock into the water, it will speed on the fastest course to the bottom of the water. This is how it is when Siddhartha has a goal, a resolution. Siddhartha does nothing, he waits, he thinks, he fasts, but he passes through the things of the world like a rock through water, without doing anything, without stirring; he is drawn, he lets himself fall. His goal attracts him, because he doesn't let anything enter his soul which might oppose the goal. This is what Siddhartha has learned among the Samanas. This is what fools call magic and of which they think it would be effected by means of the daemons. Nothing is effected by daemons, there are no daemons. Everyone can perform magic, everyone can reach his goals, if he is able to think, if he is able to wait, if he is able to fast.
+
+Hermann Hesse, "Siddharttha"
+
+> Quoth Siddhartha: "What should I possibly have to tell you, oh venerable one? Perhaps that you're searching far too much? That in all that searching, you don't find the time for finding?" "How come?" asked Govinda. "When someone is searching," said Siddhartha, "then it might easily happen that the only thing his eyes still see is that what he searches for, that he is unable to find anything, to let anything enter his mind, because he always thinks of nothing but the object of his search, because he has a goal, because he is obsessed by the goal. Searching means: having a goal. But finding means: being free, being open, having no goal. You, oh venerable one, are perhaps indeed a searcher, because, striving for your goal, there are many things you don't see, which are directly in front of your eyes."
+
+Hermann Hesse, "Siddharttha"
+
+> Knowledge can be conveyed, but not wisdom. It can be found, it can be lived, it is possible to be carried by it, miracles can be performed with it, but it cannot be expressed in words and taught.
+
+Hermann Hesse, "Siddharttha"
+
+> The great English writer and dreamer Thomas De Quincey wrote - in some of the thousands of pages of his fourteen volumes - that to discover a new problem was quite as important as discovering the solution to an old one.
+
+Jorge Luis Borges, "The Riddle of Poetry", Norton Lectures on Poetry, 1967
+
+> The secret of happiness, you see, is not found in seeking more, but in developing the capacity to enjoy less.
+
+Socrates
