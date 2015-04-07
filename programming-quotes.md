@@ -125,3 +125,10 @@ Ev Williams
 > - Auditable: We must ensure that the data is credible to employees (and to investors, and friends, and whoever we show them too)
 
 Eric Ries, "The Lean Startup" (bite-sized-summary of metrics chapter)
+
+> "Three Strikes and Refactor"
+> - Refactor When You Add Function
+> - Refactor When You Need to Fix a Bug
+> - Refactor As You Do a Code Review
+
+Martin Fowler, "Refactoring: Improving the Design of Existing Code"
