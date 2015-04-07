@@ -118,3 +118,10 @@ Leon Fayer, "[Dissecting Today's Internet Traffic Spikes](http://omniti.com/seed
 > Take a human desire, preferably one that has been around for a really long time…Identify that desire and use modern technology to take out steps
 
 Ev Williams
+
+> Metrics should be:
+> - Actionable: For a report to be considered actionable, it must demonstrate clear cause and effect
+> -Accessible: First of all, make the reports as simple as possible so that everyone understands them. And then share and display them!
+> - Auditable: We must ensure that the data is credible to employees (and to investors, and friends, and whoever we show them too)
+
+Eric Ries, "The Lean Startup" (bite-sized-summary of metrics chapter)
