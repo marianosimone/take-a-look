@@ -498,3 +498,7 @@ Jorge Luis Borges, "The Riddle of Poetry", Norton Lectures on Poetry, 1967
 > The secret of happiness, you see, is not found in seeking more, but in developing the capacity to enjoy less.
 
 Socrates
+
+> Do you ever ask yourself if the language that you speak now interferes with your actual thoughts? Can a language of origin influence your thoughts?
+
+Ornette Coleman to Jacques Derrida on interview about Talk Improvisation, Language & Racism (1997)
