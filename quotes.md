@@ -464,6 +464,10 @@ Philip K. Dick
 
 Robert M. Pirsig, "Zen and the Art of Motorcycle Maintenance"
 
+> You look at where you’re going and where you are and it never makes sense, but then you look back at where you’ve been and a pattern seems to emerge.
+
+Robert M. Pirsig, "Zen and the Art of Motorcycle Maintenance"
+
 > If you are tempted to reveal
 > A tale to you someone has told
 > About another, make it pass
