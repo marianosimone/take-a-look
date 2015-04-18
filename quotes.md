@@ -506,3 +506,7 @@ Socrates
 > Do you ever ask yourself if the language that you speak now interferes with your actual thoughts? Can a language of origin influence your thoughts?
 
 Ornette Coleman to Jacques Derrida on interview about Talk Improvisation, Language & Racism (1997)
+
+> We should treat with indulgence every human folly, failing, and vice, bearing in mind that what we have before us are simply our own follies, failings, and vices. For they are just the failings of mankind to which we also belong; accordingly, we have in ourselves all its failings, and so those at which we are just now indignant, merely because they do not appear in us at this particular moment.
+
+Arthur Schopenhauer, "Parerga and Paralipomena: Short Philosophical Essays"
