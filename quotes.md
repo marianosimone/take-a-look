@@ -511,6 +511,10 @@ Socrates
 
 Ornette Coleman to Jacques Derrida on interview about Talk Improvisation, Language & Racism (1997)
 
+> I'm trying to express a concept according to which you can translate one thing into another. I think that sound has a much more democratic relationship to information, because you don't need the alphabet to understand music.
+
+Ornette Coleman
+
 > We should treat with indulgence every human folly, failing, and vice, bearing in mind that what we have before us are simply our own follies, failings, and vices. For they are just the failings of mankind to which we also belong; accordingly, we have in ourselves all its failings, and so those at which we are just now indignant, merely because they do not appear in us at this particular moment.
 
 Arthur Schopenhauer, "Parerga and Paralipomena: Short Philosophical Essays"
