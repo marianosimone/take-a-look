@@ -480,6 +480,15 @@ Robert M. Pirsig, "Zen and the Art of Motorcycle Maintenance"
 
 Robert M. Pirsig, "Zen and the Art of Motorcycle Maintenance"
 
+> Quality . . . you know what it is, yet you don't know what it is. But that's self-contradictory. But some things are better than others, that is, they have more quality. But when you try to say what the quality is, apart from the things that have it, it all goes poof! There's nothing to talk about. But if you can't say what Quality is, how do you know what it is, or how do you know that it even exists? If no one knows what it is, then for all practical purposes it doesn't exist at all. But for all practical purposes it really does exist…
+Why else would people pay fortunes for some things and throw others in the trash pile? Obviously some things are better than others... but what's the betterness?... So round and round you go, spinning mental wheels and nowhere finding anyplace to get traction. What the hell is Quality? What is it?
+
+Robert M. Pirsig, "Zen and the Art of Motorcycle Maintenance"
+
+> What you're up against is the great unknown, the void of all Western thought. You need some ideas, some hypotheses. Traditional scientific method, unfortunately, has never quite gotten around to say exactly where to pick up more of these hypotheses. Traditional scientific method has always been, at the very best, 20-20 hindsight. It's what you think you know, but it can't tell you where you ought to go, unless where you ought to go is a continuation of where you were going in the past. Creativity, originality, inventiveness, intuition, imagination -- "unstuckness" in other words - are completely outside its domain...
+
+Robert M. Pirsig, "Zen and the Art of Motorcycle Maintenance"
+
 > If you are tempted to reveal
 > A tale to you someone has told
 > About another, make it pass
