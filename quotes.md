@@ -472,6 +472,14 @@ Robert M. Pirsig, "Zen and the Art of Motorcycle Maintenance"
 
 Robert M. Pirsig, "Zen and the Art of Motorcycle Maintenance"
 
+> He became aware that the doctrinal differences among Hinduism and Buddhism and Taoism are not anywhere near as important as doctrinal differences among Christianity and Islam and Judaism. Holy wars are not fought over them because verbalized statements about reality are never presumed to be reality itself.
+
+Robert M. Pirsig, "Zen and the Art of Motorcycle Maintenance"
+
+> In all of the Oriental religions great value is placed on the Sanskrit doctrine of "Tat tvam asi", "Thou art that", which asserts that everything you think you are and everything you think you perceive are undivided. To realize fully this lack of division is to become enlightened.
+
+Robert M. Pirsig, "Zen and the Art of Motorcycle Maintenance"
+
 > If you are tempted to reveal
 > A tale to you someone has told
 > About another, make it pass
