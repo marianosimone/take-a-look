@@ -535,3 +535,7 @@ Ornette Coleman
 > We should treat with indulgence every human folly, failing, and vice, bearing in mind that what we have before us are simply our own follies, failings, and vices. For they are just the failings of mankind to which we also belong; accordingly, we have in ourselves all its failings, and so those at which we are just now indignant, merely because they do not appear in us at this particular moment.
 
 Arthur Schopenhauer, "Parerga and Paralipomena: Short Philosophical Essays"
+
+> It may look like a crisis, but it’s only the end of an illusion
+
+Gerlad M. Weinberg, "The Secrets of Consulting: A Guide to Giving and Getting Advice Successfully"
