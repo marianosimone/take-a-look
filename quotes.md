@@ -489,6 +489,11 @@ Robert M. Pirsig, "Zen and the Art of Motorcycle Maintenance"
 
 Robert M. Pirsig, "Zen and the Art of Motorcycle Maintenance"
 
+> You want to know how to paint a perfect painting? It's easy. Make yourself perfect and then just paint naturally. That's the way all the experts do it. The making of a painting or the fixing of a DeLorean isn't separate from the rest of your existence. If you're a sloppy thinker the six days of the week you aren't working on your car, what trap avoidances, what gimmicks, can make you all of a sudden sharp on the seventh? It all goes together.
+> But if you're a sloppy thinker six days a week and you really try to be sharp on the seventh, then maybe the next six days aren't going to be quite as sloppy as the preceding six. What I'm trying to come up with on these gumption traps, I guess, is shortcuts to living right.
+
+Robert M. Pirsig, "Zen and the Art of Motorcycle Maintenance"
+
 > If you are tempted to reveal
 > A tale to you someone has told
 > About another, make it pass
