@@ -544,3 +544,7 @@ Arthur Schopenhauer, "Parerga and Paralipomena: Short Philosophical Essays"
 > It may look like a crisis, but it’s only the end of an illusion
 
 Gerlad M. Weinberg, "The Secrets of Consulting: A Guide to Giving and Getting Advice Successfully"
+
+> Great art stretches the taste, it doesn't follow the tastes.
+
+Steve Jobs
