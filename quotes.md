@@ -494,6 +494,10 @@ Robert M. Pirsig, "Zen and the Art of Motorcycle Maintenance"
 
 Robert M. Pirsig, "Zen and the Art of Motorcycle Maintenance"
 
+> Technology is blamed for a lot of this loneliness, since the loneliness is certainly associated with the newer technological devices…the real evil isn’t the objects of technology but the tendency of technology to isolate people into lonely attitudes of objectivity. It’s the objectivity, the dualistic way of looking at things underlying technology, that produces the evil.
+
+Robert M. Pirsig, "Zen and the Art of Motorcycle Maintenance"
+
 > If you are tempted to reveal
 > A tale to you someone has told
 > About another, make it pass
