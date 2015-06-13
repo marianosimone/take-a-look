@@ -552,3 +552,11 @@ Gerlad M. Weinberg, "The Secrets of Consulting: A Guide to Giving and Getting Ad
 > Great art stretches the taste, it doesn't follow the tastes.
 
 Steve Jobs
+
+> It isn't the things that happen to us in our lives that cause us to suffer, it's how we relate to the things that happen to us that causes us to suffer.
+
+Pema Chodron
+
+> The problem isn't the external circumstances, which we can't control - the problem is holding tightly you your ideal of how people should behave, which we can control. We cannot stop others from being rude - but we can loosen our grip on our ideals
+
+Leo Babauta, "Zen Habits"
