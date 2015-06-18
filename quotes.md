@@ -545,6 +545,10 @@ Ornette Coleman
 
 Arthur Schopenhauer, "Parerga and Paralipomena: Short Philosophical Essays"
 
+> Talent hits a target no one else can hit. Genius hits a target no one else can see.
+
+Arthur Schopenhauer
+
 > It may look like a crisis, but it’s only the end of an illusion
 
 Gerlad M. Weinberg, "The Secrets of Consulting: A Guide to Giving and Getting Advice Successfully"
