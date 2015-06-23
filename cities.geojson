@@ -9,7 +9,7 @@
       },
       "properties": {
         "marker-symbol": "building",
-        "name": "Mar del Plata",
+        "name": "Mar del Plata"
       }
     },
     {
@@ -20,7 +20,7 @@
       },
       "properties": {
         "marker-symbol": "building",
-        "name": "Buenos Aires",
+        "name": "Buenos Aires"
       }
     },
     {
@@ -31,7 +31,7 @@
       },
       "properties": {
         "marker-symbol": "building",
-        "name": "New York",
+        "name": "New York"
       }
     },
     {
@@ -42,7 +42,7 @@
       },
       "properties": {
         "marker-symbol": "marker",
-        "name": "Beijing",
+        "name": "Beijing"
       }
     }
   ]
