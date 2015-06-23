@@ -188,7 +188,8 @@
         "coordinates": [-73.97103,40.67556]
       },
       "properties": {
-        "name": "Brooklyn, NY, USA"
+        "name": "Brooklyn, NY, USA",
+        "marker-symbol": "building"
       }
     },
     {
@@ -1310,8 +1311,7 @@
         "coordinates": [-74.00584,40.713238]
       },
       "properties": {
-        "name": "New York City, NY, USA",
-        "marker-symbol": "building"
+        "name": "New York City, NY, USA"
       }
     },
     {
