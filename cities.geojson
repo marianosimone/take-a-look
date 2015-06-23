@@ -41,7 +41,7 @@
         "coordinates": [ 116.383333, 39.916667 ]
       },
       "properties": {
-        "marker-symbol": "building",
+        "marker-symbol": "marker",
         "name": "Beijing",
       }
     },
