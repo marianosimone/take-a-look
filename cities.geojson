@@ -1,0 +1,49 @@
+{
+  "type": "FeatureCollection",
+  "features": [
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [ -57.55, -38 ]
+      },
+      "properties": {
+        "marker-symbol": "building",
+        "name": "Mar del Plata",
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [ -58.381667, -34.603333 ]
+      },
+      "properties": {
+        "marker-symbol": "building",
+        "name": "Buenos Aires",
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [ -74.0059, 40.7127 ]
+      },
+      "properties": {
+        "marker-symbol": "building",
+        "name": "New York",
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [ 116.383333, 39.916667 ]
+      },
+      "properties": {
+        "marker-symbol": "building",
+        "name": "Beijing",
+      }
+    },
+  ]
+}
