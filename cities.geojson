@@ -2,46 +2,1356 @@
   "type": "FeatureCollection",
   "features": [
     {
-      "type": "Feature",
+      "type":"Feature",
       "geometry": {
         "type": "Point",
-        "coordinates": [ -57.55, -38 ]
+        "coordinates": [2.169576,41.385597]
       },
       "properties": {
-        "marker-symbol": "building",
-        "name": "Mar del Plata"
+        "name": "Barcelona, Spain"
       }
     },
     {
-      "type": "Feature",
+      "type":"Feature",
       "geometry": {
         "type": "Point",
-        "coordinates": [ -58.381667, -34.603333 ]
+        "coordinates": [-65.34889,-23.199722]
       },
       "properties": {
-        "marker-symbol": "building",
-        "name": "Buenos Aires"
+        "name": "Humahuaca, Argentina"
       }
     },
     {
-      "type": "Feature",
+      "type":"Feature",
       "geometry": {
         "type": "Point",
-        "coordinates": [ -74.0059, 40.7127 ]
+        "coordinates": [-82.462524,27.943573]
       },
       "properties": {
-        "marker-symbol": "building",
-        "name": "New York"
+        "name": "Tampa, FL, USA"
       }
     },
     {
-      "type": "Feature",
+      "type":"Feature",
       "geometry": {
         "type": "Point",
-        "coordinates": [ 116.383333, 39.916667 ]
+        "coordinates": [-68.788315,-32.980873]
       },
       "properties": {
-        "name": "Beijing"
+        "name": "Maipu, Argentina"
+      }
+    },
+    {
+      "type":"Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [-65.39654,-23.576897]
+      },
+      "properties": {
+        "name": "Tilcara, Argentina"
+      }
+    },
+    {
+      "type":"Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [6.874358,48.75011]
+      },
+      "properties": {
+        "name": "Rhodes, France"
+      }
+    },
+    {
+      "type":"Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [19.948544,50.05449]
+      },
+      "properties": {
+        "name": "Krakow, Poland"
+      }
+    },
+    {
+      "type":"Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [-54.935806,-34.937096]
+      },
+      "properties": {
+        "name": "Punta del Este, Uruguay"
+      }
+    },
+    {
+      "type":"Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [-9.138085,38.71211]
+      },
+      "properties": {
+        "name": "Lisbon, Portugal"
+      }
+    },
+    {
+      "type":"Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [-57.77744,-37.945717]
+      },
+      "properties": {
+        "name": "Sierra de los Padres, Argentina"
+      }
+    },
+    {
+      "type":"Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [-68.14605,-16.49827]
+      },
+      "properties": {
+        "name": "La Paz, Bolivia"
+      }
+    },
+    {
+      "type":"Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [-54.56604,-25.51356]
+      },
+      "properties": {
+        "name": "Foz do Iguacu, Brazil"
+      }
+    },
+    {
+      "type":"Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [-72.53369,-13.181424]
+      },
+      "properties": {
+        "name": "Machu Picchu, Peru"
+      }
+    },
+    {
+      "type":"Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [-64.34678,-33.12895]
+      },
+      "properties": {
+        "name": "Rio Cuarto, Argentina"
+      }
+    },
+    {
+      "type":"Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [-111.90102,40.76258]
+      },
+      "properties": {
+        "name": "Salt Lake City, UT, USA"
+      }
+    },
+    {
+      "type":"Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [113.12833,23.021389]
+      },
+      "properties": {
+        "name": "Foshan, China"
+      }
+    },
+    {
+      "type":"Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [-66.821465,-20.458752]
+      },
+      "properties": {
+        "name": "Uyuni, Bolivia"
+      }
+    },
+    {
+      "type":"Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [-65.40985,-24.785955]
+      },
+      "properties": {
+        "name": "Salta, Argentina"
+      }
+    },
+    {
+      "type":"Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [-73.97103,40.67556]
+      },
+      "properties": {
+        "name": "Brooklyn, NY, USA"
+      }
+    },
+    {
+      "type":"Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [116.5318,35.532776]
+      },
+      "properties": {
+        "name": "Jining, China"
+      }
+    },
+    {
+      "type":"Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [-65.49997,-23.73342]
+      },
+      "properties": {
+        "name": "Purmamarca, Argentina"
+      }
+    },
+    {
+      "type":"Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [2.349401,48.857037]
+      },
+      "properties": {
+        "name": "Paris, France"
+      }
+    },
+    {
+      "type":"Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [-0.377154,39.473854]
+      },
+      "properties": {
+        "name": "Valencia, Spain"
+      }
+    },
+    {
+      "type":"Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [-71.6283,-33.03716]
+      },
+      "properties": {
+        "name": "Valparaiso, Chile"
+      }
+    },
+    {
+      "type":"Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [-70.64779,-33.43771]
+      },
+      "properties": {
+        "name": "Santiago, Chile"
+      }
+    },
+    {
+      "type":"Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [117.09345,36.13542]
+      },
+      "properties": {
+        "name": "Tai'an, China"
+      }
+    },
+    {
+      "type":"Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [-59.10546,-34.56923]
+      },
+      "properties": {
+        "name": "Lujan, Argentina"
+      }
+    },
+    {
+      "type":"Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [-0.132022,38.544544]
+      },
+      "properties": {
+        "name": "Benidorm, Spain"
+      }
+    },
+    {
+      "type":"Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [0.046009,38.646122]
+      },
+      "properties": {
+        "name": "Calpe, Spain"
+      }
+    },
+    {
+      "type":"Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [-80.13456,25.793701]
+      },
+      "properties": {
+        "name": "Miami Beach, FL, USA"
+      }
+    },
+    {
+      "type":"Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [100.6075,13.803611]
+      },
+      "properties": {
+        "name": "Bangkok, Thailand"
+      }
+    },
+    {
+      "type":"Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [113.01936,34.45596]
+      },
+      "properties": {
+        "name": "Dengfeng, China"
+      }
+    },
+    {
+      "type":"Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [-80.190445,25.781275]
+      },
+      "properties": {
+        "name": "Miami, FL, USA"
+      }
+    },
+    {
+      "type":"Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [1.44303,43.603947]
+      },
+      "properties": {
+        "name": "Toulouse, France"
+      }
+    },
+    {
+      "type":"Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [-57.564903,-38.034485]
+      },
+      "properties": {
+        "name": "Mar del Plata, Argentina",
+        "marker-symbol": "building"
+      }
+    },
+    {
+      "type":"Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [-57.94247,-34.920105]
+      },
+      "properties": {
+        "name": "La Plata, Argentina"
+      }
+    },
+    {
+      "type":"Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [-58.02264,-35.56637]
+      },
+      "properties": {
+        "name": "Chascomus, Argentina"
+      }
+    },
+    {
+      "type":"Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [-3.700708,40.41471]
+      },
+      "properties": {
+        "name": "Madrid, Spain"
+      }
+    },
+    {
+      "type":"Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [-56.899395,-37.158947]
+      },
+      "properties": {
+        "name": "Carilo, Argentina"
+      }
+    },
+    {
+      "type":"Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [103.54236,10.641693]
+      },
+      "properties": {
+        "name": "Sihanoukville, Cambodia"
+      }
+    },
+    {
+      "type":"Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [-70.59482,-32.820747]
+      },
+      "properties": {
+        "name": "Los Andes, Chile"
+      }
+    },
+    {
+      "type":"Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [-62.26904,-38.72116]
+      },
+      "properties": {
+        "name": "Bahia Blanca, Argentina"
+      }
+    },
+    {
+      "type":"Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [-1.128515,37.984093]
+      },
+      "properties": {
+        "name": "Murcia, Spain"
+      }
+    },
+    {
+      "type":"Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [-58.39562,-34.58881]
+      },
+      "properties": {
+        "name": "Buenos Aires, Argentina",
+        "marker-symbol": "building"
+      }
+    },
+    {
+      "type":"Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [-55.2743,-34.86819]
+      },
+      "properties": {
+        "name": "Piriapolis, Uruguay"
+      }
+    },
+    {
+      "type":"Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [-54.570644,-25.598528]
+      },
+      "properties": {
+        "name": "Puerto Iguazu, Argentina"
+      }
+    },
+    {
+      "type":"Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [112.46735,34.66579]
+      },
+      "properties": {
+        "name": "Luoyang, China"
+      }
+    },
+    {
+      "type":"Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [-60.66901,-32.95507]
+      },
+      "properties": {
+        "name": "Rosario, Argentina"
+      }
+    },
+    {
+      "type":"Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [116.99379,36.66216]
+      },
+      "properties": {
+        "name": "Jinan, China"
+      }
+    },
+    {
+      "type":"Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [-1.439755,40.409576]
+      },
+      "properties": {
+        "name": "Albarracin, Spain"
+      }
+    },
+    {
+      "type":"Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [121.48737,31.234953]
+      },
+      "properties": {
+        "name": "Shanghai, China"
+      }
+    },
+    {
+      "type":"Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [98.346466,7.918059]
+      },
+      "properties": {
+        "name": "Phuket, Thailand"
+      }
+    },
+    {
+      "type":"Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [-56.168724,-34.90726]
+      },
+      "properties": {
+        "name": "Montevideo, Uruguay"
+      }
+    },
+    {
+      "type":"Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [-59.03329,-34.10178]
+      },
+      "properties": {
+        "name": "Zarate, Argentina"
+      }
+    },
+    {
+      "type":"Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [-57.835003,-34.466022]
+      },
+      "properties": {
+        "name": "Colonia del Sacramento, Uruguay"
+      }
+    },
+    {
+      "type":"Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [-58.572475,-34.422028]
+      },
+      "properties": {
+        "name": "Tigre, Argentina"
+      }
+    },
+    {
+      "type":"Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [-56.975098,-37.243446]
+      },
+      "properties": {
+        "name": "Valeria del Mar, Argentina"
+      }
+    },
+    {
+      "type":"Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [-68.209114,-22.922005]
+      },
+      "properties": {
+        "name": "San Pedro de Atacama, Chile"
+      }
+    },
+    {
+      "type":"Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [-69.58437,-35.469105]
+      },
+      "properties": {
+        "name": "Malargue, Argentina"
+      }
+    },
+    {
+      "type":"Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [-56.97029,-37.260124]
+      },
+      "properties": {
+        "name": "Villa Gesell, Argentina"
+      }
+    },
+    {
+      "type":"Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [104.92013,11.563291]
+      },
+      "properties": {
+        "name": "Phnom Penh, Cambodia"
+      }
+    },
+    {
+      "type":"Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [-64.18995,-31.40833]
+      },
+      "properties": {
+        "name": "Cordoba, Argentina"
+      }
+    },
+    {
+      "type":"Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [114.17359,22.309187]
+      },
+      "properties": {
+        "name": "Hong Kong, China"
+      }
+    },
+    {
+      "type":"Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [100.2461,26.678831]
+      },
+      "properties": {
+        "name": "Lijiang, China"
+      }
+    },
+    {
+      "type":"Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [-54.674664,-25.504333]
+      },
+      "properties": {
+        "name": "Ciudad Del Este, Paraguay"
+      }
+    },
+    {
+      "type":"Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [-58.286964,-34.004364]
+      },
+      "properties": {
+        "name": "Carmelo, Uruguay"
+      }
+    },
+    {
+      "type":"Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [-71.071686,-39.941364]
+      },
+      "properties": {
+        "name": "Junin de los Andes, Argentina"
+      }
+    },
+    {
+      "type":"Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [104.1833,10.609783]
+      },
+      "properties": {
+        "name": "Kampot, Cambodia"
+      }
+    },
+    {
+      "type":"Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [-0.612778,38.765835]
+      },
+      "properties": {
+        "name": "Bocairente, Spain"
+      }
+    },
+    {
+      "type":"Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [104.32583,10.541484]
+      },
+      "properties": {
+        "name": "Kep, Cambodia"
+      }
+    },
+    {
+      "type":"Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [-64.486664,-31.092186]
+      },
+      "properties": {
+        "name": "La Falda, Argentina"
+      }
+    },
+    {
+      "type":"Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [-79.07091,43.101624]
+      },
+      "properties": {
+        "name": "Niagara Falls, Ontario, Canada"
+      }
+    },
+    {
+      "type":"Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [-58.735733,-38.554516]
+      },
+      "properties": {
+        "name": "Necochea, Argentina"
+      }
+    },
+    {
+      "type":"Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [-58.908173,-34.457253]
+      },
+      "properties": {
+        "name": "Pilar, Argentina"
+      }
+    },
+    {
+      "type":"Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [-57.842274,-38.26923]
+      },
+      "properties": {
+        "name": "Miramar, Argentina"
+      }
+    },
+    {
+      "type":"Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [-56.722412,-36.377068]
+      },
+      "properties": {
+        "name": "San Clemente del Tuyu, Argentina"
+      }
+    },
+    {
+      "type":"Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [0.125567,38.696236]
+      },
+      "properties": {
+        "name": "Moraira, Spain"
+      }
+    },
+    {
+      "type":"Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [-56.858707,-37.11177]
+      },
+      "properties": {
+        "name": "Pinamar, Argentina"
+      }
+    },
+    {
+      "type":"Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [-56.68345,-36.69719]
+      },
+      "properties": {
+        "name": "San Bernardo, Argentina"
+      }
+    },
+    {
+      "type":"Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [98.76531,7.740675]
+      },
+      "properties": {
+        "name": "Ko Phi Phi Don, Thailand"
+      }
+    },
+    {
+      "type":"Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [-71.5155,-41.966637]
+      },
+      "properties": {
+        "name": "El Bolson, Argentina"
+      }
+    },
+    {
+      "type":"Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [-1.105238,40.34083]
+      },
+      "properties": {
+        "name": "Teruel, Spain"
+      }
+    },
+    {
+      "type":"Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [101.69717,3.156802]
+      },
+      "properties": {
+        "name": "Kuala Lumpur, Malaysia"
+      }
+    },
+    {
+      "type":"Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [-58.52066,-34.47839]
+      },
+      "properties": {
+        "name": "San Isidro, Argentina"
+      }
+    },
+    {
+      "type":"Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [-71.55738,-33.02315]
+      },
+      "properties": {
+        "name": "Vina del Mar, Chile"
+      }
+    },
+    {
+      "type":"Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [-77.6809,43.16486]
+      },
+      "properties": {
+        "name": "Rochester, NY, USA"
+      }
+    },
+    {
+      "type":"Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [113.55499,22.163845]
+      },
+      "properties": {
+        "name": "Macau, China"
+      }
+    },
+    {
+      "type":"Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [-5.004349,34.026806]
+      },
+      "properties": {
+        "name": "Fes, Morocco"
+      }
+    },
+    {
+      "type":"Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [-3.605812,37.176136]
+      },
+      "properties": {
+        "name": "Granada, Spain"
+      }
+    },
+    {
+      "type":"Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [21.00948,52.23537]
+      },
+      "properties": {
+        "name": "Warsaw, Poland"
+      }
+    },
+    {
+      "type":"Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [-5.990674,37.383396]
+      },
+      "properties": {
+        "name": "Seville, Spain"
+      }
+    },
+    {
+      "type":"Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [-59.136253,-37.31446]
+      },
+      "properties": {
+        "name": "Tandil, Argentina"
+      }
+    },
+    {
+      "type":"Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [-61.797966,-38.134678]
+      },
+      "properties": {
+        "name": "Sierra De la Ventana, Argentina"
+      }
+    },
+    {
+      "type":"Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [-66.33715,-33.300873]
+      },
+      "properties": {
+        "name": "San Luis, Argentina"
+      }
+    },
+    {
+      "type":"Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [-65.04822,-42.775402]
+      },
+      "properties": {
+        "name": "Puerto Madryn, Argentina"
+      }
+    },
+    {
+      "type":"Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [-68.5261,-31.5342]
+      },
+      "properties": {
+        "name": "San Juan, Argentina"
+      }
+    },
+    {
+      "type":"Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [-64.26727,-42.583424]
+      },
+      "properties": {
+        "name": "Puerto Piramides, Argentina"
+      }
+    },
+    {
+      "type":"Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [-57.5,-37.83333]
+      },
+      "properties": {
+        "name": "Santa Clara del Mar, Argentina"
+      }
+    },
+    {
+      "type":"Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [-65.2918,-43.23565]
+      },
+      "properties": {
+        "name": "Trelew, Argentina"
+      }
+    },
+    {
+      "type":"Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [-65.03344,-32.348534]
+      },
+      "properties": {
+        "name": "Merlo, Argentina"
+      }
+    },
+    {
+      "type":"Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [-72.51582,-13.162849]
+      },
+      "properties": {
+        "name": "Aguas Calientes, Peru"
+      }
+    },
+    {
+      "type":"Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [108.93585,34.25381]
+      },
+      "properties": {
+        "name": "Xi'an, China"
+      }
+    },
+    {
+      "type":"Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [113.24516,23.109507]
+      },
+      "properties": {
+        "name": "Guangzhou, China"
+      }
+    },
+    {
+      "type":"Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [-62.19646,-38.153996]
+      },
+      "properties": {
+        "name": "Villa Ventana, Argentina"
+      }
+    },
+    {
+      "type":"Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [-4.422782,36.718468]
+      },
+      "properties": {
+        "name": "Malaga, Spain"
+      }
+    },
+    {
+      "type":"Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [-81.38888,28.532557]
+      },
+      "properties": {
+        "name": "Orlando, FL, USA"
+      }
+    },
+    {
+      "type":"Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [-57.02247,-37.327644]
+      },
+      "properties": {
+        "name": "Mar de las Pampas, Argentina"
+      }
+    },
+    {
+      "type":"Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [-0.512085,38.330406]
+      },
+      "properties": {
+        "name": "Cocentaina, Spain"
+      }
+    },
+    {
+      "type":"Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [-6.295243,36.530533]
+      },
+      "properties": {
+        "name": "Cadiz, Spain"
+      }
+    },
+    {
+      "type":"Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [-4.779073,37.88069]
+      },
+      "properties": {
+        "name": "Cordoba, Spain"
+      }
+    },
+    {
+      "type":"Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [-43.946056,-19.923758]
+      },
+      "properties": {
+        "name": "Belo Horizonte, Brazil"
+      }
+    },
+    {
+      "type":"Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [3.551015,43.3338]
+      },
+      "properties": {
+        "name": "Sete, France"
+      }
+    },
+    {
+      "type":"Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [-0.484558,38.344032]
+      },
+      "properties": {
+        "name": "Alicante, Spain"
+      }
+    },
+    {
+      "type":"Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [-68.05878,-38.95264]
+      },
+      "properties": {
+        "name": "Neuquen, Argentina"
+      }
+    },
+    {
+      "type":"Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [-64.56507,-31.977182]
+      },
+      "properties": {
+        "name": "Villa General Belgrano, Argentina"
+      }
+    },
+    {
+      "type":"Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [-70.14561,-20.217712]
+      },
+      "properties": {
+        "name": "Iquique, Chile"
+      }
+    },
+    {
+      "type":"Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [-71.3516,-40.155983]
+      },
+      "properties": {
+        "name": "San Martin de los Andes, Argentina"
+      }
+    },
+    {
+      "type":"Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [-71.64525,-40.762123]
+      },
+      "properties": {
+        "name": "Villa La Angostura, Argentina"
+      }
+    },
+    {
+      "type":"Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [-64.499275,-31.420782]
+      },
+      "properties": {
+        "name": "Villa Carlos Paz, Argentina"
+      }
+    },
+    {
+      "type":"Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [-62.99478,-40.80639]
+      },
+      "properties": {
+        "name": "Viedma, Argentina"
+      }
+    },
+    {
+      "type":"Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [-64.99237,-40.749336]
+      },
+      "properties": {
+        "name": "Las Grutas, Argentina"
+      }
+    },
+    {
+      "type":"Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [-71.29987,-41.13738]
+      },
+      "properties": {
+        "name": "San Carlos de Bariloche, Argentina"
+      }
+    },
+    {
+      "type":"Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [-2.463083,36.84186]
+      },
+      "properties": {
+        "name": "Almeria, Spain"
+      }
+    },
+    {
+      "type":"Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [-72.92716,41.3044]
+      },
+      "properties": {
+        "name": "New Haven, CT, USA"
+      }
+    },
+    {
+      "type":"Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [-60.92844,-34.51459]
+      },
+      "properties": {
+        "name": "Junin, Argentina"
+      }
+    },
+    {
+      "type":"Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [-69.35269,-32.601425]
+      },
+      "properties": {
+        "name": "Uspallata, Argentina"
+      }
+    },
+    {
+      "type":"Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [-68.32793,-34.611652]
+      },
+      "properties": {
+        "name": "San Rafael, Argentina"
+      }
+    },
+    {
+      "type":"Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [-68.82872,-32.87494]
+      },
+      "properties": {
+        "name": "Mendoza, Argentina"
+      }
+    },
+    {
+      "type":"Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [-0.5121,38.38269]
+      },
+      "properties": {
+        "name": "Sant Vicent del Raspeig, Spain"
+      }
+    },
+    {
+      "type":"Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [-71.96856,-13.521886]
+      },
+      "properties": {
+        "name": "Cusco, Peru"
+      }
+    },
+    {
+      "type":"Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [-74.00584,40.713238]
+      },
+      "properties": {
+        "name": "New York City, NY, USA",
+        "marker-symbol": "building"
+      }
+    },
+    {
+      "type":"Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [-0.044843,38.632034]
+      },
+      "properties": {
+        "name": "Altea la Vella, Spain"
+      }
+    },
+    {
+      "type":"Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [116.39452,39.909336]
+      },
+      "properties": {
+        "name": "Beijing, China"
+      }
+    },
+    {
+      "type":"Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [103.86083,13.363545]
+      },
+      "properties": {
+        "name": "Siem Reap, Cambodia"
+      }
+    },
+    {
+      "type":"Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [8.645418,50.161385]
+      },
+      "properties": {
+        "name": "Frankfurt, Germany"
       }
     }
   ]
