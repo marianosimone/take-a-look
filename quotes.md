@@ -568,3 +568,7 @@ Leo Babauta, "Zen Habits"
 > Arthur had much to say about the difference between men of genius and men of talent. In addition to his comment that men of talent could hit a target that others could not reach, whereas men of genius could hit a target that others could not see, Arthur pointed out that men of talent are called into being by the needs of the age and are capable of satisfying these needs, but their works soon fade away and disappear during the next generation. (Was he thinking of his mother's works?) «But the genius lights on his age like a comet into the paths of the planets... he cannot go hand in hand with the regular course of the culture: on the contrary he casts his works far out onto the path in front.»
 
 Irving Yalom, "The Schopenhauer Cure"
+
+> The science without the art is likely to be ineffective; the art without the science is certain to be inaccurate.
+
+Albert H. Marckwardt 
