@@ -572,3 +572,10 @@ Irving Yalom, "The Schopenhauer Cure"
 > The science without the art is likely to be ineffective; the art without the science is certain to be inaccurate.
 
 Albert H. Marckwardt 
+
+> If you respond in anger when other harms you,
+> Does your wrath remove the harm inflected?
+> Resentment surely serves no purpose in this life
+> And brings adversity in lives to come
+
+Chandrakirti, "Luminous"
