@@ -6,6 +6,7 @@
 - [Museum Hack](http://www.museumhack.com): A funny (albeit a bit pricy) way to go around some museums (for example the Met) with a group of guides who love art/history and know some cool facts/tips/secrets
 - [Brooklyn Botanic Garden](http://www.bbg.org/) Awesome japanase garden, cherry blossoms, bonsai museum, roses collection, herbal garden
 - [Governors Island](http://govisland.com/): Get some awesome downtown Manhattan, Statue of Liberty and Brooklyn Bridge views from an island that is 10 minutes away by ferry from Brooklyn or Manhattan. You get to see an old fort, gardens, contemporary art, etc.
+- [Kayak from Public Boat Houses](http://www.downtownboathouse.org) (Multiple piers in Manhattan and Brooklyn): You can get free instruction and at least 20 min's worth of free kayaking. Nice outdoors activity, with awesome views from both rivers
 
 ## Eat & Drink
 
@@ -17,3 +18,6 @@
 - [Bareburger](http://www.bareburger.com) (Multiple locations): Lots of (awesome) different burgers (even vegetarian/vegan!)
 - [The Meatball Shop](http://themeatballshop.com/) (Multiple locations): Lots of (awesome) different meatballs and salads (even vegetarian!)
 - [Ample Hills Creamery](http://amplehills.com/) (Prospect, Gowanus, Brooklyn Bridge, etc.): Tasty icecreams and ice cakes
+- [La Newyorkina](http://lanewyorkina.com) (Multiple locations): Specially good fruity "paletas" (popsicles)
+- [Chinatown Ice Cream Factory](http://www.chinatownicecreamfactory.com/) (Chinatown, Manhattan): Italian-american style icecreams, with some Chinese flavors. If you like ginger, try that one ;)
+- [Empanadas Son](http://www.empanadasson.com) (Manhattan, under Williambsburg bridge): Best argentinian empanadas in NY (traditional flavors, plus some weird ones)
