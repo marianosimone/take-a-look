@@ -7,6 +7,7 @@
 # Dev Utils
 
 - [Regexper](http://www.regexper.com): Visualy explain a regular expression
+- [RegExr](http://regexr.com): Another regex visualizer/explainer
 - [livecoding](http://livecoding.io): html+javascript+ccs+json online IDE with examples for charts and visualizations and instant feedback
 - [yUML](http://yuml.me): Create and share simple UML diagrams in your blogs, wikis, forums, bug-trackers and emails
 
