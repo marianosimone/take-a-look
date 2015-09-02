@@ -155,6 +155,16 @@
       "type": "Feature",
       "geometry": {
         "type": "Point",
+        "coordinates": [-122.4376,37.7577]
+      },
+      "properties": {
+        "name": "San Francisco, CA, USA"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
         "coordinates": [113.12833,23.021389]
       },
       "properties": {
