@@ -579,3 +579,11 @@ Albert H. Marckwardt
 > And brings adversity in lives to come
 
 Chandrakirti, "Luminous"
+
+> The right to be right (in your manager's eyes or in your government's eyes) is irrelevant; it's only the right to be wrong that makes you free.
+
+Tom DeMarco & Timothy Lister, "Peopleware"
+
+> Everything that increases the general security is likely to diminish cruelty. This applies to prevention of war, whether through the instrumentality of the League of Nations, or otherwise; to prevention of destitution; to better health by improvement in medicine, hygiene, and sanitation; and to all other methods of lessing the terrors that lurk in the abysses of men's minds and emerge as nightmares when they sleep. But nothing is accomplished by an attempt to make a portion of mankind secure at the expense of another portion - Frenchmen at the expense of Germans, capitalists at the expense of wage earners, white men at the expense of yellow men, and so on. Such methods only increase terror in the dominant group, lest just resentment should lead the oppressed to rebel. Only justice can give security; and by "justice" I mean the recognition of the equal claims of all human beings.
+
+Bertrand Russell, "Why I Am Not A Christian"
