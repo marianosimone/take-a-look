@@ -225,7 +225,7 @@
       "type": "Feature",
       "geometry": {
         "type": "Point",
-        "coordinates": [-122.3688785,37.7918785]
+        "coordinates": [-122.270833,37.804444]
       },
       "properties": {
         "name": "Oakland, CA, USA"
@@ -235,7 +235,7 @@
       "type": "Feature",
       "geometry": {
         "type": "Point",
-        "coordinates": [-122.350662,37.8759263]
+        "coordinates": [-122.272778,37.871667]
       },
       "properties": {
         "name": "Berkeley, CA, USA",
