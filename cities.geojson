@@ -165,7 +165,27 @@
       "type": "Feature",
       "geometry": {
         "type": "Point",
-        "coordinates": [-112.2221262,36.0458205]
+        "coordinates": [-122.298889,38.304722]
+      },
+      "properties": {
+        "name": "Napa, CA, USA"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [-122.458889,38.288889]
+      },
+      "properties": {
+        "name": "Sonoma, CA, USA"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [-112.139444,36.053333]
       },
       "properties": {
         "name": "Grand Canyon Village, AZ, USA"
@@ -175,7 +195,7 @@
       "type": "Feature",
       "geometry": {
         "type": "Point",
-        "coordinates": [-118.6919205, 34.0201812]
+        "coordinates": [-118.25,34.05]
       },
       "properties": {
         "name": "Los Angeles, CA, USA"
@@ -185,7 +205,7 @@
       "type": "Feature",
       "geometry": {
         "type": "Point",
-        "coordinates": [-120.1309395, 34.6085714]
+        "coordinates": [-120.088333,34.611944]
       },
       "properties": {
         "name": "Santa Ynes, CA, USA"
@@ -195,7 +215,7 @@
       "type": "Feature",
       "geometry": {
         "type": "Point",
-        "coordinates": [-120.1366417,34.6663093]
+        "coordinates": [-120.1175,34.663889]
       },
       "properties": {
         "name": "Los Olivos, CA, USA"
@@ -205,7 +225,7 @@
       "type": "Feature",
       "geometry": {
         "type": "Point",
-        "coordinates": [-120.7404261,35.2724759]
+        "coordinates": [-120.663056,35.274167]
       },
       "properties": {
         "name": "San Luis Obispo, CA, USA"
@@ -215,7 +235,7 @@
       "type": "Feature",
       "geometry": {
         "type": "Point",
-        "coordinates": [-121.9310783,36.5526466]
+        "coordinates": [-121.923333,36.555278]
       },
       "properties": {
         "name": "Carmel-By-The-Sea, CA, USA"
@@ -246,7 +266,7 @@
       "type": "Feature",
       "geometry": {
         "type": "Point",
-        "coordinates": [-115.4551869,36.1246738]
+        "coordinates": [-115.136389,36.175]
       },
       "properties": {
         "name": "Las Vegas, NV, USA"
