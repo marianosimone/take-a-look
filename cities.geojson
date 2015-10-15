@@ -165,6 +165,97 @@
       "type": "Feature",
       "geometry": {
         "type": "Point",
+        "coordinates": [-112.2221262,36.0458205]
+      },
+      "properties": {
+        "name": "Grand Canyon Village, AZ, USA"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [-118.6919205, 34.0201812]
+      },
+      "properties": {
+        "name": "Los Angeles, CA, USA"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [-120.1309395, 34.6085714]
+      },
+      "properties": {
+        "name": "Santa Ynes, CA, USA"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [-120.1366417,34.6663093]
+      },
+      "properties": {
+        "name": "Los Olivos, CA, USA"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [-120.7404261,35.2724759]
+      },
+      "properties": {
+        "name": "San Luis Obispo, CA, USA"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [-121.9310783,36.5526466]
+      },
+      "properties": {
+        "name": "Carmel-By-The-Sea, CA, USA"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [-122.3688785,37.7918785]
+      },
+      "properties": {
+        "name": "Oakland, CA, USA"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [-122.350662,37.8759263]
+      },
+      "properties": {
+        "name": "Berkeley, CA, USA",
+        "marker-symbol": "building"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [-115.4551869,36.1246738]
+      },
+      "properties": {
+        "name": "Las Vegas, NV, USA"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
         "coordinates": [113.12833,23.021389]
       },
       "properties": {
