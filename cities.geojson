@@ -1514,6 +1514,16 @@
       "properties": {
         "name": "Qingdao, China"
       }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [-99.133333, 19.433333]
+      },
+      "properties": {
+        "name": "Distrito Federal, México"
+      }
     }
   ]
 }
