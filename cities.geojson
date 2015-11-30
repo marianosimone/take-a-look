@@ -175,6 +175,16 @@
       "type": "Feature",
       "geometry": {
         "type": "Point",
+        "coordinates": [-120.653889,35.640833]
+      },
+      "properties": {
+        "name": "Paso Robles, CA, USA"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
         "coordinates": [-122.458889,38.288889]
       },
       "properties": {
