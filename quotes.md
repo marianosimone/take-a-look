@@ -587,3 +587,7 @@ Tom DeMarco & Timothy Lister, "Peopleware"
 > Everything that increases the general security is likely to diminish cruelty. This applies to prevention of war, whether through the instrumentality of the League of Nations, or otherwise; to prevention of destitution; to better health by improvement in medicine, hygiene, and sanitation; and to all other methods of lessing the terrors that lurk in the abysses of men's minds and emerge as nightmares when they sleep. But nothing is accomplished by an attempt to make a portion of mankind secure at the expense of another portion - Frenchmen at the expense of Germans, capitalists at the expense of wage earners, white men at the expense of yellow men, and so on. Such methods only increase terror in the dominant group, lest just resentment should lead the oppressed to rebel. Only justice can give security; and by "justice" I mean the recognition of the equal claims of all human beings.
 
 Bertrand Russell, "Why I Am Not A Christian"
+
+> The way of learning builds up from comparison, this applies to boxing as well. When comparing skills, there is victory or defeat, but one’s personality is not harmed by it, on the contrary, it may improve one’s personality and increase one’s morals. If everyone could inspect and learn from each other’s experiences, the dispute between different schools could be avoided, and furthermore, it could stop the irresponsible talking.
+
+Wang Xiang Zhai, "Essence of Combat Science"
