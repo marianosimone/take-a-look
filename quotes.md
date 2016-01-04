@@ -591,3 +591,7 @@ Bertrand Russell, "Why I Am Not A Christian"
 > The way of learning builds up from comparison, this applies to boxing as well. When comparing skills, there is victory or defeat, but one’s personality is not harmed by it, on the contrary, it may improve one’s personality and increase one’s morals. If everyone could inspect and learn from each other’s experiences, the dispute between different schools could be avoided, and furthermore, it could stop the irresponsible talking.
 
 Wang Xiang Zhai, "Essence of Combat Science"
+
+> The first step to freedom is not just to change reality to feed your dreams. It's to change the way you dream. And again, this hurts, because all satisfactions we have come from our dreams
+
+Slavoj Žižek, "The Pervert’s Guide to Ideology"
