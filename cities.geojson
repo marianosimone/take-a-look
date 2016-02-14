@@ -195,6 +195,16 @@
       "type": "Feature",
       "geometry": {
         "type": "Point",
+        "coordinates": [-122.631389,38.245833]
+      },
+      "properties": {
+        "name": "Petaluma, CA, USA"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
         "coordinates": [-112.139444,36.053333]
       },
       "properties": {
