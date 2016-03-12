@@ -595,3 +595,7 @@ Wang Xiang Zhai, "Essence of Combat Science"
 > The first step to freedom is not just to change reality to feed your dreams. It's to change the way you dream. And again, this hurts, because all satisfactions we have come from our dreams
 
 Slavoj Žižek, "The Pervert’s Guide to Ideology"
+
+> As to methods there may be a million and then some, but principles are few. The man who grasps principles can successfully select his own methods. The man who tries methods, ignoring principles, is sure to have trouble.
+
+Ralph Waldo Emerson
