@@ -599,3 +599,7 @@ Slavoj Žižek, "The Pervert’s Guide to Ideology"
 > As to methods there may be a million and then some, but principles are few. The man who grasps principles can successfully select his own methods. The man who tries methods, ignoring principles, is sure to have trouble.
 
 Ralph Waldo Emerson
+
+> Minimalism is about pausing, and asking what’s necessary. What belongs in this space, and what can we toss out? Is the fantasy we have in our heads, that’s causing us to fill things up unconsciously, really what we thought it would be?
+
+Leo Babauta, "[A Call for Revolt: Advertising is the Anti-Minimalism](http://zenhabits.net/opt-out/)"
