@@ -4,6 +4,7 @@
 
 - [homebrew](http://brew.sh/) package manager
 - [ShiftIt](https://github.com/fikovnik/ShiftIt) or [Spectacle](https://www.spectacleapp.com/) to arrange app windows
+- [MacDown](http://macdown.uranusjr.com/) Markdown editor with live preview
 
 ## Setup
 
