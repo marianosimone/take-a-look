@@ -603,3 +603,27 @@ Ralph Waldo Emerson
 > Minimalism is about pausing, and asking what’s necessary. What belongs in this space, and what can we toss out? Is the fantasy we have in our heads, that’s causing us to fill things up unconsciously, really what we thought it would be?
 
 Leo Babauta, "[A Call for Revolt: Advertising is the Anti-Minimalism](http://zenhabits.net/opt-out/)"
+
+> Economic logic says that when a new good or service comes into being, the fact that someone is willing to pay for it means that it must be to someone’s benefit. In a certain narrow sense, this is true. If I steal your car keys, it may be to your benefit to buy them back from me. If I steal your land, it may be to your benefit to rent it back so you can survive. But to say that money transactions are evidence of an overall rise in utility is absurd; or rather, it assumes that the needs they meet were originally unmet. If we are merely paying for something once provided through self-sufficiency or the gift economy, then the logic of economic growth is faulty.
+
+Charles Eisenstein, "Sacred Economics: Money, Gift, and Society in the Age of Transition"
+
+> It is our perceptions, and not our means, that engender scarcity.
+
+Charles Eisenstein, "Sacred Economics: Money, Gift, and Society in the Age of Transition"
+
+> The dynamics of usury-money are addiction dynamics, requiring an ever-greater dose (of the commons) to maintain normality, converting more and more of the basis of well-being into money for a fix. If you have an addict friend, it won’t do any good to give her “help” of the usual kind, such as money, a car to replace the one she crashed, or a job to replace the one she lost. All of those resources will just go down the black hole of addiction. So too it is with our politicians’ efforts to prolong the age of growth.
+
+Charles Eisenstein, "Sacred Economics: Money, Gift, and Society in the Age of Transition"
+
+> For there to be a gift, there must be no reciprocity, return, exchange, countergift, or debt.
+
+Jacques Derrida, "Given Time"
+
+> Generally, even what has been received and comes into one’s possession in this way—in whatever manner—is not kept for oneself, unless one cannot do without it.
+
+Marcel Mauss, "The Gift: The Form and Reason for Exchange in Archaic Societies"
+
+> We have lived our lives by the assumption that what was good for us would be good for the world. We have been wrong. We must change our lives so that it will be possible to live by the contrary assumption, that what is good for the world will be good for us. And that requires that we make the effort to know the world and learn what is good for it.
+
+Wendell Berry, "The Long-Legged House"
