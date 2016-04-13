@@ -33,3 +33,4 @@ Apart from various ramblings you can find in this repo, here are some off-the ba
 - [Tim Ferriss' Podcast](http://fourhourworkweek.com/podcast/): Specially the episodes with Scott Addams, Robert Rodriguez, Alain de Botton and 
 Derek Sivers
 - [Hardcore History](http://www.dancarlin.com/hardcore-history-series/)
+- Anything by [The Tolkien Professor](http://tolkienprofessor.com/), specially his series on [The Hobbit](http://tolkienprofessor.com/lectures/the-hobbit/)
