@@ -21,3 +21,9 @@ There is much hype about Kanban since it was perfected and introduced to the wor
 Linus Torvalds visits Google to share his thoughts on git, the source control management system he created two years ago.
 
 [link](https://www.youtube.com/watch?v=4XpnKHJAok8)
+
+## Jim Weirich and Joe O'Brien - "Mock Dialog" (Ruby Hoedown 2008)
+
+Sit in like a fly on the wall with a development team as they wrestle with the issues of testing and the use of mock objects. Three acts cover using mock objects to remove dependencies on external dependencies, explore the use of mocks to isolate the code under test from the rest of the system, and look at when mocking can be an indication of a poor design. This is not your standard presentation with slides, but a peek into the everyday life of a development team.
+
+[link](https://www.youtube.com/watch?v=lRhsTb7qxt4)
