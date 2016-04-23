@@ -27,3 +27,13 @@ Linus Torvalds visits Google to share his thoughts on git, the source control ma
 Sit in like a fly on the wall with a development team as they wrestle with the issues of testing and the use of mock objects. Three acts cover using mock objects to remove dependencies on external dependencies, explore the use of mocks to isolate the code under test from the rest of the system, and look at when mocking can be an indication of a poor design. This is not your standard presentation with slides, but a peek into the everyday life of a development team.
 
 [link](https://www.youtube.com/watch?v=lRhsTb7qxt4)
+
+## Josh Kaufman - "Shut Up and Take My Money: How to Find Business Ideas Customers Want" (MicroConf 2013)
+
+A story on how to get to the ideal:
+
+- Sit in front of customer
+- tell them about your product
+- get interrupted with “Shut up and take my money”
+
+[link](https://vimeo.com/71250239)
