@@ -136,3 +136,7 @@ Martin Fowler, "Refactoring: Improving the Design of Existing Code"
 > (...) small methods really work only when you have good names, so you need to pay attention to naming. People sometimes ask me what length I look for in a method. To me length is not the issue. The key is the semantic distance between the method name and the method body. If extracting improves clarity, do it, even if the name is longer than the code you have extracted.
 
 Martin Fowler, "Refactoring: Improving the Design of Existing Code"
+
+> Projects usually start by listing out the team’s assumptions. However, they aren’t always labeled as "assumptions". Instead, they are often labeled as "requirements".
+
+Jared Spool, "The Redesign of the Design Process" 
