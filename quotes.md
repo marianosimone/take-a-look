@@ -631,3 +631,7 @@ Wendell Berry, "The Long-Legged House"
 > Consumerism is treating the things we use as the things we use up
 
 "The True Cost"
+
+> One day I will find the right words, and they will be simple
+
+Jack Kerouac
