@@ -635,3 +635,7 @@ Wendell Berry, "The Long-Legged House"
 > One day I will find the right words, and they will be simple
 
 Jack Kerouac
+
+> Perfect doesn't mean flawless. Perfect means it does exactly what I need it to do
+
+Seth Godin, "[Polishing perfect](http://sethgodin.typepad.com/seths_blog/2013/06/polishing-perfect.html)"
