@@ -650,4 +650,4 @@ Yogananda
 
 > A jnani (wise) is like one who knows beyond doubt that a log of wood contains fire. But a vijnani (one with spiritual insight) is he who lights the log, cooks over the fire, and is nourished by the food
 
-Ramakrishna, "Advice to PunditT Shashadhar"
+Ramakrishna, "Advice to Pundit Shashadhar"
