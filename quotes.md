@@ -643,3 +643,11 @@ Seth Godin, "[Polishing perfect](http://sethgodin.typepad.com/seths_blog/2013/06
 > Impossible is just a big word thrown around by small men who find it easier to live in the world they've been given than to explore the power they have to change it. Impossible is not a fact. It's an opinion. Impossible is not a declaration. It's a dare. Impossible is potential. Impossible is temporary. Impossible is nothing.
 
 Muhammad Ali
+
+> It is not enough merely to tell the truth; one's words should also be sweet, healing, and beneficial to others.
+
+Yogananda
+
+> A jnani (wise) is like one who knows beyond doubt that a log of wood contains fire. But a vijnani (one with spiritual insight) is he who lights the log, cooks over the fire, and is nourished by the food
+
+Ramakrishna, "Advice to PunditT Shashadhar"
