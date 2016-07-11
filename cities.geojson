@@ -1544,6 +1544,16 @@
       "properties": {
         "name": "Distrito Federal, México"
       }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [-117.1625, 32.715]
+      },
+      "properties": {
+        "name": "San Diego, CA, USA"
+      }
     }
   ]
 }
