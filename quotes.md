@@ -651,3 +651,7 @@ Yogananda
 > A jnani (wise) is like one who knows beyond doubt that a log of wood contains fire. But a vijnani (one with spiritual insight) is he who lights the log, cooks over the fire, and is nourished by the food
 
 Ramakrishna, "Advice to Pundit Shashadhar"
+
+> An activism that is not fed by mystical wisdom and stamina will wither in the fire of persistent and persistently exhausting disappointment and defeat and tend to create as many new problems as those it tries to solve. A mysticism that is not committed to action within the world on behalf of the poor, of the oppressed, and of nature itself condemns itself to futility at a moment when so much is at stake.
+
+Andrew Harvey
