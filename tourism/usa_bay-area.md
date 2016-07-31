@@ -14,8 +14,8 @@
 
 - [	
 Armstrong Redwoods State Park](http://www.russianrivertravel.com/parks-armstrong.htm): If you have some extra time, and are willing to drive for a couple of hours, this is a great alternative to Muir. There's a lot less infrastructure, but also less people.
-- [Land's End Hiking Trails]: Awesome views of the Golden Gate Bridge from the other side, and the vast open sea.
-- Lake Anza: A cool little lake with a beach (there's an entrance fee to the beach itself), and a lot of hiking trails around it. Also, getting up there gives you really cool views of the Bay.
+- [Land's End Hiking Trails](https://www.nps.gov/goga/planyourvisit/landsend.htm): Awesome views of the Golden Gate Bridge from the other side, and the vast open sea.
+- [Tilden Park/Lake Anza](http://www.ebparks.org/parks/tilden): A cool little lake with a beach (there's an entrance fee to the beach itself), and a lot of hiking trails around it. Also, getting up there gives you really cool views of the Bay.
 - [Muir Woods National Monument](http://www.nps.gov/muwo/index.htm): Beautiful (but sometimes crowded) redwood forest
 
 ## Eat & Drink
