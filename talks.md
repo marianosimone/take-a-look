@@ -43,3 +43,9 @@ A story on how to get to the ideal:
 Classes are great but they are also overused. This talk will describe examples of class overuse taken from real world code and refactor the unnecessary classes, exceptions, and modules out of them.
 
 [link](https://www.youtube.com/watch?v=o9pEzgHorH0)
+
+## Idan Gazit - "Sketching a better product" (PyCon 2012)
+
+If writing is a means for organizing your thoughts, then sketching is a means for organizing your thoughts visually. Just as good writing requires drafts, good design requires sketches: low-investment, low-resolution braindumps. Learn how
+
+[link](https://www.youtube.com/watch?v=Q0Q9K93bK-4)
