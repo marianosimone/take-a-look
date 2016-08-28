@@ -659,3 +659,7 @@ Andrew Harvey
 > We control our actions, but the consequences that flow from those actions are controlled by principles.
 
 Stephen R. Covey
+
+> Ability is what you're capable of doing. Motivation determines what you do. Attitude determines how well you do it
+
+Lou Holtz
