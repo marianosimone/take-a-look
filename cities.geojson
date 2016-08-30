@@ -175,6 +175,46 @@
       "type": "Feature",
       "geometry": {
         "type": "Point",
+        "coordinates": [-122.026389, 36.971944]
+      },
+      "properties": {
+        "name": "Santa Cruz, CA, USA"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [-122.470278, 38.505278]
+      },
+      "properties": {
+        "name": "St. Helena, CA, USA"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [-124.163611, 40.801944]
+      },
+      "properties": {
+        "name": "Eureka, CA, USA"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [-123.799444, 39.307778]
+      },
+      "properties": {
+        "name": "Mendocino, CA, USA"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
         "coordinates": [-120.653889,35.640833]
       },
       "properties": {
