@@ -663,3 +663,31 @@ Stephen R. Covey
 > Ability is what you're capable of doing. Motivation determines what you do. Attitude determines how well you do it
 
 Lou Holtz
+
+> Just as a goldsmith assays gold, by rubbing, cutting, and burning, so should you examine my words. Do not accept them just out of faith in me.
+
+Buddha
+
+> If we could read the secret history of our enemies, we should find in each man’s life sorrow and suffering enough to disarm all hostility
+
+Henry Wadsworth Longfellow
+
+> If we are taken over by craving, no matter who or what is before us, all we can see is how it might satisfy our needs.
+
+Tara Brach
+
+> I do not know how to defeat others. All I know is the path to defeat myself. Today one must be better than yesterday, and tomorrow better than today. The pursuit of perfection is a lifelong quest that has no end.
+
+Lord Yagyū, from Hagakure
+
+> The Four Noble Truths are pragmatic rather than dogmatic. They suggest a course of action to be followed rather than a set of dogmas to be believed. The four truths are prescriptions for behavior rather than descriptions of reality.
+
+Stephen Batchelor, "Confession of a Buddhist Atheist"
+
+> It is ruinous to pursue two Ways. The warrior needs only train in bushido—the Way of the samurai—and seek nothing else. The character for all Ways, ‘道’, is the same. Nevertheless, one cannot master the Way of the warrior while simultaneously becoming immersed in the teachings of Shintō and Buddha. If one understands this, then learning about the other Ways [for reference only] will serve to improve your training in the pursuit of bushido.
+
+Tsunetoma Yamamoto, "Hagakure: The Secret Wisdom of the Samurai"
+
+> You may remember the story of how the devil and a friend of his were walking down the street, when they saw ahead of them a man stoop down and pick up something from the ground, look at it, and put it away in his pocket. The friend said to the devil, ‘What did that man pick up?’ ‘He picked up a piece of Truth,’ said the devil. ‘That is a very bad business for you, then,’ said his friend. ‘Oh, not at all,’ the devil replied, ‘I am going to let him organize it.’”
+
+Jiddu Krishnamurti
