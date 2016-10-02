@@ -1594,6 +1594,46 @@
       "properties": {
         "name": "San Diego, CA, USA"
       }
-    }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [-86.8475, 21.160556]
+      },
+      "properties": {
+        "name": "Cancún, México"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [-87.428889, 20.214722]
+      },
+      "properties": {
+        "name": "Tulum, México"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [-87.08, 20.63]
+      },
+      "properties": {
+        "name": "Playa del Carmen, México"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [-88.201667, 20.689444]
+      },
+      "properties": {
+        "name": "Playa del Carmen, México"
+      }
+    } 
   ]
 }
