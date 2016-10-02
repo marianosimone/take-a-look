@@ -1632,8 +1632,18 @@
         "coordinates": [-88.201667, 20.689444]
       },
       "properties": {
-        "name": "Playa del Carmen, México"
+        "name": "Valladolid, México"
       }
-    } 
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [-86.733333, 21.233333]
+      },
+      "properties": {
+        "name": "Isla Mujeres, México"
+      }
+    }
   ]
 }
