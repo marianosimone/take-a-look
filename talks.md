@@ -237,3 +237,7 @@ David Allen: "Getting Things Done: The Art of Stress-Free Productivity"
 David Allen, author of the bestselling Getting Things Done, is widely recognized as the
 world's leading authority on personal and organizational productivity.  David's presentation is an inspiring and educational look at the art of stress-free productivity. Learn practical ways you can be more appropriately engaged in your life.
 https://www.youtube.com/watch?v=CHxhjDPKfbY
+
+Bryan Stevenson: "We need to talk about an injustice"
+In an engaging and personal talk - with cameo appearances from his grandmother and Rosa Parks -- human rights lawyer Bryan Stevenson shares some hard truths about America's justice system, starting with a massive imbalance along racial lines: a third of the country's black male population has been incarcerated at some point in their lives. These issues, which are wrapped up in America's unexamined history, are rarely talked about with this level of candor, insight and persuasiveness.
+https://www.youtube.com/watch?v=c2tOp7OxyQ8
