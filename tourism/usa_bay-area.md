@@ -18,6 +18,11 @@ Armstrong Redwoods State Park](http://www.russianrivertravel.com/parks-armstrong
 - [Tilden Park/Lake Anza](http://www.ebparks.org/parks/tilden): A cool little lake with a beach (there's an entrance fee to the beach itself), and a lot of hiking trails around it. Also, getting up there gives you really cool views of the Bay.
 - [Muir Woods National Monument](http://www.nps.gov/muwo/index.htm): Beautiful (but sometimes crowded) redwood forest
 
+### Music
+
+- [The Black Cat](http://www.blackcatsf.com/): Great live music (Jazz), good food and drinks. 
+- [Groupmuse](https://www.groupmuse.com): Groupmuse is a platform enabling communities to come together around great art; an online social network that connects young classical musicians to local audiences through concert house parties. Share the great masterpieces of music with old and new friends — in your living room and throughout your city.
+
 ## Eat & Drink
 - [Barney's Gourmet Burgers](http://www.barneyshamburgers.com/) (San Francisco/Oakland/Berkeley)
 - [Bi-Rite Creamery](http://biritecreamery.com/) Ice cream and cookies!
