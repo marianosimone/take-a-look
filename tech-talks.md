@@ -66,6 +66,12 @@ Bret Victor on the power and effectiveness of organizing your work around a guid
 
 [link](http://vimeo.com/36579366)
 
+## Bret Victor - "Learnable Programming"
+
+Here's a trick question: How do we get people to understand programming?
+
+[link](http://worrydream.com/LearnableProgramming/)
+
 ## Gary Bernhardt - "Fast Test, Slow Test"
 
 Most unit tests aren't and their authors suffer for it. What is a unit test, really? How can writing them prevent classic testing problems? If you do write them, what trade-offs are you implicitly making?
@@ -84,32 +90,50 @@ Practice iterative development like the pros. Release sooner, faster, and more o
 
 [link](https://www.youtube.com/watch?v=QGfxLXoMpPk)
 
-Steve Freeman - "Sustainable Test-Driven Development"
+## Steve Freeman - "Sustainable Test-Driven Development"
 
 Steve Freeman offers advice on writing good tests that make development easier avoiding adding dead weight code that is hard to maintain. Freeman covers the following areas: test readability, complex test data, test diagnostics, and test flexibility.
 
-http://www.infoq.com/presentations/Sustainable-Test-Driven-Development
+[link](http://www.infoq.com/presentations/Sustainable-Test-Driven-Development)
 
-Martin Fowler - "Introduction to NoSQL" (GOTO Conferences)
+## Martin Fowler - "Introduction to NoSQL" (GOTO Conferences)
 
 Martin gives a rapid introduction to NoSQL databases: where they came from, the nature of the data models they use, and the different way you have to think about consistency. From this he outlines what kinds of circumstances you should consider using them, why they will not make relational databases obsolete, and the important consequence of polyglot persistence.
-https://www.youtube.com/watch?v=qI_g07C_Q5I
 
-Joshua Bloch - "How to Design A Good API and Why it Matters"
-https://www.youtube.com/watch?v=aAb7hSCtvGw
-http://www.slideshare.net/guestbe92f4/how-to-design-a-good-a-p-i-and-why-it-matters-g-o-o-g-l-e
+[link](https://www.youtube.com/watch?v=qI_g07C_Q5I)
 
-Greg Wilson - "What We Actually Know About Software Development, and Why We Believe It's True"
+## Joshua Bloch - "How to Design A Good API and Why it Matters"
+
+[link](https://www.youtube.com/watch?v=aAb7hSCtvGw) & [slides](http://www.slideshare.net/guestbe92f4/how-to-design-a-good-a-p-i-and-why-it-matters-g-o-o-g-l-e)
+
+## Greg Wilson - "What We Actually Know About Software Development, and Why We Believe It's True"
+
 Many claims are made about how certain tools, technologies, and practices improve software development. But which claims are verifiable, and which are merely wishful thinking?
-http://vimeo.com/9270320
 
-Kevin Lacker - "How to Design Great APIs"
-Parse Developer Day 2013
-https://www.youtube.com/watch?v=qCdpTji8nxo and http://blog.parse.com/events/parse-developer-day-video-series-how-to-design-great-apis/
+[link](http://vimeo.com/9270320)
 
-Jake Archibald - "Reusable Code, for good or for awesome!" (beyond tellerrand Düsseldorf 2011)
+## Kevin Lacker - "How to Design Great APIs" (Parse Developer Day 2013)
+
+[link](https://www.youtube.com/watch?v=qCdpTji8nxo) and [post](http://blog.parse.com/events/parse-developer-day-video-series-how-to-design-great-apis/)
+
+## Jake Archibald - "Reusable Code, for good or for awesome!" (beyond tellerrand Düsseldorf 2011)
+
 What sets reusable JavaScript apart from other JavaScript? How can we make our code developer-friendly, fast, robust & compatible?
+
 The API is make-or-break when it comes to reusable code. It's the API that lets other developers use your application, if it's difficult to use then they won't get the most out of what you've written.
+
 We'll analyse existing APIs, looking at where they fail and where they succeed, looking at what patterns they use and how users react to them.
+
 By looking at the wins and fails in the real world, we can discover what makes code a pleasure to use and reuse.
-https://vimeo.com/35689836 and slideshare.net/jaffathecake/reusable-code-for-good-or-for-awesome
+
+[link](https://vimeo.com/35689836 and slideshare.net/jaffathecake/reusable-code-for-good-or-for-awesome)
+
+## Bertnard Meyer - "Genericity Versus Inheritance" (Paper)
+
+Genericity, as in Ada or ML, and inheritance, as in object-oriented languages, are two alternative techniques for ensuring better extendibility, reusability, and compatibility of software components. This article is a comparative analysis of these two methods. It studies their similarities and differences and assesses to what extent each may be simulated in a language offering only the other. It shows what features are needed to successfully combine the two approaches in an object-oriented language that also features strong type checking. The discussion introduces the principal aspects of the language EiffePM whose design, resulting in part from this study, includes multiple inheritance and a limited form of genericity under full static typing.
+
+[link](http://se.inf.ethz.ch/old/people/meyer/publications/languages/geninh_jpam.pdf)
+
+## Bertnard Meyer - "Principles of language design and evolution"
+
+Search for it, it's awesome
