@@ -72,6 +72,12 @@ Here's a trick question: How do we get people to understand programming?
 
 [link](http://worrydream.com/LearnableProgramming/)
 
+## Bret Victor - "The Future of Programming"
+
+Presented at Dropbox's DBX conference on July 9, 2013.
+
+[link](http://worrydream.com/dbx/)
+
 ## Gary Bernhardt - "Fast Test, Slow Test"
 
 Most unit tests aren't and their authors suffer for it. What is a unit test, really? How can writing them prevent classic testing problems? If you do write them, what trade-offs are you implicitly making?
