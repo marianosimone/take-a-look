@@ -265,6 +265,36 @@
       "type": "Feature",
       "geometry": {
         "type": "Point",
+        "coordinates": [-119.714167, 34.425833]
+      },
+      "properties": {
+        "name": "Santa Barbara, CA, USA"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [-120.853333, 35.379167]
+      },
+      "properties": {
+        "name": "Morro Bay, CA, USA"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [-117.912222, 33.665]
+      },
+      "properties": {
+        "name": "Costa Mesa, CA, USA"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
         "coordinates": [-120.088333,34.611944]
       },
       "properties": {
