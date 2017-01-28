@@ -571,7 +571,7 @@ Irving Yalom, "The Schopenhauer Cure"
 
 > The science without the art is likely to be ineffective; the art without the science is certain to be inaccurate.
 
-Albert H. Marckwardt 
+Albert H. Marckwardt
 
 > If you respond in anger when other harms you,
 > Does your wrath remove the harm inflected?
@@ -708,3 +708,7 @@ Phap Dung
 > The best way to complain is to make things.
 
 James Murphy
+
+> Critical thinking without hope is cynicism. Hope without critical thinking is naiveness
+
+Maria Popova
