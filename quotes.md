@@ -704,3 +704,7 @@ Anonymous poem
 > The future is built with the present moment and how we take care of it. If you are fearful, the future will be fearful. If you are uncooperative, the future will be divisive. This is very important. The future is not something that will come to us; the future is built by us, by how we speak and what we do in the present moment.
 
 Phap Dung
+
+> The best way to complain is to make things.
+
+James Murphy
