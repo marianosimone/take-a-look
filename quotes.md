@@ -712,3 +712,11 @@ James Murphy
 > Critical thinking without hope is cynicism. Hope without critical thinking is naiveness
 
 Maria Popova
+
+> People overestimate what they can get done in two years and underestimate what they can get done in 10 years.
+
+Bill Gates
+
+> friendship, like philosophy, like art, like the universe itself … has no survival value; rather it is one of those things which give value to survival.
+
+C.S. Lewis
