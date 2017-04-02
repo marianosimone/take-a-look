@@ -726,3 +726,7 @@ Bill Gates
 > friendship, like philosophy, like art, like the universe itself … has no survival value; rather it is one of those things which give value to survival.
 
 C.S. Lewis
+
+> It is easy to hate and it is difficult to love. This is how the whole scheme of things works. All good things are difficult to achieve; and bad things are very easy to get.
+
+Confucius
