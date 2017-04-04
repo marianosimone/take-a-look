@@ -2,6 +2,8 @@
 
 ## Julian Treasure - "How to speak so that people want to listen"
 
+Have you ever felt like you're talking, but nobody is listening? Here's Julian Treasure to help you fix that. As the sound expert demonstrates some useful vocal exercises and shares tips on how to speak with empathy, he offers his vision for a sonorous world of listening and understanding.
+
 [link](https://www.youtube.com/watch?v=eIho2S0ZahI)
 
 ## Clay Shirky - "How the Internet will (one day) transform government"
@@ -10,7 +12,8 @@ The open-source world has learned to deal with a flood of new, oftentimes diverg
 
 [link](https://www.youtube.com/watch?v=CEN4XNth61o)
 
-Fred Kofman: Vida Libertad y Consciencia
+## Fred Kofman - "Vida Libertad y Consciencia"
+
 [link](http://www.youtube.com/watch?v=S1D5pliEIaY)
 
 ## Matthieu Ricard - "The habits of happiness"
@@ -144,11 +147,14 @@ What aspects of religion should atheists (respectfully) adopt? Alain de Botton s
 
 ## Paul Lightfoot: "BrightFarms: A Produce Supply Chain Revolution"
 
+Paul Lightfoot is the Chief Executive Officer of BrightFarms, which designs, finances, builds and operates greenhouse farms at grocery retailers, eliminating time, distance and costs from their produce supply chain. With the elimination of shipping, and the drastic reduction of fuel consumption, carbon emissions and water use, BrightFarms enables grocery retailers to change their produce supply chain in a way that improves the planet and their profits.
+
 [link](http://www.youtube.com/watch?v=3ZDLo8yNxgY)
 
 ## Stephen Coleman: "The moral dangers of non-lethal weapons"
 
 Pepper spray and tasers are in increasing use by both police and military, and more exotic non-lethal weapons such as heat rays are in the works. At TEDxCanberra, ethicist Stephen Coleman explores the unexpected consequences of their introduction and asks some challenging questions.
+
 [link](http://www.ted.com/talks/stephen_coleman_the_moral_dangers_of_non_lethal_weapons.html)
 
 ## Brian Goldman: "Doctors make mistakes. Can we talk about that?"
@@ -195,7 +201,8 @@ Biologist Mark Pagel shares an intriguing theory about why humans evolved our co
 
 Researcher Hans Rosling uses his cool data tools to show how countries are pulling themselves out of poverty. He demos Dollar Street, comparing households of varying income levels worldwide. Then he does something really amazing.
 In Hans Rosling’s hands, data sings. Global trends in health and economics come to vivid life. And the big picture of global development—with some surprisingly good news—snaps into sharp focus.
-http://www.ted.com/talks/hans_rosling_reveals_new_insights_on_poverty.html
+
+[link](http://www.ted.com/talks/hans_rosling_reveals_new_insights_on_poverty.html)
 
 ## Tina Seeling: A crash course in creativity
 
@@ -274,3 +281,9 @@ In an engaging and personal talk - with cameo appearances from his grandmother a
 Talk about time, perception and the brain
 
 [link](http://longnow.org/seminars/02016/oct/04/brain-and-now/)
+
+## Ruth Chang - "How to make hard choices"
+
+Here's a talk that could literally change your life. Which career should I pursue? Should I break up — or get married?! Where should I live? Big decisions like these can be agonizingly difficult. But that's because we think about them the wrong way, says philosopher Ruth Chang. She offers a powerful new framework for shaping who we truly are. 
+
+[link](https://www.ted.com/talks/ruth_chang_how_to_make_hard_choices)
