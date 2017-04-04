@@ -287,3 +287,9 @@ Talk about time, perception and the brain
 Here's a talk that could literally change your life. Which career should I pursue? Should I break up — or get married?! Where should I live? Big decisions like these can be agonizingly difficult. But that's because we think about them the wrong way, says philosopher Ruth Chang. She offers a powerful new framework for shaping who we truly are. 
 
 [link](https://www.ted.com/talks/ruth_chang_how_to_make_hard_choices)
+
+## Ben Horowitz - "Culture and Revolution"
+
+We know that culture is important. We even think we know what it is. But culture isn’t perks like dogs and snacks in the workplace — nor is it a defining personality, like, say, “googleyness”. Culture is the collective behavior of an organization… and whether or not you go about creating one, you’re going to get one anyway, argues a16z cofounder Ben Horowitz. “Unless you set it, it’ll just be what it is.”
+
+[link](http://a16z.com/2017/03/04/culture-and-revolution-ben-horowitz-toussaint-louverture/)
