@@ -12,3 +12,4 @@
 - [Salgado Alimentos](http://www.salgadoalimentos.com.ar): Pasta restaurant (Ramírez de Velasco 401, Villa Crespo)
 - [Spangher](http://spangher.com.ar/): A nano brewery, one of the best I've ever tried (Miller 2901, Villa Urquiza)
 - Sudestada: South-east asian restaurant (Guatemala 5602, Palermo)
+- [Tealosophy](http://www.tealosophy.com): A great place to buy speciality teas. It's pricy... but the quality and variety is superb, if only to go and smell the aromas they carry
