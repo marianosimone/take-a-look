@@ -1674,6 +1674,16 @@
       "properties": {
         "name": "Isla Mujeres, México"
       }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [-84.171389, 33.805278]
+      },
+      "properties": {
+        "name": "Stone Mountain, GA, USA"
+      }
     }
   ]
 }
