@@ -143,3 +143,11 @@ Genericity, as in Ada or ML, and inheritance, as in object-oriented languages, a
 ## Bertnard Meyer - "Principles of language design and evolution"
 
 Search for it, it's awesome
+
+## Jake Wharton - "Managing State with RxJava"
+
+RxJava's use in building Android apps has grown rapidly! Combining and composing synchronous and asynchronous sources of data has become easy. That burden that remains is where to put the overall state of the application and how to handle its changes. This talk will be an exploration in how we can increase the confidence and determinism of our app state.
+
+Because Rx isn't specific to Android, we'll look at state management approaches employed by other platforms and languages and whether or not they're appropriate to use. We will also look at how state management fits into application architectures such as MVP and MVVM.
+
+[link](https://www.youtube.com/watch?v=0IKHxjkgop4)
