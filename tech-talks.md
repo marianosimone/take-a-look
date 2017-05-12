@@ -151,3 +151,9 @@ RxJava's use in building Android apps has grown rapidly! Combining and composing
 Because Rx isn't specific to Android, we'll look at state management approaches employed by other platforms and languages and whether or not they're appropriate to use. We will also look at how state management fits into application architectures such as MVP and MVVM.
 
 [link](https://www.youtube.com/watch?v=0IKHxjkgop4)
+
+## Eirk Rose - "Designing Poetic APIs" (PyCon 2014)
+
+The language you speak determines the thoughts you can think. Thus, API designers (and that includes you, if you've ever coined a function) have a great duty, as language inventors, to expand the mental canvases of those who come after. We'll concretize that into 7 hallmarks of good APIs, pulling examples (and bloopers) from popular Python libraries. 
+
+[link](https://www.youtube.com/watch?v=JQYnFyG7A8c)
