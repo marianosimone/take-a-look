@@ -140,3 +140,7 @@ Martin Fowler, "Refactoring: Improving the Design of Existing Code"
 > Projects usually start by listing out the team’s assumptions. However, they aren’t always labeled as "assumptions". Instead, they are often labeled as "requirements".
 
 Jared Spool, "The Redesign of the Design Process" 
+
+> Well, it seems to me the most successful programmers I've encountered don't craft software; they write software in order to move information around, in order to get something done. Information is the real deal - the software just defines the space that it moves around in. For those programmers, success is about getting information from point A where it's currentyly languishing to point B where it's going to actually be useful, as quickly and effectively as they can
+
+Dan North
