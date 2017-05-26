@@ -293,3 +293,9 @@ Here's a talk that could literally change your life. Which career should I pursu
 We know that culture is important. We even think we know what it is. But culture isn’t perks like dogs and snacks in the workplace — nor is it a defining personality, like, say, “googleyness”. Culture is the collective behavior of an organization… and whether or not you go about creating one, you’re going to get one anyway, argues a16z cofounder Ben Horowitz. “Unless you set it, it’ll just be what it is.”
 
 [link](http://a16z.com/2017/03/04/culture-and-revolution-ben-horowitz-toussaint-louverture/)
+
+## Tim Urban - "Inside the mind of a master procrastinator"
+
+Tim Urban knows that procrastination doesn't make sense, but he's never been able to shake his habit of waiting until the last minute to get things done. In this hilarious and insightful talk, Urban takes us on a journey through YouTube binges, Wikipedia rabbit holes and bouts of staring out the window — and encourages us to think harder about what we're really procrastinating on, before we run out of time. 
+
+[link](https://www.ted.com/talks/tim_urban_inside_the_mind_of_a_master_procrastinator)
