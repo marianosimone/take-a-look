@@ -1684,6 +1684,86 @@
       "properties": {
         "name": "Stone Mountain, GA, USA"
       }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [-149.4525, 61.581667]
+      },
+      "properties": {
+        "name": "Wasilia, AK, USA"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [-149.9, 61.216667]
+      },
+      "properties": {
+        "name": "Anchorage, AK, USA"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [-148.677778, 60.774167]
+      },
+      "properties": {
+        "name": "Whittier, AK, USA"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [-121.018611, 39.261389]
+      },
+      "properties": {
+        "name": "Nevada City, CA, USA"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [-121.468889, 38.555556]
+      },
+      "properties": {
+        "name": "Sacramento, CA, USA"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [-119.821944, 39.527222]
+      },
+      "properties": {
+        "name": "Reno, NV, USA"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [-119.976944, 38.94]
+      },
+      "properties": {
+        "name": "South Lake Tahoe, CA, USA"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [-119.753889, 39.160833]
+      },
+      "properties": {
+        "name": "Carson City, NV, USA"
+      }
     }
   ]
 }
