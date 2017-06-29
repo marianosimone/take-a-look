@@ -299,3 +299,9 @@ We know that culture is important. We even think we know what it is. But culture
 Tim Urban knows that procrastination doesn't make sense, but he's never been able to shake his habit of waiting until the last minute to get things done. In this hilarious and insightful talk, Urban takes us on a journey through YouTube binges, Wikipedia rabbit holes and bouts of staring out the window — and encourages us to think harder about what we're really procrastinating on, before we run out of time. 
 
 [link](https://www.ted.com/talks/tim_urban_inside_the_mind_of_a_master_procrastinator)
+
+## Seth Godin - "How to get your ideas to spread"
+
+In a world of too many options and too little time, our obvious choice is to just ignore the ordinary stuff. Marketing guru Seth Godin spells out why, when it comes to getting our attention, bad or bizarre ideas are more successful than boring ones.
+
+[link](https://www.ted.com/talks/seth_godin_on_sliced_bread)
