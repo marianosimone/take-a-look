@@ -730,3 +730,7 @@ C.S. Lewis
 > It is easy to hate and it is difficult to love. This is how the whole scheme of things works. All good things are difficult to achieve; and bad things are very easy to get.
 
 Confucius
+
+> We suffer not from the events in our lives, but from our judgment about them
+
+Epictetus
