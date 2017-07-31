@@ -305,3 +305,9 @@ Tim Urban knows that procrastination doesn't make sense, but he's never been abl
 In a world of too many options and too little time, our obvious choice is to just ignore the ordinary stuff. Marketing guru Seth Godin spells out why, when it comes to getting our attention, bad or bizarre ideas are more successful than boring ones.
 
 [link](https://www.ted.com/talks/seth_godin_on_sliced_bread)
+
+## Chimamanda Ngozi Adichie - "We should all be feminists"
+
+Chimamanda Ngozi Adichie a renowned Nigerian novelist was born in Nigeria in 1977. She grew up in the university town of Nsukka, Enugu State where she attended primary and secondary schools, and briefly studied Medicine and Pharmacy. She then moved to the United States to attend college, graduating summa cum laude from Eastern Connecticut State University with a major in Communication and a minor in Political Science. She holds a Masters degree in Creative Writing from Johns Hopkins and a Masters degree in African Studies from Yale University. She was a 2005-2006 Hodder Fellow at Princeton, where she taught introductory fiction. Chimamanda is the author of Half of a Yellow Sun, which won the 2007 Orange Prize For Fiction; and Purple Hibiscus, which won the 2005 Best First Book Commonwealth Writers' Prize and the 2004 Debut Fiction Hurston/Wright Legacy Award. In 2009, her collection of short stories, The Thing around Your Neck was published. She was named one of the twenty most important fiction writers today under 40 years old by The New Yorker and was recently the guest speaker at the 2012 annual commonwealth lecture. She featured in the April 2012 edition of Time Magazine, celebrated as one of the 100 Most Influential People in the World. She currently divides her time between the United States and Nigeria.
+
+[link](https://www.youtube.com/watch?v=hg3umXU_qWc)
