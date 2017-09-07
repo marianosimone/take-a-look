@@ -158,6 +158,6 @@ The language you speak determines the thoughts you can think. Thus, API designer
 
 [link](https://www.youtube.com/watch?v=JQYnFyG7A8c)
 
-## Mike Cohn - "Agile Estimation" (March 20, 2007 Meeting @ Google)
+## Mike Cohn - "Agile Estimation" (Bay XP, March 20, 2007 Meeting @ Google)
 
 [link](https://www.youtube.com/watch?v=fb9Rzyi8b90)
