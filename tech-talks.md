@@ -157,3 +157,7 @@ Because Rx isn't specific to Android, we'll look at state management approaches 
 The language you speak determines the thoughts you can think. Thus, API designers (and that includes you, if you've ever coined a function) have a great duty, as language inventors, to expand the mental canvases of those who come after. We'll concretize that into 7 hallmarks of good APIs, pulling examples (and bloopers) from popular Python libraries. 
 
 [link](https://www.youtube.com/watch?v=JQYnFyG7A8c)
+
+## Mike Cohn - "Agile Estimation" (March 20, 2007 Meeting @ Google)
+
+[link](https://www.youtube.com/watch?v=fb9Rzyi8b90)
