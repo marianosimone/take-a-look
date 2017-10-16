@@ -1764,6 +1764,16 @@
       "properties": {
         "name": "Carson City, NV, USA"
       }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [-122.456667, 37.873611]
+      },
+      "properties": {
+        "name": "Tiburon, CA, USA"
+      }
     }
   ]
 }
