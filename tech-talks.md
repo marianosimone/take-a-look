@@ -161,3 +161,9 @@ The language you speak determines the thoughts you can think. Thus, API designer
 ## Mike Cohn - "Agile Estimation" (Bay XP, March 20, 2007 Meeting @ Google)
 
 [link](https://www.youtube.com/watch?v=fb9Rzyi8b90)
+
+## Miško Hevery - "How to Write Clean, Testable Code" (Google Tech Talks, 2010)
+
+The Clean Code Talks are designed to help teams get better at writing clean, well-designed, testable code. Such code is easier to write tests for, more robust, easier to understand and maintain. Having clean code lets you be more productive. It helps you release more often, with more robustness, more confidence, and fewer rollbacks.
+
+[link](https://www.youtube.com/watch?v=XcT4yYu_TTs)
