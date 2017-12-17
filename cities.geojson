@@ -366,6 +366,36 @@
       "type": "Feature",
       "geometry": {
         "type": "Point",
+        "coordinates": [-116.011944,36.208611]
+      },
+      "properties": {
+        "name": "Pahrump, NV, USA"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [-118.173889,35.0525]
+      },
+      "properties": {
+        "name": "Mojave, CA, USA"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [-116.825833,36.241944]
+      },
+      "properties": {
+        "name": "Death Valley National Park, NV, USA"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
         "coordinates": [113.12833,23.021389]
       },
       "properties": {
