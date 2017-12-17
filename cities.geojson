@@ -1804,6 +1804,16 @@
       "properties": {
         "name": "Tiburon, CA, USA"
       }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [-79.4, 43.7]
+      },
+      "properties": {
+        "name": "Toronto, Canada"
+      }
     }
   ]
 }
