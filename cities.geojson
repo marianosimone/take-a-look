@@ -1814,6 +1814,76 @@
       "properties": {
         "name": "Toronto, Canada"
       }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [-1.893611, 52.483056]
+      },
+      "properties": {
+        "name": "Birmingham, England"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [-0.1275, 51.507222]
+      },
+      "properties": {
+        "name": "London, England"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [-22.946, 16.756]
+      },
+      "properties": {
+        "name": "Espargos, Cabo Verde"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [-22.904, 16.599]
+      },
+      "properties": {
+        "name": "Santa Maria, Cabo Verde"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [-22.895, 16.763]
+      },
+      "properties": {
+        "name": "Pedra de Lume, Cabo Verde"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [-24.357, 16.566]
+      },
+      "properties": {
+        "name": "Tarrafal de São Nicolau, Cabo Verde"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [-24.299, 16.615]
+      },
+      "properties": {
+        "name": "Ribeira Brava, Cabo Verde"
+      }
     }
   ]
 }
