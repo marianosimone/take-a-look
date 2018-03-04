@@ -18,3 +18,8 @@ I know, musicians, game designers, filmmakers and writers are also artists... bu
 
 - [Some of his work](https://www.youtube.com/watch?v=3SIdfJrrYgM)
 - [Wikipedia entry](https://en.wikipedia.org/wiki/Eusebio_Sempere)
+
+## Others
+
+- [Steve Bialik](http://stevapalooza.blogspot.com)
+- [Nicky Barkla](https://www.nickybarkla.com)
