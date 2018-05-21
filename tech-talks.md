@@ -167,3 +167,9 @@ The language you speak determines the thoughts you can think. Thus, API designer
 The Clean Code Talks are designed to help teams get better at writing clean, well-designed, testable code. Such code is easier to write tests for, more robust, easier to understand and maintain. Having clean code lets you be more productive. It helps you release more often, with more robustness, more confidence, and fewer rollbacks.
 
 [link](https://www.youtube.com/watch?v=XcT4yYu_TTs)
+
+## Rich Hickey - "Spec-ulation"
+
+A rant against semantic versioning, and how "change" is not a thing: you are either adding (thus not breaking a contract) or removing (thus breaking everything)
+
+[link](https://www.youtube.com/watch?v=oyLBGkS5ICk)
