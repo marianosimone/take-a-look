@@ -734,3 +734,7 @@ Confucius
 > We suffer not from the events in our lives, but from our judgment about them
 
 Epictetus
+
+> What we humans fail to internalize is that "yes" is not always the right answer. And, "no" is seldom the wrong answer.
+
+Chad Fowler, "The passionate programmer"
