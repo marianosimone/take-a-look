@@ -1884,6 +1884,26 @@
       "properties": {
         "name": "Ribeira Brava, Cabo Verde"
       }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [-122.333056, 47.609722]
+      },
+      "properties": {
+        "name": "Seattle, WA, USA"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [-122.681944, 45.52]
+      },
+      "properties": {
+        "name": "Portland, OR, USA"
+      }
     }
   ]
 }
