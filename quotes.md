@@ -742,3 +742,15 @@ Chad Fowler, "The passionate programmer"
 > Thoughts are ephemeral, they evaporate in the moment they occur, unless they are given action and material form. Wishes and intentions, the same. Meaningless, unless they impel you to one choice or another, some deed or course of action, however insignificant. Thoughts that lead to action can be dangerous. Thoughts that do not, mean less than nothing.
 
 Ann Leckie, "Ancillary Justice (Imperial Radch Book 1)"
+
+> If you let your learning lead to knowledge, you become a fool. If you let your learning lead to action, you become wealthy.”
+
+Jim Rohn
+
+> The wisdom of life consists in the elimination of non-essentials.
+
+Lin Yutang
+
+> The world is changed by your example, not by your opinion.
+
+Paulo Coelho
