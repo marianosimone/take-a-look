@@ -1904,6 +1904,26 @@
       "properties": {
         "name": "Portland, OR, USA"
       }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [-120.139722, 34.593889]
+      },
+      "properties": {
+        "name": "Solvang, CA, USA"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [-121.189722, 35.643889]
+      },
+      "properties": {
+        "name": "San Simeon, CA, USA"
+      }
     }
   ]
 }
