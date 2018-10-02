@@ -317,3 +317,9 @@ Chimamanda Ngozi Adichie a renowned Nigerian novelist was born in Nigeria in 197
 Just before his passing on January 10, 2014, Sam Berns was a Junior at Foxboro High School in Foxboro, Massachusetts, where he achieved highest honors and was a percussion section leader in the high school marching band. He also achieved the rank of Eagle Scout in the Boy Scouts of America. Sam was diagnosed with Progeria, a rare, rapid aging disease, at the age of 2. He is featured in the Emmy award-winning documentary Life According to Sam, which premiered on HBO on October 21, 2013, 2 days before his 17th birthday.
 
 [link](https://www.youtube.com/watch?v=36m1o-tM05g)
+
+## Al Bartlett - "Arithmetic, Population and Energy"
+
+"The greatest shortcoming of the human race is our inability to understand the exponential function"... and this talk tries to solve that by giving a great explanation with perfect examples.
+
+[link](https://www.youtube.com/watch?v=O133ppiVnWY)
