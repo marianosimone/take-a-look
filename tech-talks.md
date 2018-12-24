@@ -179,3 +179,13 @@ The Clean Code Talks are designed to help teams get better at writing clean, wel
 A rant against semantic versioning, and how "change" is not a thing: you are either adding (thus not breaking a contract) or removing (thus breaking everything)
 
 [link](https://www.youtube.com/watch?v=oyLBGkS5ICk)
+
+## Jennifer Tu - "Humans Aren't APIs And Your Request Is 400 Denied" (RubyConf 2018)
+
+Have you ever asked someone to do something, and they hear the exact opposite?
+
+Why do miscommunications happen? Does knowing why matter? And more importantly, how do you achieve your original desired request?
+
+If you want to learn more ways to influence those around you, this talk is for you! You’ll learn about different causes for failed communications, and different workarounds you can apply for different failure modes. Come to this talk to add another tool to your communications toolbox.
+
+[link](https://www.youtube.com/watch?v=jnC-JvbqnlA)
