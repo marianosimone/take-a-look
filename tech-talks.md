@@ -189,3 +189,9 @@ Why do miscommunications happen? Does knowing why matter? And more importantly, 
 If you want to learn more ways to influence those around you, this talk is for you! You’ll learn about different causes for failed communications, and different workarounds you can apply for different failure modes. Come to this talk to add another tool to your communications toolbox.
 
 [link](https://www.youtube.com/watch?v=jnC-JvbqnlA)
+
+## Jack Danger - "Designing an engineering team: Making room for everyone" (RubyConf 2018)
+
+How many different roles are there on engineering teams? Officially, there's probably just a manager and maybe a tech lead. Unofficially, you have technical specialists, company veterans, people focused on tools, and those who think deeply about the product. In this talk we'll steal the best ideas from operating rooms, wartime deployments, and courtroom litigation. We'll see how it's possible to train, reward, and empower your teammates by respecting their uniqueness while also making room for very junior developers to join fast-moving teams.
+
+[link](https://www.youtube.com/watch?v=04bgdpAlAxU)
