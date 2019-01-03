@@ -754,3 +754,19 @@ Lin Yutang
 > The world is changed by your example, not by your opinion.
 
 Paulo Coelho
+
+> The most destructive of weapons is not the spear or the siege cannon, which can wound a body and demolish a wall. The most terrible of all weapons is the word, which can ruin a life without leaving a trace of blood, and whose wounds never heal.
+
+Paulo Coelho, from "Manuscript found in Accra"
+
+> Therefore, your enemies are not the adversaries who were put there to test your courage. They are the cowards who were put there to test your weakness.
+
+Paulo Coelho, from "Manuscript found in Accra"
+
+> People who seek only success rarely find it, because success is not an end, but a consequence.
+
+Paulo Coelho, from "Manuscript found in Accra"
+
+> Stay close to those who, when you made a mistake, never said: “I would have done it differently.” They did not make that particular mistake and so are in no position to judge. (...) Stay close to those who sing, tell stories, and enjoy life, and whose eyes sparkle with happiness. Because happiness is contagious and will always manage to find a solution, whereas logic can find only an explanation for the mistake made.
+
+Paulo Coelho, from "Manuscript found in Accra"
