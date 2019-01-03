@@ -770,3 +770,7 @@ Paulo Coelho, from "Manuscript found in Accra"
 > Stay close to those who, when you made a mistake, never said: “I would have done it differently.” They did not make that particular mistake and so are in no position to judge. (...) Stay close to those who sing, tell stories, and enjoy life, and whose eyes sparkle with happiness. Because happiness is contagious and will always manage to find a solution, whereas logic can find only an explanation for the mistake made.
 
 Paulo Coelho, from "Manuscript found in Accra"
+
+> In learning to work and live with people, the most important thing I am coming to understand is the simple truth that "no one makes mistakes on purpose." Knowing this should allow us to concentrate on correcting the mistake rather than making life miserable for the mistake maker. If he is the right sort, nothing you can say or do to him will make him feel any worse about the mistake than he does already.
+
+Leo Burnett
