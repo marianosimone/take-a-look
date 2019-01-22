@@ -17,9 +17,7 @@
 - [Ample Hills Creamery](http://amplehills.com/) (Prospect, Gowanus, Brooklyn Bridge, etc.): Tasty icecreams and ice cakes
 - [La Newyorkina](http://lanewyorkina.com) (Multiple locations): Specially good fruity "paletas" (popsicles)
 - [Chinatown Ice Cream Factory](http://www.chinatownicecreamfactory.com/) (Chinatown, Manhattan): Italian-american style icecreams, with some Chinese flavors. If you like ginger, try that one ;)
-- [Empanadas Son](http://www.empanadasson.com) (Manhattan, under Williambsburg bridge): Best argentinian empanadas in NY (traditional flavors, plus some weird ones)
 - [Eataly](http://eataly.com/): High quality foods & drinks market
-- [Devi](http://devinyc.com): Indian restaurant
 - [Noodle Pudding](http://www.yelp.com/biz/noodle-pudding-brooklyn): One of the best italian restaurants in NY
 
 ### Beer
