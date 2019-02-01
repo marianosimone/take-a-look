@@ -1934,6 +1934,26 @@
       "properties": {
         "name": "Mariposa, CA, USA"
       }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [-122.362222, 38.403056]
+      },
+      "properties": {
+        "name": "Yountville, CA, USA"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [-122.866389, 38.6175]
+      },
+      "properties": {
+        "name": "	Healdsburg, CA, USA"
+      }
     }
   ]
 }
