@@ -774,3 +774,7 @@ Paulo Coelho, from "Manuscript found in Accra"
 > In learning to work and live with people, the most important thing I am coming to understand is the simple truth that "no one makes mistakes on purpose." Knowing this should allow us to concentrate on correcting the mistake rather than making life miserable for the mistake maker. If he is the right sort, nothing you can say or do to him will make him feel any worse about the mistake than he does already.
 
 Leo Burnett
+
+> In any situation in life, you only have three options. You always have three options. You can change it, you can accept it, or you can leave it. What is not a good option is to sit around wishing you would change it but not changing it, wishing you would leave it but not leaving it, and not accepting it. It’s that struggle, that aversion, that is responsible for most of our misery.
+
+Naval Ravikant
