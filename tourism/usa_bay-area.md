@@ -61,3 +61,9 @@ There are SO many breweries in the Bay Area that it's hard to visit them all. Th
 
 - [Solvang](http://www.cityofsolvang.com/): A Danish-inspired town
 - [Hears Castle](http://hearstcastle.org/)
+
+### LA
+
+Well, not really fair to this huge city... but if you are around the area, there are a couple of interesting places.
+
+- [Little Pine Restaurant](http://www.littlepinerestaurant.com): AMAZING vegan restaurant.
