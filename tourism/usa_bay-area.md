@@ -6,6 +6,7 @@
 - Diego Rivera Murals: If you are into Diego Rivera, you are in for a treat, there are a couple of them in the Area, and easy to get to (search for instructions, as they change the opening times).
 - [Saint John Coltrane Global Spiritual Community](http://www.coltranechurch.org): Yes, THE John Coltrane... You can attend mass on Sundays... and believe me, it goes from mass to an amazing jazz concert in a sec.
 - [Berkeley Rose Garden](http://www.ci.berkeley.ca.us/contentdisplay.aspx?id=12048)
+- [Victory Point Cafe](https://www.victorypointcafe.com): Huge library of board games to play with while enjoying a pint and/or some food.
 
 ### Museums
 
