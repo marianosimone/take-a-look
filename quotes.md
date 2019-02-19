@@ -778,3 +778,7 @@ Leo Burnett
 > In any situation in life, you only have three options. You always have three options. You can change it, you can accept it, or you can leave it. What is not a good option is to sit around wishing you would change it but not changing it, wishing you would leave it but not leaving it, and not accepting it. It’s that struggle, that aversion, that is responsible for most of our misery.
 
 Naval Ravikant
+
+> (Think) “systems” instead of “goals.” This involves choosing projects and habits that, even if they result in “failures” in the eyes of the outside world, give you transferable skills or relationships. In other words, you choose options that allow you to inevitably “succeed” over time, as you build assets that carry.
+
+Scott Adams, from "Tools of Titans" by Tim Ferriss
