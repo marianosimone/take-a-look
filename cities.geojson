@@ -1952,7 +1952,107 @@
         "coordinates": [-122.866389, 38.6175]
       },
       "properties": {
-        "name": "	Healdsburg, CA, USA"
+        "name": "Healdsburg, CA, USA"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [-156.376389, 20.910556]
+      },
+      "properties": {
+        "name": "Pāʻia, HI, USA"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [-155.994167, 20.77]
+      },
+      "properties": {
+        "name": "Hāna, HI, USA"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [-156.674722, 20.886111]
+      },
+      "properties": {
+        "name": "Lahaina, HI, USA"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [-156.457222, 20.759167]
+      },
+      "properties": {
+        "name": "Kīhei, HI, USA"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [-156.4675, 20.881667]
+      },
+      "properties": {
+        "name": "Kahului, HI, USA"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [-156.253333, 20.709722]
+      },
+      "properties": {
+        "name": "Haleakalā, HI, USA"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [-156.439167, 20.69]
+      },
+      "properties": {
+        "name": "Wailea, HI, USA"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [-155.994167, 19.65]
+      },
+      "properties": {
+        "name": "Kailua, HI, USA"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [-155.085833, 19.705556]
+      },
+      "properties": {
+        "name": "Hilo, HI, USA"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [-155.2, 19.383333]
+      },
+      "properties": {
+        "name": "Hawaiʻi Volcanoes National Park, HI, USA"
       }
     }
   ]
