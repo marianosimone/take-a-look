@@ -84,6 +84,12 @@ Presented at Dropbox's DBX conference on July 9, 2013.
 
 [link](http://worrydream.com/dbx/)
 
+## Bret Victor - "Stop Drawing Dead Fish"
+
+People are alive -- they behave and respond. Creations within the computer can also live, behave, and respond... if they are allowed to. The message of this talk is that computer-based art tools should embrace both forms of life -- artists behaving through real-time performance, and art behaving through real-time simulation. Everything we draw should be alive by default.
+
+[link](https://vimeo.com/64895205)
+
 ## Gary Bernhardt - "Fast Test, Slow Test"
 
 Most unit tests aren't and their authors suffer for it. What is a unit test, really? How can writing them prevent classic testing problems? If you do write them, what trade-offs are you implicitly making?
