@@ -782,3 +782,15 @@ Naval Ravikant
 > (Think) “systems” instead of “goals.” This involves choosing projects and habits that, even if they result in “failures” in the eyes of the outside world, give you transferable skills or relationships. In other words, you choose options that allow you to inevitably “succeed” over time, as you build assets that carry.
 
 Scott Adams, from "Tools of Titans" by Tim Ferriss
+
+> "How could you let me down when I trusted you so much?" you say to someone. Did you really trust them? (...) You never trust anyone. You only trust your judgement of that person. So what are you complaining about? The fact is that you don't like to say, "My judgement was lousy." That's not very flattering to you, is it?
+
+Anthony de Mello, "Awareness"
+
+> Nobody was mean to you. Somebody was mean to what he or she thought was you, but not to you. Nobody ever rejects you; they are only rejecting what they think you are. But that cuts both ways. Nobody ever accepts you either.
+
+Anthony de Mello, "Awareness"
+
+> The nature of the rain is the same and yet it produces thorns in the marsh and flowers in the garden.
+
+Arab saying
