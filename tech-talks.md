@@ -201,3 +201,9 @@ If you want to learn more ways to influence those around you, this talk is for y
 How many different roles are there on engineering teams? Officially, there's probably just a manager and maybe a tech lead. Unofficially, you have technical specialists, company veterans, people focused on tools, and those who think deeply about the product. In this talk we'll steal the best ideas from operating rooms, wartime deployments, and courtroom litigation. We'll see how it's possible to train, reward, and empower your teammates by respecting their uniqueness while also making room for very junior developers to join fast-moving teams.
 
 [link](https://www.youtube.com/watch?v=04bgdpAlAxU)
+
+## Jason Lengstorf - "Make the Right Thing the Easy Thing: Designing Processes Teams Will Actually Follow" (LeadDev NY 2018)
+
+When we work alone, it’s easy to make sure things come out the way we think is best. But what happens when we need to get an entire team to agree on — and actually _use_ — best practices? What if we have to convince an entire _company_?
+
+[link](https://www.youtube.com/watch?v=xqT8e6_yzLg)
