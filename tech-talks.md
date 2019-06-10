@@ -207,3 +207,11 @@ How many different roles are there on engineering teams? Officially, there's pro
 When we work alone, it’s easy to make sure things come out the way we think is best. But what happens when we need to get an entire team to agree on — and actually _use_ — best practices? What if we have to convince an entire _company_?
 
 [link](https://www.youtube.com/watch?v=xqT8e6_yzLg)
+
+## Runar Bjarnason - "Constraints Liberate, Liberties Constrain" (Scala World 2015)
+
+As programmers, we tend to think of expressive power of a language or library as an unmitigated good. In this talk I want to show the contrary; that restraint and precision are usually better than power and flexibility. A constraint on component design leads to freedom and power when putting those components together into systems.
+
+What’s more, this feature is built into the very nature of language and reasoning.
+
+[link](https://www.youtube.com/watch?v=GqmsQeSzMdw)
