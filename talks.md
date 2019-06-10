@@ -329,3 +329,7 @@ Just before his passing on January 10, 2014, Sam Berns was a Junior at Foxboro H
 "Have you noticed how riddled with fear our country is lately? We’ve never been more afraid. I’m concerned about that. Because when a society is afraid, people with a wrong motive can take advantage of that society and make them become something that they’re not. There’s a lot of fear right now in the United States of America and the most fearful Americans are the Americans that are buried deep in the middle of this country with no passports. This is a concern. Fear is for people who don’t get out much. The flipside of fear is understanding, and we gain understanding when we travel. I think it’s important for our very democracy… that we get out there, we travel, and we gain an empathy for the other 96% of humanity"
 
 [link](https://www.youtube.com/watch?v=UU8oelnzdAQ)
+
+## Daniel Dennett, Lawrence Krauss and Massimo Pigliucci - "The Limits Of Science" (Het Denkgelag)
+
+[link](https://www.youtube.com/watch?v=9tH3AnYyAI8)
