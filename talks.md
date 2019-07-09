@@ -333,3 +333,9 @@ Just before his passing on January 10, 2014, Sam Berns was a Junior at Foxboro H
 ## Daniel Dennett, Lawrence Krauss and Massimo Pigliucci - "The Limits Of Science" (Het Denkgelag)
 
 [link](https://www.youtube.com/watch?v=9tH3AnYyAI8)
+
+## Betty Enyonam Kumahor - "Frugal Innovation" (GOTO Chicago 2019)
+
+Even when located in one of the largest cities on the continent of Africa, we still face many challenges when building software: lack of electricity, little to no connectivity particularly in rural areas, cash-based transactions, lack of an address system, and more. But out of these constraints come creative and innovative ways to address these unique challenges … and with it some frugal software innovation
+
+[link](https://www.youtube.com/watch?v=9m1kKF-s0Og)
