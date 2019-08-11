@@ -339,3 +339,9 @@ Just before his passing on January 10, 2014, Sam Berns was a Junior at Foxboro H
 Even when located in one of the largest cities on the continent of Africa, we still face many challenges when building software: lack of electricity, little to no connectivity particularly in rural areas, cash-based transactions, lack of an address system, and more. But out of these constraints come creative and innovative ways to address these unique challenges … and with it some frugal software innovation
 
 [link](https://www.youtube.com/watch?v=9m1kKF-s0Og)
+
+## Kurt Vonnegut on the Shapes of Stories
+
+Short lecture by Kurt Vonnegut on the 'simple shapes of stories.'. How all stories can fit into certain predefined shapes: "Man in a hole", "Boy gets girl".
+
+[link](https://www.youtube.com/watch?v=oP3c1h8v2ZQ)
