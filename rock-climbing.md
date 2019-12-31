@@ -10,3 +10,4 @@ Just some ideas on training, gear or anything rock climbing related
 - [Training for Bouldering 102](https://drive.google.com/file/d/1_oQ8Zy3mfqUtoXhtXwTmbZ1mxCClJSZW/view) by [Carlos Tkacz](https://www.gofundme.com/f/training-for-bouldering)
 - [How to train for bouldering](https://www.youtube.com/watch?v=J6APsMJNXX4) by Dave MacLeod
 - [4 Climbing Techniques taught by Paul Robinson](https://www.youtube.com/watch?v=nBp0HZCdo7w)
+- [Mani the Monkey](https://www.youtube.com/channel/UCvkGOw5JmJ3TPdXNiEFwq6Q) (e.g. [Back Step vs Flag](https://www.youtube.com/watch?v=F5g9YtcnDqw))
