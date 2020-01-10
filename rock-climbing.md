@@ -11,3 +11,4 @@ Just some ideas on training, gear or anything rock climbing related
 - [How to train for bouldering](https://www.youtube.com/watch?v=J6APsMJNXX4) by Dave MacLeod
 - [4 Climbing Techniques taught by Paul Robinson](https://www.youtube.com/watch?v=nBp0HZCdo7w)
 - [Mani the Monkey](https://www.youtube.com/channel/UCvkGOw5JmJ3TPdXNiEFwq6Q) (e.g. [Back Step vs Flag](https://www.youtube.com/watch?v=F5g9YtcnDqw))
+- [Movement for Climbers](https://www.youtube.com/channel/UC6-rliFvsdCUTZndrZTQjMA) (e.g. [Instinct vs Control - What Kind of Climber Are You?](https://www.youtube.com/watch?v=FXXzaXgNHkg))
