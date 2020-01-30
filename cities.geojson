@@ -2074,6 +2074,16 @@
       "properties": {
         "name": "Sedona, AZ, USA"
       }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [-97.743056, 30.267222]
+      },
+      "properties": {
+        "name": "Austin, TX, USA"
+      }
     }
   ]
 }
