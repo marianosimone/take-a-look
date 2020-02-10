@@ -144,3 +144,30 @@ Jared Spool, "The Redesign of the Design Process"
 > Well, it seems to me the most successful programmers I've encountered don't craft software; they write software in order to move information around, in order to get something done. Information is the real deal - the software just defines the space that it moves around in. For those programmers, success is about getting information from point A where it's currentyly languishing to point B where it's going to actually be useful, as quickly and effectively as they can
 
 Dan North
+
+> A program should be light and agile,
+> its subroutines connected like a string
+> of pearls. The spirit of intent of the
+> program should be retained throughout.
+> There should be neither too little nor
+> too much, neither needless loops nor
+> useless variables, neither lack of struc-
+> ture nor overwhelming rigidity.
+>
+> A program should follow the 'Law of
+> Least AStonishment'. What is this law?
+> It is simply that the program should
+> always respond to the user in the way
+> that astonishes him least.
+>
+> A program, no matter how complex,
+> should act as a single unit. The program
+> should be directed by the logic within
+> rather than by outward appearances.
+>
+> If the program fails in these require-
+> ments, it will be in a state of disorder
+> and confusion. The only way to correct
+> this is to rewrite the program.
+
+Geoffrey James, "[The Tao of Programming](https://www.mit.edu/~xela/tao.html)"
