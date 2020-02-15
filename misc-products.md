@@ -7,6 +7,4 @@
 
 ## Clothing
 
-- Me Undies
-
 - [MeUndies](https://www.meundies.com)
