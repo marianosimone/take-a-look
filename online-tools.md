@@ -8,17 +8,13 @@
 
 - [Regexper](http://www.regexper.com): Visualy explain a regular expression
 - [RegExr](http://regexr.com): Another regex visualizer/explainer
-- [livecoding](http://livecoding.io): html+javascript+ccs+json online IDE with examples for charts and visualizations and instant feedback
 - [yUML](http://yuml.me): Create and share simple UML diagrams in your blogs, wikis, forums, bug-trackers and emails
 
 # Misc
 
 - [Trello](https://trello.com): Kanvan-like boards/cards app
-- [RAW](http://app.raw.densitydesign.org/): Data visualizations creator
-
-# Shopping
-
-- [Fatwallwet](http://www.fatwallet.com/): Cupons and deals
+- [RAWGraphs](https://rawgraphs.io): Data visualizations creator
+- [Pocket](https://getpocket.com): Offline reading of web pages/articles
 
 # Green
 
