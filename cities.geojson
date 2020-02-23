@@ -2084,6 +2084,18 @@
       "properties": {
         "name": "Austin, TX, USA"
       }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [-104.990278, 39.739167]
+      },
+      "properties": {
+        "name": "Denver, CO, USA",
+        "marker-symbol": "building",
+        "marker-color": "#008000"
+      }
     }
   ]
 }
