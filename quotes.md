@@ -794,3 +794,11 @@ Anthony de Mello, "Awareness"
 > The nature of the rain is the same and yet it produces thorns in the marsh and flowers in the garden.
 
 Arab saying
+
+> Acting on the ecological premise that everything's connected to everything else, the early organic movement sought to establish not just an alternative mode of production (the chemical-free farms), but an alternative system of distribution (the anticapitalist food co-ops), and even an alternative mode of consumption (the "countercuisine"). (...); since ecology taught "you can never do only one thing," what you ate was inseparable from how it was grown and how it reached your table.
+
+Michael Pollan, "The Omnivore's Dilemma"
+
+> People tend to think of "weaknesses" as static entities in the background. Their influence, although negative on performance, is neither increaseing or disappearing while we ignore them. We keep ignoring them because of the apparent pain in attacking them and because we feel we can still achieve improvement by working by working within the comfort zone (strengths we enjoy working on). (...) Unfortunately, performance strengths are not static, independent forces. Spending time working in the comfort of your strengths or relying on them borrows strength from your best assets or talents. But borrowing strength build weakeness. Weaknesses grow faster as you ignore them than you can grow your strengths by attempting to reinforce them.
+
+Dave MacLeod, "9 Out of 10 Climbers Make the Same Mistakes"
