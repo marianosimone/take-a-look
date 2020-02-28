@@ -223,3 +223,11 @@ Your job title says "software engineer", but you seem to spend most of your time
 Every senior person in an organisation should be aware of the less glamorous - and often less-promotable - work that needs to happen to make a team successful. Managed deliberately, glue work demonstrates and builds strong technical leadership skills. Left unconscious, it can be extremely career limiting. It pushes people into less technical roles and even out of the industry.
 
 [link](https://www.youtube.com/watch?v=KClAPipnKqw)
+
+## Ben Weissmann - "Typing the Untyped: Soundness in Gradual Type Systems" (StrangeLoop 2019)
+
+Recent years have seen an explosion of gradual type systems and superset languages that add types to previously untyped languages: TypeScript & Flow for Javascript, MyPy and Pyre for Python, Hack and PHP7 for PHP, Sorbet for Ruby, and many more. Implementing these type systems involves making tradeoffs between soundness (catching as many errors as possible) and completeness (not rejecting valid programs) that fundamentally impact the usability and usefulness of the type system.
+
+In this talk, I'll examine a few of these tradeoffs that apply across many languages: type refinement and refinement invalidation, array out-of-bound errors, and variance (particularly array covariance). We'll look at what tradeoffs a gradual type system needs to make, what the advantages are to different approaches, and compare how various gradual type systems and more traditional static type systems handle these tradeoffs.
+
+[link](https://www.youtube.com/watch?v=uJHD2xyv7xo)
