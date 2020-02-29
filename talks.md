@@ -345,3 +345,15 @@ Even when located in one of the largest cities on the continent of Africa, we st
 Short lecture by Kurt Vonnegut on the 'simple shapes of stories.'. How all stories can fit into certain predefined shapes: "Man in a hole", "Boy gets girl".
 
 [link](https://www.youtube.com/watch?v=oP3c1h8v2ZQ)
+
+## Yuval Noah Harari - "21 Lessons for the 21st Century" (Talks at Google)
+
+Yuval Noah Harari, macro-historian, Professor, best-selling author of "Sapiens" and "Homo Deus," and one of the world's most innovative and exciting thinkers, discusses his newest work, "21 Lessons for the 21st Century."
+
+[link](https://www.youtube.com/watch?v=Bw9P_ZXWDJU)
+
+## Steven Pinker - "The Stuff of Thought" (Talks at Google)
+
+Renowned linguist Steven Pinker speaks at Google's Mountain View, CA, headquarters about his book "The Stuff of Thought."
+
+[link](https://www.youtube.com/watch?v=hBpetDxIEMU)
