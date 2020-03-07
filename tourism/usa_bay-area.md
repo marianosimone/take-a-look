@@ -13,6 +13,7 @@
 - [Academy of Sciences](http://www.calacademy.org/) One of the most amazing and well-designed nature-science-oriented Museums ever (don't miss the NightLife events on Thursday nights)
 - [Exploratorium](http://www.exploratorium.edu/) Particularly interesting for kids, but a VERY enjoyable option for everyone in a rainy/cold day
 - [Musée Mécanique](http://www.museemecaniquesf.com) (Fisherman's Wharf, San Francisco): An odd (and sometimes scary) collection of old and working of coin-operated mechanical musical instruments and antique arcade machines
+- [Lawrence Hall of Science](http://www.lawrencehallofscience.org/) (Berkeley): UC Berkeley’s science center with hands-on exhibits to play with!. Plus: Great views of the Bay.
 
 ### Hiking
 
@@ -34,7 +35,7 @@ Armstrong Redwoods State Park](http://www.russianrivertravel.com/parks-armstrong
 - [Bi-Rite Creamery](http://biritecreamery.com/) Ice cream and cookies!
 - [Cheese Board Pizza](http://cheeseboardcollective.coop/pizza) Awesome vegetarian (and vegan) pizzas. Check their webpage to see what's the option of the day
 - [Eureka!](http://eurekarestaurantgroup.com/) Good burguers, beers and a cool near-campus vibe (Berkeley)
-- [Farm Burguer](http://www.farmburger.net/) (Berkeley/Marin)
+- [Farm Burguer](http://www.farmburger.com/) (Berkeley/Marin)
 - [Little John Candies)(http://littlejohnscandies.com) Little candy shop with chocolates and toffees (1422 Market Street, San Francisco)
 - [Lush Gelato](http://www.lushgelato.com/): One of the only places that makes even their own ice-cream base. Seasonal flavors (San Francisco, Oakland, Berkeley)
 - [Tartine Bakery](http://www.tartinebakery.com/) (San Francisco): A bit over-crowded, but awesome stuff!
@@ -45,6 +46,7 @@ Armstrong Redwoods State Park](http://www.russianrivertravel.com/parks-armstrong
 - [Frjtz Fries](http://www.frjtzfries.com): Belgian food (the fries!!!)
 - [Riva Cucina](http://www.rivacucina.com): Great italian restaurant in Berkeley
 - [Tara's Organic Ice Cream](http://www.tarasorganic.com/): "With architect Julia Morgan, Hearst conceived a retreat he called La Cuesta Encantada"
+- [Dosa](https://www.dosasf.com/): Indian food with a touch of local fare.
 
 ### Beer
 
@@ -68,3 +70,9 @@ There are SO many breweries in the Bay Area that it's hard to visit them all. Th
 Well, not really fair to this huge city... but if you are around the area, there are a couple of interesting places.
 
 - [Little Pine Restaurant](http://www.littlepinerestaurant.com): AMAZING vegan restaurant.
+
+### San Diego
+
+Even farther away, but still worth it :P
+
+- [Ale Smith](http://alesmith.com/): One of the best breweries in the US
