@@ -231,3 +231,9 @@ Recent years have seen an explosion of gradual type systems and superset languag
 In this talk, I'll examine a few of these tradeoffs that apply across many languages: type refinement and refinement invalidation, array out-of-bound errors, and variance (particularly array covariance). We'll look at what tradeoffs a gradual type system needs to make, what the advantages are to different approaches, and compare how various gradual type systems and more traditional static type systems handle these tradeoffs.
 
 [link](https://www.youtube.com/watch?v=uJHD2xyv7xo)
+
+## Jordan Mechner - "How Prince of Persia Defeated Apple II's Memory Limitations" (War Stories, from Ars Technica)
+
+For today’s episode of War Stories, Ars Technica sat down with Prince of Persia creator Jordan Mechner to learn about the challenges he faced while bringing his ambitious vision for the game to life. As the 1980's wound down, Mechner found himself fighting against not only the limitations of the Apple II hardware but the impending death of the platform itself. Decades later, Prince of Persia remains a classic example of how the constraints of early gaming led to solutions that advanced the artform.
+
+[link](https://www.youtube.com/watch?v=sw0VfmXKq54)
