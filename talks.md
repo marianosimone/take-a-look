@@ -357,3 +357,9 @@ Yuval Noah Harari, macro-historian, Professor, best-selling author of "Sapiens" 
 Renowned linguist Steven Pinker speaks at Google's Mountain View, CA, headquarters about his book "The Stuff of Thought."
 
 [link](https://www.youtube.com/watch?v=hBpetDxIEMU)
+
+## Chimamanda Ngozi Adichie - "The Danger of a Single Story" (TED)
+
+Our lives, our cultures, are composed of many overlapping stories. Novelist Chimamanda Adichie tells the story of how she found her authentic cultural voice -- and warns that if we hear only a single story about another person or country, we risk a critical misunderstanding.
+
+[link](https://www.ted.com/talks/chimamanda_ngozi_adichie_the_danger_of_a_single_story)
