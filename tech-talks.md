@@ -237,3 +237,9 @@ In this talk, I'll examine a few of these tradeoffs that apply across many langu
 For today’s episode of War Stories, Ars Technica sat down with Prince of Persia creator Jordan Mechner to learn about the challenges he faced while bringing his ambitious vision for the game to life. As the 1980's wound down, Mechner found himself fighting against not only the limitations of the Apple II hardware but the impending death of the platform itself. Decades later, Prince of Persia remains a classic example of how the constraints of early gaming led to solutions that advanced the artform.
 
 [link](https://www.youtube.com/watch?v=sw0VfmXKq54)
+
+## Seth Coster - "Stress-Free Game Development: Powering Up Your Studio With DevOps" (2020 GDC)
+
+Butterscotch Shenanigans' Seth Coster walks through how his team learned to use DevOps to get more done while working less. Even though it's game-development themed, many of the lessons apply to any software development project.
+
+[link](https://www.youtube.com/watch?v=t9HRzE7_2Xc)
