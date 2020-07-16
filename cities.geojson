@@ -2093,8 +2093,29 @@
       },
       "properties": {
         "name": "Denver, CO, USA",
+        "marker-symbol": "building"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [-104.8125, 39.710833]
+      },
+      "properties": {
+        "name": "Aurora, CO, USA",
         "marker-symbol": "building",
         "marker-color": "#008000"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [-105.270556, 40.015]
+      },
+      "properties": {
+        "name": "Boulder, CO, USA"
       }
     }
   ]
