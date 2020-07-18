@@ -19,3 +19,7 @@
 # Green
 
 - [Catalog Choice](https://nyc.catalogchoice.org): Unsubscribe from (real) mail deliveries
+
+# Books
+
+- [Standard Ebooks](https://standardebooks.org/): OpenSource repository of high-quality free ebooks
