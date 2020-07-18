@@ -810,3 +810,7 @@ John Roberts, [“I Wish You Bad Luck” commencement address](https://www.youtu
 > Life is a dance of the probabilities. If you wait for certainties, you will lose opportunities; instead, aspire to be approximately correct. You'll enjoy building the life of your dreams.
 
 Joseph Jude, ["Approximately correct"](https://www.jjude.com/approximate)
+
+> (...) that the race is not to the swiftest, the guy who works hardest doesn't win. The person who works on the right problem, at the right time, in the right way is what counts, and nothing else.
+
+Richard Hamming, ["You and Your Research"](https://www.youtube.com/watch?v=a1zDuOPkMSw)
