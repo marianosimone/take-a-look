@@ -5,3 +5,4 @@
 
 ## Drink
 - [LowDown](http://www.lowdownbrewery.com): Both great beer and great food
+- [Avery Breweing Co.](https://www.averybrewing.com/): (Boulder) Amazing Beer and good food
