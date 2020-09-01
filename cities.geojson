@@ -2117,6 +2117,106 @@
       "properties": {
         "name": "Boulder, CO, USA"
       }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [-104.825278, 38.833889]
+      },
+      "properties": {
+        "name": "Colorado Springs, CO, USA"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [-108.488687, 37.183784]
+      },
+      "properties": {
+        "name": "Mesa Verde National Park, CO, USA"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [-105.51212, 37.73287]
+      },
+      "properties": {
+        "name": "Great Sand Dunes National Park, CO, USA"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [-107.816389, 37.939167]
+      },
+      "properties": {
+        "name": "Telluride, CO, USA"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [-107.672222, 38.023333]
+      },
+      "properties": {
+        "name": "Ouray, CO, USA"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [-107.214475, 39.394616]
+      },
+      "properties": {
+        "name": "Carbondale, CO, USA"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [-106.375, 39.641667]
+      },
+      "properties": {
+        "name": "Vail, CO, USA"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [-106.043292, 39.499619]
+      },
+      "properties": {
+        "name": "Breckenridge, CO, USA"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [-105.695833, 39.7125]
+      },
+      "properties": {
+        "name": "Georgetown, CO, USA"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [-105.682813, 39.75971]
+      },
+      "properties": {
+        "name": "Empire, CO, USA"
+      }
     }
   ]
 }
