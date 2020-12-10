@@ -12,6 +12,7 @@
 - [Carbon](https://carbon.now.sh): Create and share beautiful images of your source code
 - [Flaticon](https://www.flaticon.com/): The largest database of free icons available in PNG, SVG, EPS, PSD and BASE 64 formats
 - [Freerange Stock](https://freerangestock.com/): Free stock images
+- [The Noun Project](https://thenounproject.com): Icons and Photos For Everything
 
 # Misc
 
