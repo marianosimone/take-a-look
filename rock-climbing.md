@@ -1,6 +1,6 @@
 # Rock Climbing
 
-Just some ideas on training, gear or anything rock climbing related
+## Watch/Listen/Read: Learn!
 
 - [Neil Gresham's Masterclass](https://www.youtube.com/playlist?list=PLBCRwO0FN0zMTqSfFW9SMbK2tncTrI25r)
 - [10 Drills to Improve Your Bouldering Footwork](https://www.99boulders.com/bouldering-footwork-drills)
@@ -12,3 +12,8 @@ Just some ideas on training, gear or anything rock climbing related
 - [4 Climbing Techniques taught by Paul Robinson](https://www.youtube.com/watch?v=nBp0HZCdo7w)
 - [Mani the Monkey](https://www.youtube.com/channel/UCvkGOw5JmJ3TPdXNiEFwq6Q) (e.g. [Back Step vs Flag](https://www.youtube.com/watch?v=F5g9YtcnDqw))
 - [Movement for Climbers](https://www.youtube.com/channel/UC6-rliFvsdCUTZndrZTQjMA) (e.g. [Instinct vs Control - What Kind of Climber Are You?](https://www.youtube.com/watch?v=FXXzaXgNHkg))
+- [Tonde Katiyo @ The Nugget Climbing podcast](https://thenuggetclimbing.com/episodes/tonde-katiyo-part-1)
+
+## Train
+
+- [Tension Climbing's The Block](https://www.tensionclimbing.com/product/the-block)
