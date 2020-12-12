@@ -26,4 +26,6 @@
 
 # Books
 
-- [Standard Ebooks](https://standardebooks.org/): OpenSource repository of high-quality free ebooks
+- [Standard Ebooks](https://standardebooks.org): OpenSource repository of high-quality free ebooks
+- [Library Genesis](http://gen.lib.rus.ec): More books
+- [ZLibrary](https://b-ok.cc): Even more books
