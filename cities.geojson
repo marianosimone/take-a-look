@@ -2217,6 +2217,16 @@
       "properties": {
         "name": "Empire, CO, USA"
       }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [-105.525514, 40.377117]
+      },
+      "properties": {
+        "name": "Estes Park, CO, USA"
+      }
     }
   ]
 }
