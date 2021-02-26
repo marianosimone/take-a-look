@@ -363,3 +363,10 @@ Renowned linguist Steven Pinker speaks at Google's Mountain View, CA, headquarte
 Our lives, our cultures, are composed of many overlapping stories. Novelist Chimamanda Adichie tells the story of how she found her authentic cultural voice -- and warns that if we hear only a single story about another person or country, we risk a critical misunderstanding.
 
 [link](https://www.ted.com/talks/chimamanda_ngozi_adichie_the_danger_of_a_single_story)
+
+## Lera Boroditsky - "How Language Shapes Thought" (Long Now Seminars)
+
+Do the languages we speak shape the way we think?  For example, how do we think about time?  The word "time" is the most frequent noun in the English language. Time is ubiquitous yet ephemeral.  It forms the very fabric of our experience, and yet it is unperceivable: we cannot see, touch, or smell time.   How do our minds create this fundamental aspect of experience?  Do patterns in language and culture influence how we think about time?
+Do languages merely express thoughts, or do the structures in languages (without our knowledge or consent) shape the very thoughts we wish to express?  Can learning new ways to talk change how you think? Is there intrinsic value in human linguistic diversity? Join us as Stanford cognitive scientist Lera Boroditsky re-invigorates this long standing debate with data from experiments done around the world, from China, to Indonesia, Israel, and Aboriginal Australia.
+
+[link](https://www.youtube.com/watch?v=I64RtGofPW8)
