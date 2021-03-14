@@ -171,3 +171,9 @@ Dan North
 > this is to rewrite the program.
 
 Geoffrey James, "[The Tao of Programming](https://www.mit.edu/~xela/tao.html)"
+
+> We are not here to write code... we are here to solve a problem to make someone’s life better. Code is the tool we use to build software to solve that problem.
+> The corollary is that we'll keep needing "Solution Developers" (more than "Software Engineers") in the future. Part of the code itself might go away (with "No Code" tools), and Software might not be the right solution for a particular problem.
+> People with strong critical thinking, communication skills, creativity, and ingenuity will be in high demand for a long while.
+
+Mariano Simone, trying to philosophize and be profound 🤔
