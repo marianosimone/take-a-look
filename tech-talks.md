@@ -243,3 +243,15 @@ For today’s episode of War Stories, Ars Technica sat down with Prince of Persi
 Butterscotch Shenanigans' Seth Coster walks through how his team learned to use DevOps to get more done while working less. Even though it's game-development themed, many of the lessons apply to any software development project.
 
 [link](https://www.youtube.com/watch?v=t9HRzE7_2Xc)
+
+## Doc Norton - "The Technical Debt Trap" (NDC2014)
+
+Technical Debt has become a catch-all phrase for any code that needs to be re-worked. Much like Refactoring has become a catch-all phrase for any activity that involves changing code. These fundamental misunderstandings and comfortable yet mis-applied metaphors have resulted in a plethora of poor decisions. What is technical debt? What is not technical debt? Why should we care? What is the cost of misunderstanding? What do we do about it? Doc discusses the origins of the metaphor, what it means today, and how we properly identify and manage technical debt.
+
+[link](https://vimeo.com/97507576)
+
+## Kelsey Hightower - "From McDonald's to Google"
+
+As a self taught engineer, Hightower honed his tech skills at the peak of the open source movement, which led to the democratization of software, and created pathways into tech for a new generation of aspiring computer professionals. In this session Hightower will explore his journey into tech and how he became one of the most respected people in cloud computing. Attendees will walk away from this session inspired by their own uniqueness and understand how to leverage technology to help shape the world they want to live in.
+
+[link](https://www.youtube.com/watch?v=HZXr5Bs0T5k)
