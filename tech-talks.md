@@ -255,3 +255,9 @@ Technical Debt has become a catch-all phrase for any code that needs to be re-wo
 As a self taught engineer, Hightower honed his tech skills at the peak of the open source movement, which led to the democratization of software, and created pathways into tech for a new generation of aspiring computer professionals. In this session Hightower will explore his journey into tech and how he became one of the most respected people in cloud computing. Attendees will walk away from this session inspired by their own uniqueness and understand how to leverage technology to help shape the world they want to live in.
 
 [link](https://www.youtube.com/watch?v=HZXr5Bs0T5k)
+
+## Dr. Richard Cook - "Working at the Center of the Cyclone" (DevOps Enterprise Summit, 2018)
+
+Ironically, our increasingly automated systems have increased the demand for thoughtful, skilled, and skeptical human experts capable of understanding them and intervening, often under intense pressure and high uncertainty. As the underlying technical entities increase in complexity and importance these pressures, uncertainty, and the stakes of expert decisions also increase. We’ve been studying what these people are doing and how they do it. Their results are exciting, encouraging, and worrisome. Exciting because the studies open a new window into how distributed systems are resilient. Encouraging because the expert work is so sophisticated and purposeful. Worrisome because it is clear that we are not yet building technologies that are team players and the path forward is not clear. What is clear is that understanding the cognitive work of experts is a powerful way of understanding the "system" and grounding our own understanding of where opportunities and vulnerabilities lie.
+
+[link](https://www.youtube.com/watch?v=3ZP98stDUf0)
