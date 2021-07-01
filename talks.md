@@ -370,3 +370,9 @@ Do the languages we speak shape the way we think?  For example, how do we think 
 Do languages merely express thoughts, or do the structures in languages (without our knowledge or consent) shape the very thoughts we wish to express?  Can learning new ways to talk change how you think? Is there intrinsic value in human linguistic diversity? Join us as Stanford cognitive scientist Lera Boroditsky re-invigorates this long standing debate with data from experiments done around the world, from China, to Indonesia, Israel, and Aboriginal Australia.
 
 [link](https://www.youtube.com/watch?v=I64RtGofPW8)
+
+## Zach Start - "What changes? | A lesson in statistics, incentives, and internet stupidity"
+
+An intro about how statistics actually work, and how our understanding of economics, behavior, and all the "social sciences" can be upgraded by understanding that.
+
+[link](https://www.youtube.com/watch?v=AGuwXSe6tAw)
