@@ -818,3 +818,7 @@ Richard Hamming, ["You and Your Research"](https://www.youtube.com/watch?v=a1zDu
 > What is the truth and what is the lie? Once again, awareness is important, because the truth doesn't come with words, with knowledge. Bue lies do, and there are billions of lies. Humans believe so many lies because we aren't aware. We ignore the truth or we just don't see the truth. When we are domesticated, we accumulate a lot of knowledge, and all that knowledge is just like a wall of fog that doesn't allow us to perceive the truth, what really is. We only see what we want to see; we only hear what we want to hear. Our belief system is just like a mirror that only shows us what we believe.
 
 Don Miguel Ruiz, "The Fifth Agreement"
+
+> It is much better to do the right thing wronger than the wrong thing righter. If you do the right thing wrong and correct it, you get better.
+
+Russell L. Ackoff
