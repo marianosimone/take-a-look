@@ -822,3 +822,7 @@ Don Miguel Ruiz, "The Fifth Agreement"
 > It is much better to do the right thing wronger than the wrong thing righter. If you do the right thing wrong and correct it, you get better.
 
 Russell L. Ackoff
+
+> If something fails where you thought it would fail, that is not a failure.
+
+Kevin Kelly, ["99 Additional Bits of Unsolicited Advice"](https://kk.org/thetechnium/99-additional-bits-of-unsolicited-advice/)
