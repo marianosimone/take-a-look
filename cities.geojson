@@ -2227,6 +2227,26 @@
       "properties": {
         "name": "Estes Park, CO, USA"
       }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [-79.368056, 38.995833]
+      },
+      "properties": {
+        "name": "Dolly Sods Wilderness, WV, USA"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [-79.366111, 38.834722]
+      },
+      "properties": {
+        "name": "Seneca Rocks, WV, USA"
+      }
     }
   ]
 }
