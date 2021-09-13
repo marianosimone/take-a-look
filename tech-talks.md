@@ -261,3 +261,9 @@ As a self taught engineer, Hightower honed his tech skills at the peak of the op
 Ironically, our increasingly automated systems have increased the demand for thoughtful, skilled, and skeptical human experts capable of understanding them and intervening, often under intense pressure and high uncertainty. As the underlying technical entities increase in complexity and importance these pressures, uncertainty, and the stakes of expert decisions also increase. We’ve been studying what these people are doing and how they do it. Their results are exciting, encouraging, and worrisome. Exciting because the studies open a new window into how distributed systems are resilient. Encouraging because the expert work is so sophisticated and purposeful. Worrisome because it is clear that we are not yet building technologies that are team players and the path forward is not clear. What is clear is that understanding the cognitive work of experts is a powerful way of understanding the "system" and grounding our own understanding of where opportunities and vulnerabilities lie.
 
 [link](https://www.youtube.com/watch?v=3ZP98stDUf0)
+
+## Thorsten Altenkirch - "Eliminating Run-Time Errors with Agda" (Computerphile)
+
+A language designed to eliminate run-time errors? Programming Type Theory with Agda.
+
+[link](https://www.youtube.com/watch?v=bRudW0aBNg8)
