@@ -2247,6 +2247,66 @@
       "properties": {
         "name": "Seneca Rocks, WV, USA"
       }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [-105.875314, 37.475041]
+      },
+      "properties": {
+        "name": "Alamosa, CO, USA"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [-106.324167, 35.875556]
+      },
+      "properties": {
+        "name": "Los Alamos, NM, USA"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [-106.61, 35.110833]
+      },
+      "properties": {
+        "name": "Albuquerque, NM, USA"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [-106.171944, 32.779167]
+      },
+      "properties": {
+        "name": "White Sands National Park, NM, USA"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [-105.964444, 35.667222]
+      },
+      "properties": {
+        "name": "Santa Fe, NM, USA"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [-105.435278, 35.327222]
+      },
+      "properties": {
+        "name": "Pueblo, NM, USA"
+      }
     }
   ]
 }
