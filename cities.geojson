@@ -2307,6 +2307,16 @@
       "properties": {
         "name": "Pueblo, NM, USA"
       }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [-95.383056, 29.762778]
+      },
+      "properties": {
+        "name": "Houston, TX, USA"
+      }
     }
   ]
 }
