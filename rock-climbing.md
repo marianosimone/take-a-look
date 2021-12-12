@@ -13,6 +13,7 @@
 - [Mani the Monkey](https://www.youtube.com/channel/UCvkGOw5JmJ3TPdXNiEFwq6Q) (e.g. [Back Step vs Flag](https://www.youtube.com/watch?v=F5g9YtcnDqw))
 - [Movement for Climbers](https://www.youtube.com/channel/UC6-rliFvsdCUTZndrZTQjMA) (e.g. [Instinct vs Control - What Kind of Climber Are You?](https://www.youtube.com/watch?v=FXXzaXgNHkg))
 - [Tonde Katiyo @ The Nugget Climbing podcast](https://thenuggetclimbing.com/episodes/tonde-katiyo-part-1)
+- [Tomoa / Akiyo / Ikedai](https://www.youtube.com/channel/UCx3XxWczzWgm1bLmgdeQJMw) (e.g. [The World Class 4 technics for coordination problem](https://www.youtube.com/watch?v=dT8oQPeJQts))
 
 ## Train
 
