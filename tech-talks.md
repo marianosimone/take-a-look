@@ -267,3 +267,17 @@ Ironically, our increasingly automated systems have increased the demand for tho
 A language designed to eliminate run-time errors? Programming Type Theory with Agda.
 
 [link](https://www.youtube.com/watch?v=bRudW0aBNg8)
+
+## Sweta Sanghavi - "Schrödinger's Error: Living In the grey area of Exceptions" (RubyConf 2021)
+
+ArgumentErrors, TimeOuts, TypeErrors… even scanning a monitoring dashboard can be overwhelming. Any complex system is likely swimming in exceptions. Some are high value signals. Some are red herrings. Resilient applications that live in the entropy of the web require developers to be experts at responding to exceptions. But which ones and how?
+
+In this talk, we’ll discuss what makes exception management difficult, tools to triage and respond to exceptions, and processes for more collective and effective exception management. We'll also explore some related opinions from you, my dear colleagues.
+
+[link](https://www.youtube.com/watch?v=KvcFphVk4eg)
+
+## Jenny Shih - "Fake Your Test Away: How To Abuse Your Test Doubles" (RubyConf 2021)
+
+You probably already know: In a unit test, use test doubles to sub real dependencies. You probably also know: In reality, things are not so easy. What do you do if the dependencies span multiple layers? What if the dependencies are implicit? If we can't find the best level of isolation, test doubles can be unwieldy very quickly and they will make the test, as well as the future you, miserable. In this talk, we will look at symptoms that produce unreliable and unmaintainable tests, and develop a strategy that will make your test suite more resilient and actually enjoyable.
+
+[link](https://www.youtube.com/watch?v=RMDX7u9MA9Y)
