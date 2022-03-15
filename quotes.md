@@ -826,3 +826,7 @@ Russell L. Ackoff
 > If something fails where you thought it would fail, that is not a failure.
 
 Kevin Kelly, ["99 Additional Bits of Unsolicited Advice"](https://kk.org/thetechnium/99-additional-bits-of-unsolicited-advice/)
+
+> You _cannot_ be anything you want to be - but you _can_ be a lot more of who you already are
+
+Tom Rath, "Strengths Finder 2.0"
