@@ -7,6 +7,7 @@
 ## Websites
 
 - [Open Culture](http://www.openculture.com): Everything music, theater, movies and philosophy.
+- [A Collection of Unmitigated Pedantry - A look at history and popular culture](https://acoup.blog/): Great historic, literary, and polictical analysis. For example, an analysis of how [The Siege of Gondor](https://acoup.blog/2019/05/10/collections-the-siege-of-gondor/) (from The Lord Of The Rings) checks up militarly (and how the book and the movie versions are different and more - or less - accurate/possible)
 
 ## Podcasts
 
