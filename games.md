@@ -15,3 +15,7 @@
 - [Shadow Tactics: Blades of the Shogun](http://www.shadow-tactics.com): Stealth-oriented real-time tactics... if you played Commandos, Desperados or games like that and you liked them, you'll loe this: a gem of the (not so populated) genre.
 
 ![shadow tactics](img/game_shadow-tactics.jpg)
+
+- [FRAMED Collection](http://framed-game.com/): Unique gameplay where you have to change the order of the panels of a comic to make the scene flow to the desired end.
+
+![FRAMED](img/game_framed.jpg)
