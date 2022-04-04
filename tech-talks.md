@@ -281,3 +281,9 @@ In this talk, we’ll discuss what makes exception management difficult, tools t
 You probably already know: In a unit test, use test doubles to sub real dependencies. You probably also know: In reality, things are not so easy. What do you do if the dependencies span multiple layers? What if the dependencies are implicit? If we can't find the best level of isolation, test doubles can be unwieldy very quickly and they will make the test, as well as the future you, miserable. In this talk, we will look at symptoms that produce unreliable and unmaintainable tests, and develop a strategy that will make your test suite more resilient and actually enjoyable.
 
 [link](https://www.youtube.com/watch?v=RMDX7u9MA9Y)
+
+## Miguel Grinberg - "Is Your REST API RESTful?" (PyCon 2015)
+
+Writing a fully complaint REST API is hard, so hard it is too common for APIs to violate one or more of the REST architectural principles. In this talk I will describe the six REST principles, and I will tell you what happens if you don't follow them.
+
+[link](https://www.youtube.com/watch?v=pZYRC8IbCwk)
