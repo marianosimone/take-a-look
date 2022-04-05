@@ -287,3 +287,9 @@ You probably already know: In a unit test, use test doubles to sub real dependen
 Writing a fully complaint REST API is hard, so hard it is too common for APIs to violate one or more of the REST architectural principles. In this talk I will describe the six REST principles, and I will tell you what happens if you don't follow them.
 
 [link](https://www.youtube.com/watch?v=pZYRC8IbCwk)
+
+## Tudor Gîrba - "Moldable development" (Curry On! London 2019)
+
+Developers spend more than half their time reading systems rather than writing them. This lead to the creation of a novel development approach, Moldable Development, and a corresponding IDE, Glamorous Toolkit, which has the potential to change both how we reason and make decisions about software systems.
+
+[link](https://www.youtube.com/watch?v=Pot9GnHFOVU)
