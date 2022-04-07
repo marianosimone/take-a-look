@@ -1,8 +1,9 @@
 # Media
 
-## TV
+## Video
 
 - John Oliver's [Last Week Tonight](https://www.hbo.com/last-week-tonight-with-john-oliver): Apart from the great weekly summary, there are great interviews with [Stephen Hawking](https://www.youtube.com/watch?v=OPV3D7f3bHY), and [Edward Snowden](https://www.youtube.com/watch?v=yzGzB-yYKcc).
+- [Conversations at The Interval](https://www.youtube.com/playlist?list=PL6uS2H8g4Y281QKDQZl2BPNAbe9NFg3eK), by The Long Now Foundation. For example, [Climate Change and the Future of Cities, by Eric Klinenberg](https://www.youtube.com/watch?v=6aBQCZIeonc)
 
 ## Websites
 
