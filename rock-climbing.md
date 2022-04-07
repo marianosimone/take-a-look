@@ -14,6 +14,7 @@
 - [Movement for Climbers](https://www.youtube.com/channel/UC6-rliFvsdCUTZndrZTQjMA) (e.g. [Instinct vs Control - What Kind of Climber Are You?](https://www.youtube.com/watch?v=FXXzaXgNHkg))
 - [Tonde Katiyo @ The Nugget Climbing podcast](https://thenuggetclimbing.com/episodes/tonde-katiyo-part-1)
 - [Tomoa / Akiyo / Ikedai](https://www.youtube.com/channel/UCx3XxWczzWgm1bLmgdeQJMw) (e.g. [The World Class 4 technics for coordination problem](https://www.youtube.com/watch?v=dT8oQPeJQts))
+- [GearSkeptic](https://www.youtube.com/channel/UCflIoVkAjQnyAwDKFmhRDDw), for example [Performance nutrition for backpackers](https://www.youtube.com/watch?v=iqgayipoNWA)
 
 ## Train
 
