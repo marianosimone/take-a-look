@@ -2,12 +2,12 @@
 
 ## Tools
 
-- [Alfred](https://www.alfredapp.com/) adds hotkeys, text expansion, custom workflows
-- [homebrew](http://brew.sh/) package manager
-- [KeepingYouAwake](https://keepingyouawake.app/) Prevents your Mac from going to sleep
+- [Alfred](https://www.alfredapp.com) adds hotkeys, text expansion, custom workflows
+- [KeepingYouAwake](https://keepingyouawake.app) Prevents your Mac from going to sleep
 - [MacDown](http://macdown.uranusjr.com/) Markdown editor with live preview
-- [ShiftIt](https://github.com/fikovnik/ShiftIt) or [Spectacle](https://www.spectacleapp.com/) to arrange app windows
- 
+- [Spectacle](https://www.spectacleapp.com) or [Rectangle](https://rectangleapp.com) to arrange app windows
+- [MeetingBar](https://meetingbar.onrender.com) to display upcoming meetings in the menu bar
+
 ## Setup
 
 - Make hidden files visible by running: `defaults write com.apple.finder AppleShowAllFiles YES`
