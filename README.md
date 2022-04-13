@@ -2,7 +2,7 @@
 
 Apart from various ramblings you can find in this repo, here are some off-the bat recommendations
 
-- [Apps](apps.md)
+- [Software](software.md)
 - [Artists](artists.md)
 - [Books](https://www.listal.com/list/favorite-books-marianosimone)
 - [Games](games.md)
