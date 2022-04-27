@@ -19,3 +19,4 @@
 - [hicat](https://github.com/rstacruz/hicat): `cat` with syntax highlighting.
 - [difftastic](https://github.com/Wilfred/difftastic): `diff` that compares files based on their syntax.
 - [jless](https://jless.io): command-line JSON viewer designed for reading, exploring, and searching through JSON data.
+- [fish](https://fishshell.com/): command line shell for Linux, macOS, and the rest of the family
