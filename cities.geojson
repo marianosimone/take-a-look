@@ -2317,6 +2317,16 @@
       "properties": {
         "name": "Houston, TX, USA"
       }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [-105.593611, 41.311111]
+      },
+      "properties": {
+        "name": "Laramie, WY, USA"
+      }
     }
   ]
 }
