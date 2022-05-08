@@ -11,6 +11,7 @@
 - [pdfbooklet](sourceforge.net/projects/pdfbooklet/): create booklets from pdfs, in order to print them and make real books
 - [youtube-dl](https://github.com/rg3/youtube-dl): download youtube videos from cli
 - [Excalidraw](https://excalidraw.com): virtual whiteboard for sketching hand-drawn like diagrams.
+- [Feedly](https://wwww.feedly.com): RSS feed reader
 
 ## For Developers
 - [pythonpy](https://github.com/Russell91/pythonpy): python -c, with tab completion and shorthand
