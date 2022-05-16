@@ -838,3 +838,7 @@ Attributed to many 🤷
 > You can't forgive without loving. And I don't mean sentimentality. I don't mean mush. I mean having enough courage to stand up and say, "I forgive. I'm finished with it."
 
 Maya Angelou
+
+> Internet access is a human right," is just a sneaky way of saying "someone should give people free Internet." Who is someone? It's left unspecified, which is skipping over the entire mechanism by which we deliver the Internet. It's much more revealing to write, "To live in a healthy society, it's our responsibility to make sure every person has Internet access." Suddenly, oh, crap. The someone is me!Healthy society is created through constant effort, by all of us, as a gift to our fellow members. It's not extracted from us as a mandatory payment to our overlords who will do all the work.
+ 
+apenwarr.ca, [The Gift of It's Your Problem Now](https://apenwarr.ca/log/20211229)
