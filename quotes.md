@@ -830,3 +830,7 @@ Kevin Kelly, ["99 Additional Bits of Unsolicited Advice"](https://kk.org/thetech
 > You _cannot_ be anything you want to be - but you _can_ be a lot more of who you already are
 
 Tom Rath, "Strengths Finder 2.0"
+
+> Rules are for the guidance of wise men and the obedience of fools.
+
+Attributed to many 🤷
