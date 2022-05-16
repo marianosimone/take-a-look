@@ -834,3 +834,7 @@ Tom Rath, "Strengths Finder 2.0"
 > Rules are for the guidance of wise men and the obedience of fools.
 
 Attributed to many 🤷
+
+> You can't forgive without loving. And I don't mean sentimentality. I don't mean mush. I mean having enough courage to stand up and say, "I forgive. I'm finished with it."
+
+Maya Angelou
