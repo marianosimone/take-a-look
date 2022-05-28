@@ -376,3 +376,9 @@ Do languages merely express thoughts, or do the structures in languages (without
 An intro about how statistics actually work, and how our understanding of economics, behavior, and all the "social sciences" can be upgraded by understanding that.
 
 [link](https://www.youtube.com/watch?v=AGuwXSe6tAw)
+
+## David Eagleman - "Can we create new senses for humans?" (TED2015)
+
+As humans, we can perceive less than a ten-trillionth of all light waves. "Our experience of reality," says neuroscientist David Eagleman, "is constrained by our biology." He wants to change that. His research into our brain processes has led him to create new interfaces -- such as a sensory vest -- to take in previously unseen information about the world around us.
+
+[link](https://www.ted.com/talks/david_eagleman_can_we_create_new_senses_for_humans)
