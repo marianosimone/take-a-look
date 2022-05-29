@@ -382,3 +382,9 @@ An intro about how statistics actually work, and how our understanding of econom
 As humans, we can perceive less than a ten-trillionth of all light waves. "Our experience of reality," says neuroscientist David Eagleman, "is constrained by our biology." He wants to change that. His research into our brain processes has led him to create new interfaces -- such as a sensory vest -- to take in previously unseen information about the world around us.
 
 [link](https://www.ted.com/talks/david_eagleman_can_we_create_new_senses_for_humans)
+
+## Irma L. Olguin Jr. - "How to turn around a city" (TED2022)
+
+omputer skills aren't what's stopping people from breaking into the tech industry, says social entrepreneur Irma L. Olguin Jr. More often, the biggest hurdles are things like access to childcare, transportation and financial stability. In this visionary talk, Olguin Jr. introduces the work she's done to uplift and empower people in her community in Fresno, California -- and shows how it can be a model to elevate "underdog" communities across the world.
+
+[link](https://www.youtube.com/watch?v=1TzlzuW1uGA)
