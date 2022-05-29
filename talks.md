@@ -108,41 +108,54 @@ Ouede dar un poco de miedo… cuenta los avances que están haciendo los cientí
 
 [link](http://www.youtube.com/watch?v=uNymCk82yQ4)
 
-John Maeda: "How art, technology and design inform creative leaders"
+## John Maeda - "How art, technology and design inform creative leaders"
+
 John Maeda, President of the Rhode Island School of Design, delivers a funny and charming talk that spans a lifetime of work in art, design and technology, concluding with a picture of creative leadership in the future. Watch for demos of Maeda’s earliest work -- and even a computer made of people.
-http://www.ted.com/talks/john_maeda_how_art_technology_and_design_inform_creative_leaders.html
 
-Barry Schwartz: "On the paradox of choice"
+[link](http://www.ted.com/talks/john_maeda_how_art_technology_and_design_inform_creative_leaders.html)
+
+## Barry Schwartz - "On the paradox of choice"
+
 Psychologist Barry Schwartz takes aim at a central tenet of western societies: freedom of choice. In Schwartz's estimation, choice has made us not freer but more paralyzed, not happier but more dissatisfied.
-http://www.ted.com/talks/barry_schwartz_on_the_paradox_of_choice.html
 
-Tom "Mojombo" Preston-Werner: "Optimizing for Happiness"
+[link](http://www.ted.com/talks/barry_schwartz_on_the_paradox_of_choice.html)
+
+## Tom "Mojombo" Preston-Werner - "Optimizing for Happiness"
+
 The way traditional businesses approach the management and organization of creative, intellectual workers is wrong. By throwing away everything that blocks productivity (meetings, deadlines, managers, titles, strict vacation policies, etc) and treating your employees as the responsible adults that they are, huge amounts of potential can be unlocked and employee happiness and retention can be at unprecedented highs. At GitHub we've embraced a philosophy that gets things done and strips away policy and procedure in favor of smart decision making and personal responsibility. Come see how we make it work and how you can reap the same benefits in your own company.
 
 [link](http://vimeo.com/39016099)
 
-Janet Echelman: "Taking imagination seriously"
+## Janet Echelman - "Taking imagination seriously"
+
 Janet Echelman found her true voice as an artist when her paints went missing -- which forced her to look to an unorthodox new art material. Now she makes billowing, flowing, building-sized sculpture with a surprisingly geeky edge. A transporting 10 minutes of pure creativity.
 
 [link](http://www.ted.com/talks/janet_echelman.html)
 
-Dan Gilbert: The surprising science of happiness
+## Dan Gilbert - "The surprising science of happiness"
+
 Dan Gilbert, author of "Stumbling on Happiness," challenges the idea that we’ll be miserable if we don’t get what we want. Our "psychological immune system" lets us feel truly happy even when things don’t go as planned.
+
 [link](http://www.ted.com/talks/dan_gilbert_asks_why_are_we_happy.html)
 
-Luis Pescetti: “El humor, y el alivio de ser quienes somos”
+## Luis Pescetti - “El humor, y el alivio de ser quienes somos”
+
 La muestra de que el humor más naïf puede enganchar a cualquiera. Con una dinámica trepidante, y dejándonos a todos con ganas de más, Pescetti tomó situaciones cotidianas familiares, y las hizo canciones aptas para todo público
+
 [link](http://www.youtube.com/watch?v=KTpChP26scI)
 
-Jason Fried: "Why work doesn't happen at work"
+## Jason Fried - "Why work doesn't happen at work"
+
 [link](http://www.ted.com/talks/jason_fried_why_work_doesn_t_happen_at_work.html)
 
-Shawn Achor: "The happy secret to better work"
+## Shawn Achor - "The happy secret to better work"
+
 [link](http://www.ted.com/talks/shawn_achor_the_happy_secret_to_better_work.html)
 
 ## Alain de Botton: "Atheism 2.0"
 
 What aspects of religion should atheists (respectfully) adopt? Alain de Botton suggests a "religion for atheists" -- call it Atheism 2.0 -- that incorporates religious forms and traditions to satisfy our human need for connection, ritual and transcendence.What aspects of religion should atheists (respectfully) adopt? Alain de Botton suggests a "religion for atheists" -- call it Atheism 2.0 -- that incorporates religious forms and traditions to satisfy our human need for connection, ritual and transcendence.
+
 [link](http://www.ted.com/talks/alain_de_botton_atheism_2_0.html)
 
 ## Paul Lightfoot: "BrightFarms: A Produce Supply Chain Revolution"
