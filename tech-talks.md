@@ -293,3 +293,18 @@ Writing a fully complaint REST API is hard, so hard it is too common for APIs to
 Developers spend more than half their time reading systems rather than writing them. This lead to the creation of a novel development approach, Moldable Development, and a corresponding IDE, Glamorous Toolkit, which has the potential to change both how we reason and make decisions about software systems.
 
 [link](https://www.youtube.com/watch?v=Pot9GnHFOVU)
+
+## Bruce Eckel - Making Data Classes Work for You (PyCon US 2022)
+
+This will be a example-driven presentation. The first set of examples looks at an int which should be restricted to a value from one through ten.
+
+First I'll look at the problems in the traditional approach, passing an int to a function and checking to ensure it is within range.
+
+Next I'll encapsulate the int in a (regular) class OneToTen, which allows the movement of the test into the constructor. Although this guarantees that objects will be created correctly, such objects are mutable so they can be modified to be invalid after creation.
+
+The solution is to use @dataclass together with the frozen=True option, and add a `__post_init__` function to check the validity of the object once it's been initialized. Because such an object is invariant, it cannot be later modified into an invalid state. This ensures that the new type can only ever
+exist as a legitimate value.
+
+Next I'll use this technique to create a Person type that is composed of `FullName`, `BirthDate` and `EmailAddress` fields, each of which validates itself. Finally, I'll compose `BirthDate` using `Day`, `Month` and `Year` fields.
+
+[link](https://www.youtube.com/watch?v=w77Kjs5dEko)
