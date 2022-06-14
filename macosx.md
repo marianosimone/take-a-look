@@ -15,6 +15,7 @@
 - Disable Chrome's swipe to go back/forward: `System preferences > Trackpad > Swipe between pages`
 - Install [bash-git-prompt](https://github.com/magicmonty/bash-git-prompt)
 - Setup [git autocompletion](https://gist.github.com/johngibb/972430)
+- Setup a Focus configuration triggered by Zoom/Meet/whatever to turn off notifications during meetings ([tutorial](https://webtrickz.com/turn-off-notifications-while-on-zoom-mac/))
 
 ### iTerm
 
