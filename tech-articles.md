@@ -84,3 +84,5 @@
 - [Root cause](https://github.com/readme/guides/root-cause)
 - [How to do less](https://alexturek.com/2022-03-07-How-to-do-less/)
 - [Is TDD Dead?](https://martinfowler.com/articles/is-tdd-dead/)
+- [Good goals](https://msiliski.medium.com/good-goals-249db6df265d)
+- [The secret to getting to the Staff+ level? Leverage](https://leaddev.com/career-paths-progression-promotion/secret-getting-staff-level-leverage)
