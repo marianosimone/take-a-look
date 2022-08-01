@@ -2337,6 +2337,66 @@
       "properties": {
         "name": "Chicago, IL, USA"
       }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [-104.039722, 41.916944]
+      },
+      "properties": {
+        "name": "Lyman, NE, USA"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [-103.228, 44.076]
+      },
+      "properties": {
+        "name": "Rapid City, SD, USA"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [-103.5975, 43.768333]
+      },
+      "properties": {
+        "name": "Custer, SD, USA"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [-102.5, 43.75]
+      },
+      "properties": {
+        "name": "Badlands National Park, SD, USA"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [-103.47865, 43.55635]
+      },
+      "properties": {
+        "name": "Wind Cave National Park, SD, USA"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [-103.474167, 43.431667]
+      },
+      "properties": {
+        "name": "Hot Springs, SD, USA"
+      }
     }
   ]
 }
