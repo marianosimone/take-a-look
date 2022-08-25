@@ -2397,6 +2397,35 @@
       "properties": {
         "name": "Hot Springs, SD, USA"
       }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [-0.197778, 38.676944]
+      },
+      "properties": {
+        "name": "Guadalest, Spain"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [-0.232778, 38.505278]
+      },
+      "properties": {
+        "name": "La Vila Joiosa, Spain"
+      },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [-0.311389, 38.587222]
+      },
+      "properties": {
+        "name": "Relleu, Spain"
+      }
     }
   ]
 }
