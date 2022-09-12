@@ -17,4 +17,4 @@
 
 ### iTerm
 
-- To be able to move to beginning/end of line, or by word, using cmd and opt: Go to `Preferences... > Profiles > Keys > Presets... > Natural Text Editing`
+- To be able to move to beginning/end of line, or by word, using cmd and opt: Go to `Preferences... > Profiles > Keys > Key Mappings > Presets... > Natural Text Editing`
