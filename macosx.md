@@ -13,7 +13,8 @@
 
 - Make hidden files visible by running: `defaults write com.apple.finder AppleShowAllFiles YES`
 - Disable Chrome's swipe to go back/forward: `System preferences > Trackpad > Swipe between pages`
-- Setup a Focus configuration triggered by Zoom/Meet/whatever to turn off notifications during meetings ([tutorial](https://webtrickz.com/turn-off-notifications-while-on-zoom-mac/))
+- Setup a Focus configuration triggered by Zoom/Meet/whatever to turn off notifications during meetings ([tutorial](https://webtrickz.com/turn-off-notifications-while-on-zoom-mac))
+- Make repeat keystrokes more responsive by `Settings > Keyboard > [Key Repeat/Delay Until Repeat]` to max
 
 ### iTerm
 
