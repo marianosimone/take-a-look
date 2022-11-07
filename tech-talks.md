@@ -308,3 +308,9 @@ exist as a legitimate value.
 Next I'll use this technique to create a Person type that is composed of `FullName`, `BirthDate` and `EmailAddress` fields, each of which validates itself. Finally, I'll compose `BirthDate` using `Day`, `Month` and `Year` fields.
 
 [link](https://www.youtube.com/watch?v=w77Kjs5dEko)
+
+## Uncle Bob - Coding Better World Together
+
+"Coding Better World Together" is a set of master lessons from the famous Uncle Bob (Robert Cecil Martin), where he gives us a broad vision of the importance and future of Software in today's society.
+
+[link](https://www.youtube.com/playlist?list=PLmmYSbUCWJ4x1GO839azG_BBw8rkh-zOj)
