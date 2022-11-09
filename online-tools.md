@@ -14,6 +14,7 @@
 - [Flaticon](https://www.flaticon.com/): The largest database of free icons available in PNG, SVG, EPS, PSD and BASE 64 formats
 - [Freerange Stock](https://freerangestock.com/): Free stock images
 - [The Noun Project](https://thenounproject.com): Icons and Photos For Everything
+- [ray.so](https://ray.so): Beautiful syntax-higlighted images of code 
 
 # Misc
 
