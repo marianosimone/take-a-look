@@ -23,3 +23,4 @@
 - [fish](https://fishshell.com/): command line shell for Linux, macOS, and the rest of the family
   - [tide](https://github.com/IlanCosman/tide): nice and fast prompt with Git info 
 - [ray.so](https://ray.so): images of code snippets to share/document/highlight
+- [vhs](https://github.com/charmbracelet/vhs): Write terminal GIFs as code for integration testing and demoing your CLI tools.
