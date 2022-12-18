@@ -86,3 +86,4 @@
 - [Is TDD Dead?](https://martinfowler.com/articles/is-tdd-dead/)
 - [Good goals](https://msiliski.medium.com/good-goals-249db6df265d)
 - [The secret to getting to the Staff+ level? Leverage](https://leaddev.com/career-paths-progression-promotion/secret-getting-staff-level-leverage)
+- [A debugging manifesto](https://jvns.ca/blog/2022/12/08/a-debugging-manifesto/)
