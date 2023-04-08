@@ -87,3 +87,5 @@
 - [Good goals](https://msiliski.medium.com/good-goals-249db6df265d)
 - [The secret to getting to the Staff+ level? Leverage](https://leaddev.com/career-paths-progression-promotion/secret-getting-staff-level-leverage)
 - [A debugging manifesto](https://jvns.ca/blog/2022/12/08/a-debugging-manifesto/)
+- [Migrations: the sole scalable fix to tech debt](https://lethain.com/migrations)
+- [Confidence in problem/solution vs speed](https://twitter.com/carlvellotti/status/1633485455063695361)
