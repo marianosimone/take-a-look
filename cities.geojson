@@ -2416,7 +2416,8 @@
       },
       "properties": {
         "name": "La Vila Joiosa, Spain"
-      },
+      }
+    },
     {
       "type": "Feature",
       "geometry": {
