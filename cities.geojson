@@ -2427,6 +2427,96 @@
       "properties": {
         "name": "Relleu, Spain"
       }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [-113.584167, 37.104167]
+      },
+      "properties": {
+        "name": "St. George, UT, USA"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [-113, 37.3]
+      },
+      "properties": {
+        "name": "Zion National Park, UT, USA"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [-111.683333, 37.4]
+      },
+      "properties": {
+        "name": "Grand Staircase–Escalante National Monument, UT, USA"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [-111.166667, 38.2]
+      },
+      "properties": {
+        "name": "Capitol Reef National Park, UT, USA"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [-109.549722, 38.5725]
+      },
+      "properties": {
+        "name": "Moab, UT, USA"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [-109.549722, 38.5725]
+      },
+      "properties": {
+        "name": "Moab, UT, USA"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [-109.54, 38.728056]
+      },
+      "properties": {
+        "name": "Arches National Park, UT, USA"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [-109.75966, 38.16691]
+      },
+      "properties": {
+        "name": "Canyonlands National Park, UT, USA"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [-107.324722, 39.550556]
+      },
+      "properties": {
+        "name": "Glenwood Springs, CO, USA"
+      }
     }
   ]
 }
