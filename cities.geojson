@@ -2517,6 +2517,26 @@
       "properties": {
         "name": "Glenwood Springs, CO, USA"
       }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [4.893611, 52.372778]
+      },
+      "properties": {
+        "name": "Amsterdam, Netherlands"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [4.3525, 50.846667]
+      },
+      "properties": {
+        "name": "Brussels, Belgium"
+      }
     }
   ]
 }
