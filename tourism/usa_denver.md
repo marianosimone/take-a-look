@@ -8,6 +8,7 @@
 - [Dio Mio](https://www.diomiopasta.com): Pasta, pasta, pasta
 
 ## Drink
-- [LowDown](http://www.lowdownbrewery.com): Both great beer and great food
+- [Cerebral Brewing](https://cerebralbrewing.com): Great beer, no food
+- [Ratio Beerworks](https://ratiobeerworks.com): Some of the best beer in Colorado
 - [Avery Breweing Co.](https://www.averybrewing.com): (Boulder) Amazing Beer and good food
 - [Smugglers Union](https://www.smugglerunion.com) (Telluride) Beer and food galore!
