@@ -2537,6 +2537,46 @@
       "properties": {
         "name": "Brussels, Belgium"
       }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [18.423889, -33.925278]
+      },
+      "properties": {
+        "name": "Cape Town, South Africa"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [18.433333, -34.193333]
+      },
+      "properties": {
+        "name": "Simon's Town, South Africa"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [18.475556, -34.358056]
+      },
+      "properties": {
+        "name": "Cape of Good Hope, South Africa"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [19.9354327, -33.351624]
+      },
+      "properties": {
+        "name": "Aquila Private Game Reserve, South Africa"
+      }
     }
   ]
 }
