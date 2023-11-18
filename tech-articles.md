@@ -90,3 +90,4 @@
 - [A debugging manifesto](https://jvns.ca/blog/2022/12/08/a-debugging-manifesto/)
 - [Migrations: the sole scalable fix to tech debt](https://lethain.com/migrations)
 - [Confidence in problem/solution vs speed](https://twitter.com/carlvellotti/status/1633485455063695361)
+- [Our pathological inability to do "done"](https://basta.substack.com/p/our-pathological-inability-to-do): Getting projects over the line and not accruing project debt
