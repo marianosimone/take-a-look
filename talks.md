@@ -401,3 +401,7 @@ As humans, we can perceive less than a ten-trillionth of all light waves. "Our e
 omputer skills aren't what's stopping people from breaking into the tech industry, says social entrepreneur Irma L. Olguin Jr. More often, the biggest hurdles are things like access to childcare, transportation and financial stability. In this visionary talk, Olguin Jr. introduces the work she's done to uplift and empower people in her community in Fresno, California -- and shows how it can be a model to elevate "underdog" communities across the world.
 
 [link](https://www.youtube.com/watch?v=1TzlzuW1uGA)
+
+## David Foster Wallace - Your Mind is an Excellent Servant, but a Terrible Master
+
+[link](https://youtu.be/OsAd4HGJS4o)
