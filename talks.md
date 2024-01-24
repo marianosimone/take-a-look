@@ -6,6 +6,11 @@ Have you ever felt like you're talking, but nobody is listening? Here's Julian T
 
 [link](https://www.youtube.com/watch?v=eIho2S0ZahI)
 
+## Patrick Winston - "MIT How to Speak, IAP 2018"
+Patrick Winston's How to Speak talk has been an MIT tradition for over 40 years. Offered every January, the talk is intended to improve your speaking ability in critical situations by teaching you a few heuristic rules.
+
+[link](https://youtu.be/Unzc731iCUY)
+
 ## Clay Shirky - "How the Internet will (one day) transform government"
 
 The open-source world has learned to deal with a flood of new, oftentimes divergent, ideas using hosting services like GitHub -- so why can't governments? In this rousing talk Clay Shirky shows how democracies can take a lesson from the Internet, to be not just transparent but also to draw on the knowledge of all their citizens.
