@@ -91,3 +91,5 @@
 - [Migrations: the sole scalable fix to tech debt](https://lethain.com/migrations)
 - [Confidence in problem/solution vs speed](https://twitter.com/carlvellotti/status/1633485455063695361)
 - [Our pathological inability to do "done"](https://basta.substack.com/p/our-pathological-inability-to-do): Getting projects over the line and not accruing project debt
+- [Ask vs Guess Culture](https://jeanhsu.substack.com/p/ask-vs-guess-culture)
+- [The skill that gets you fired or promoted: managing up](https://www.leahtharin.com/p/the-skill-that-gets-you-fired-or)
