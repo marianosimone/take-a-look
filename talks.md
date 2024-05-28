@@ -410,3 +410,9 @@ omputer skills aren't what's stopping people from breaking into the tech industr
 ## David Foster Wallace - Your Mind is an Excellent Servant, but a Terrible Master
 
 [link](https://youtu.be/OsAd4HGJS4o)
+
+## Tim Ferriss - Why you should define your fears instead of your goals (TED)
+
+The hard choices -- what we most fear doing, asking, saying -- are very often exactly what we need to do. How can we overcome self-paralysis and take action? Tim Ferriss encourages us to fully envision and write down our fears in detail, in a simple but powerful exercise he calls "fear-setting." Learn more about how this practice can help you thrive in high-stress environments and separate what you can control from what you cannot.
+
+[link](https://www.youtube.com/watch?v=5J6jAC6XxAI)
