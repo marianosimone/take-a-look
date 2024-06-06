@@ -93,3 +93,4 @@
 - [Our pathological inability to do "done"](https://basta.substack.com/p/our-pathological-inability-to-do): Getting projects over the line and not accruing project debt
 - [Ask vs Guess Culture](https://jeanhsu.substack.com/p/ask-vs-guess-culture)
 - [The skill that gets you fired or promoted: managing up](https://www.leahtharin.com/p/the-skill-that-gets-you-fired-or)
+- [That's when I realized I've been thinking about tradeoffs all wrong!](https://buttondown.email/hillelwayne/archive/ive-been-thinking-about-tradeoffs-all-wrong)
