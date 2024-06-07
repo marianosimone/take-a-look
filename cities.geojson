@@ -2577,6 +2577,16 @@
       "properties": {
         "name": "Aquila Private Game Reserve, South Africa"
       }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [-75.695, 38.209722]
+      },
+      "properties": {
+        "name": "Princess Anne, MD USA"
+      }
     }
   ]
 }
