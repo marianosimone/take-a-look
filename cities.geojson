@@ -2590,7 +2590,7 @@
         "coordinates": [-75.695, 38.209722]
       },
       "properties": {
-        "name": "Princess Anne, MD USA"
+        "name": "Princess Anne, MD, USA"
       }
     },
     {
@@ -2644,7 +2644,7 @@
         "coordinates": [-111.105833, 44.6625]
       },
       "properties": {
-        "name": "West Yellowstone, MT USA",
+        "name": "West Yellowstone, MT, USA",
         "date": "2024-08"
       }
     },
@@ -2655,7 +2655,7 @@
         "coordinates": [-110.833333, 43.516667]
       },
       "properties": {
-        "name": "Jackson Hole, WY USA",
+        "name": "Jackson Hole, WY, USA",
         "date": "2024-08"
       }
     },
@@ -2666,7 +2666,7 @@
         "coordinates": [-110.547222, 44.596389]
       },
       "properties": {
-        "name": "Yellowstone National Park, MT/WY/ID USA",
+        "name": "Yellowstone National Park, MT/WY/ID, USA",
         "date": "2024-08",
         "marker-symbol": "park"
       }
@@ -2678,7 +2678,7 @@
         "coordinates": [-110.700833, 43.833333]
       },
       "properties": {
-        "name": "Grand Teton National Park, WY USA",
+        "name": "Grand Teton National Park, WY, USA",
         "date": "2024-08",
         "marker-symbol": "park"
       }
