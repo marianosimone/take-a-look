@@ -2682,6 +2682,61 @@
         "date": "2024-08",
         "marker-symbol": "park"
       }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [139.692222, 35.689722]
+      },
+      "properties": {
+        "name": "Tokyo, Japan",
+        "date": "2024-09",
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [135.768333, 35.011667]
+      },
+      "properties": {
+        "name": "Kyoto, Japan",
+        "date": "2024-09",
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [135.502222, 34.693889]
+      },
+      "properties": {
+        "name": "Osaka, Japan",
+        "date": "2024-09",
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [135.805, 34.684444]
+      },
+      "properties": {
+        "name": "Nara, Japan",
+        "date": "2024-09",
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [137.0898, 35.1725]
+      },
+      "properties": {
+        "name": "Ghibli Park, Japan",
+        "date": "2024-09",
+      }
     }
   ]
 }
