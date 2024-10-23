@@ -314,3 +314,9 @@ Next I'll use this technique to create a Person type that is composed of `FullNa
 "Coding Better World Together" is a set of master lessons from the famous Uncle Bob (Robert Cecil Martin), where he gives us a broad vision of the importance and future of Software in today's society.
 
 [link](https://www.youtube.com/playlist?list=PLmmYSbUCWJ4x1GO839azG_BBw8rkh-zOj)
+
+## Jameson Hampton - Reframing Shame & Embracing Mistakes (RubyConf 2021 Denver)
+
+Imposter syndrome is rampant among tech workers and there are so many ways that we put ourselves down and minimize our own accomplishments without even realizing it - and shame is a powerful and dangerous emotion. But everyone makes mistakes and in fact, making mistakes and learning from them makes us smarter! The tenets of cognitive behavioral therapy suggest that these kinds of harmful thought patterns are automatic, ingrained in us from years of practice. This talk will help you identify some of those thought patterns so you can challenge them and reframe them in healthier ways!
+
+[link](https://www.youtube.com/watch?v=ySGuGUYLT9w)
