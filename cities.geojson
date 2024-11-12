@@ -2737,6 +2737,17 @@
         "name": "Ghibli Park, Japan",
         "date": "2024-09"
       }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [-90.078333, 29.976111]
+      },
+      "properties": {
+        "name": "New Orleans, LA, USA",
+        "date": "2024-11"
+      }
     }
   ]
 }
