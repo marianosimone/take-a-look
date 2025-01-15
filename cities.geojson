@@ -2748,6 +2748,17 @@
         "name": "New Orleans, LA, USA",
         "date": "2024-11"
       }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [-94.58, 39.1]
+      },
+      "properties": {
+        "name": "Kansas City, MO, USA",
+        "date": "2025-01"
+      }
     }
   ]
 }
