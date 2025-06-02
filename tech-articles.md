@@ -95,3 +95,4 @@
 - [The skill that gets you fired or promoted: managing up](https://www.leahtharin.com/p/the-skill-that-gets-you-fired-or)
 - [That's when I realized I've been thinking about tradeoffs all wrong!](https://buttondown.email/hillelwayne/archive/ive-been-thinking-about-tradeoffs-all-wrong)
 - [Grifters, believers, grinders, and coasters](https://www.seangoedecke.com/programmer-archetypes/)
+- [Understanding Zero-knowledge proofs through illustrated examples](https://blog.goodaudience.com/understanding-zero-knowledge-proofs-through-simple-examples-df673f796d99)
