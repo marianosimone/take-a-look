@@ -88,7 +88,8 @@
         "coordinates": [-9.138085,38.71211]
       },
       "properties": {
-        "name": "Lisbon, Portugal"
+        "name": "Lisbon, Portugal",
+        "date": "2025-07"
       }
     },
     {
@@ -2759,6 +2760,72 @@
       "properties": {
         "name": "Kansas City, MO, USA",
         "date": "2025-01"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [-3.366667, 40.466667]
+      },
+      "properties": {
+        "name": "Alcalá de Henares, Spain",
+        "date": "2025-07"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [-4.118333, 40.948056]
+      },
+      "properties": {
+        "name": "Segovia, Spain",
+        "date": "2025-07"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [-0.103056, 38.58]
+      },
+      "properties": {
+        "name": "L'Alfàs del Pi, Spain",
+        "date": "2025-07"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [-8.610833, 41.15]
+      },
+      "properties": {
+        "name": "Porto, Portugal",
+        "date": "2025-07"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [-9.388333, 38.799167]
+      },
+      "properties": {
+        "name": "Sintra, Portugal",
+        "date": "2025-07"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [-9.416667, 38.7]
+      },
+      "properties": {
+        "name": "Cascais, Portugal",
+        "date": "2025-07"
       }
     }
   ]
