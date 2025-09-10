@@ -98,3 +98,4 @@
 - [Understanding Zero-knowledge proofs through illustrated examples](https://blog.goodaudience.com/understanding-zero-knowledge-proofs-through-simple-examples-df673f796d99)
 - [The Two Generals Problem](https://linuxblog.io/the-two-generals-problem/)
 - [How to write a good design document](https://grantslatton.com/how-to-design-document)
+- [Do the simplest thing that could possibly work](https://www.seangoedecke.com/the-simplest-thing-that-could-possibly-work/)
