@@ -320,3 +320,13 @@ Next I'll use this technique to create a Person type that is composed of `FullNa
 Imposter syndrome is rampant among tech workers and there are so many ways that we put ourselves down and minimize our own accomplishments without even realizing it - and shame is a powerful and dangerous emotion. But everyone makes mistakes and in fact, making mistakes and learning from them makes us smarter! The tenets of cognitive behavioral therapy suggest that these kinds of harmful thought patterns are automatic, ingrained in us from years of practice. This talk will help you identify some of those thought patterns so you can challenge them and reframe them in healthier ways!
 
 [link](https://www.youtube.com/watch?v=ySGuGUYLT9w)
+
+## Hynek Schlawack - Design Pressure: The Invisible Hand That Shapes Your Code (PyCon US 2025)
+
+Ever had this weird gut feeling that something is off in your code, but couldn't put the finger on why? Are you starting your projects with the best intentions, following all best practices, and still feel like your architecture turns weird eventually?
+
+Maybe, it's not your fault! Maybe, the tools or methodology you're using are applying design pressure that you're not cognizant of, but that influences the shape of your code.
+
+The best way to prevent that is becoming aware of the forces at play. So, let's look at what design pressure is, look at the most prominent examples of good and bad, and explore how to leverage the former and quell the latter. Because you can only deal with something you know exists.
+
+[link](https://www.youtube.com/watch?v=IhNSINolcSM)
