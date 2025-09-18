@@ -99,3 +99,4 @@
 - [The Two Generals Problem](https://linuxblog.io/the-two-generals-problem/)
 - [How to write a good design document](https://grantslatton.com/how-to-design-document)
 - [Do the simplest thing that could possibly work](https://www.seangoedecke.com/the-simplest-thing-that-could-possibly-work/)
+- [Keeping secrets out of logs](https://allan.reyes.sh/posts/keeping-secrets-out-of-logs)
