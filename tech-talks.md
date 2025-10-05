@@ -330,3 +330,9 @@ Maybe, it's not your fault! Maybe, the tools or methodology you're using are app
 The best way to prevent that is becoming aware of the forces at play. So, let's look at what design pressure is, look at the most prominent examples of good and bad, and explore how to leverage the former and quell the latter. Because you can only deal with something you know exists.
 
 [link](https://www.youtube.com/watch?v=IhNSINolcSM)
+
+## Tudor Gîrba - Moldable development (Curry On 2016)
+
+An experimental Development Environment that shows the objects in different ways.
+
+[link](https://www.youtube.com/watch?v=Pot9GnHFOVU)
