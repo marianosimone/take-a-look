@@ -101,3 +101,4 @@
 - [Do the simplest thing that could possibly work](https://www.seangoedecke.com/the-simplest-thing-that-could-possibly-work/)
 - [Keeping secrets out of logs](https://allan.reyes.sh/posts/keeping-secrets-out-of-logs)
 - [Good Software Development Habits](https://zarar.dev/good-software-development-habits/)
+- [Good Managers Write Good](https://staysaasy.com/management/2022/07/10/Writing-Management.html)
