@@ -961,16 +961,6 @@
       "type": "Feature",
       "geometry": {
         "type": "Point",
-        "coordinates": [-79.07091,43.101624]
-      },
-      "properties": {
-        "name": "Niagara Falls, Ontario, Canada"
-      }
-    },
-    {
-      "type": "Feature",
-      "geometry": {
-        "type": "Point",
         "coordinates": [-58.735733,-38.554516]
       },
       "properties": {
@@ -2858,7 +2848,7 @@
       },
       "properties": {
         "name": "Niagara Falls, ON, CA",
-        "date": "2025-11"
+        "date": "1997-06, 2025-11"
       }
     }
   ]
