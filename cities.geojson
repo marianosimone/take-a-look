@@ -2827,6 +2827,39 @@
         "name": "Cascais, Portugal",
         "date": "2025-07"
       }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [-78.878056, 42.886389]
+      },
+      "properties": {
+        "name": "Buffalo, NY, USA",
+        "date": "2025-11"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [-79.016667, 43.1]
+      },
+      "properties": {
+        "name": "Niagara Falls, NY, USA",
+        "date": "2025-11"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [-79.106667, 43.06]
+      },
+      "properties": {
+        "name": "Niagara Falls, ON, CA",
+        "date": "2025-11"
+      }
     }
   ]
 }
