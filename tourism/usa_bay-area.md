@@ -36,7 +36,7 @@ Armstrong Redwoods State Park](http://www.russianrivertravel.com/parks-armstrong
 - [Cheese Board Pizza](http://cheeseboardcollective.coop/pizza) Awesome vegetarian (and vegan) pizzas. Check their webpage to see what's the option of the day
 - [Eureka!](http://eurekarestaurantgroup.com/) Good burguers, beers and a cool near-campus vibe (Berkeley)
 - [Farm Burguer](http://www.farmburger.com/) (Berkeley/Marin)
-- [Little John Candies)(http://littlejohnscandies.com) Little candy shop with chocolates and toffees (1422 Market Street, San Francisco)
+- [Little John Candies](http://littlejohnscandies.com) Little candy shop with chocolates and toffees (1422 Market Street, San Francisco)
 - [Lush Gelato](http://www.lushgelato.com/): One of the only places that makes even their own ice-cream base. Seasonal flavors (San Francisco, Oakland, Berkeley)
 - [Tartine Bakery](http://www.tartinebakery.com/) (San Francisco): A bit over-crowded, but awesome stuff!
 - [The Butcher's Son](http://www.thebutchersveganson.com): All-vegan options of non-vegan dishes (meatballs, bacon, pulled pork, etc.) (Berkeley)
