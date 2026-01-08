@@ -15,6 +15,7 @@
 - [Tonde Katiyo @ The Nugget Climbing podcast](https://thenuggetclimbing.com/episodes/tonde-katiyo-part-1)
 - [Tomoa / Akiyo / Ikedai](https://www.youtube.com/channel/UCx3XxWczzWgm1bLmgdeQJMw) (e.g. [The World Class 4 technics for coordination problem](https://www.youtube.com/watch?v=dT8oQPeJQts))
 - [GearSkeptic](https://www.youtube.com/channel/UCflIoVkAjQnyAwDKFmhRDDw), for example [Performance nutrition for backpackers](https://www.youtube.com/watch?v=iqgayipoNWA)
+- [Hooper's Beta](https://www.youtube.com/@HoopersBeta), for example [Why Do Climbers that "Stay Tight" Have Poor Body Tension?](https://www.youtube.com/watch?v=EGdusH97XcY)
 
 ## Train
 
