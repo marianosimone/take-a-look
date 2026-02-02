@@ -102,3 +102,6 @@
 - [Keeping secrets out of logs](https://allan.reyes.sh/posts/keeping-secrets-out-of-logs)
 - [Good Software Development Habits](https://zarar.dev/good-software-development-habits/)
 - [Good Managers Write Good](https://staysaasy.com/management/2022/07/10/Writing-Management.html)
+- [Try to Take My Position: The Best Promotion Advice I Ever Got](https://andrew.grahamyooll.com/blog/Try-to-Take-My-Position/)
+- [Doing vs Delegating](https://basta.substack.com/p/doing-versus-delegating)
+- [How to write a good design document](https://grantslatton.com/how-to-design-document)
