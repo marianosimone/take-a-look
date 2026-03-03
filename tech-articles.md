@@ -105,3 +105,4 @@
 - [Try to Take My Position: The Best Promotion Advice I Ever Got](https://andrew.grahamyooll.com/blog/Try-to-Take-My-Position/)
 - [Doing vs Delegating](https://basta.substack.com/p/doing-versus-delegating)
 - [How to write a good design document](https://grantslatton.com/how-to-design-document)
+- [Communication is the job](https://boz.com/articles/communication-is-the-job)
