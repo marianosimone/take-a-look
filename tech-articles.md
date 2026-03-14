@@ -107,3 +107,4 @@
 - [How to write a good design document](https://grantslatton.com/how-to-design-document)
 - [Communication is the job](https://boz.com/articles/communication-is-the-job)
 - [So whats the next word, then?](https://matthias-kainer.de/blog/posts/so-whats-the-next-word-then-/)
+- [Your job is to deliver code you have proven to work](https://simonwillison.net/2025/Dec/18/code-proven-to-work/)
