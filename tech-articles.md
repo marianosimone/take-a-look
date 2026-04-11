@@ -109,4 +109,4 @@
 - [So whats the next word, then?](https://matthias-kainer.de/blog/posts/so-whats-the-next-word-then-/)
 - [Your job is to deliver code you have proven to work](https://simonwillison.net/2025/Dec/18/code-proven-to-work/)
 - [Rob Pike's 5 Rules of Programming](https://www.cs.unc.edu/~stotts/COMP590-059-f24/robsrules.html)
-
+- [Happier Development](https://basta.substack.com/p/happier-development)
