@@ -111,4 +111,5 @@
 - [Rob Pike's 5 Rules of Programming](https://www.cs.unc.edu/~stotts/COMP590-059-f24/robsrules.html)
 - [Happier Development](https://basta.substack.com/p/happier-development)
 - [A few notes on problem solving](https://jeremymikkola.com/posts/2022_01_01_a_few_notes_on_problem_solving.html)
+- [Why Your Engineering Team Is Slow (It's the Codebase, Not the People)](https://piechowski.io/post/codebase-drag-audit/)
 
