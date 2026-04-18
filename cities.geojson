@@ -582,7 +582,8 @@
         "coordinates": [1.44303,43.603947]
       },
       "properties": {
-        "name": "Toulouse, France"
+        "name": "Toulouse, France",
+        "date": "2001-07, 2026-03"
       }
     },
     {
@@ -1351,10 +1352,11 @@
       "type": "Feature",
       "geometry": {
         "type": "Point",
-        "coordinates": [3.551015,43.3338]
+        "coordinates": [3.6975, 43.4053]
       },
       "properties": {
-        "name": "Sete, France"
+        "name": "Sète, France",
+        "date": "2001-06, 2026-04"
       }
     },
     {
@@ -2593,7 +2595,7 @@
       },
       "properties": {
         "name": "Munich, Germany",
-        "date": "2024-07"
+        "date": "2024-07, 2026-03"
       }
     },
     {
@@ -2849,6 +2851,38 @@
       "properties": {
         "name": "Niagara Falls, ON, CA",
         "date": "1997-06, 2025-11"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [2.350833, 43.213333]
+      },
+      "properties": {
+        "name": "Carcassonne, France",
+        "date": "2001-06, 2026-04"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [3.219, 43.3476]
+      },
+      "properties": {
+        "name": "Béziers, France",
+        "date": "2026-04"
+      }
+    },{
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [2.8322, 43.2506]
+      },
+      "properties": {
+        "name": "Paraza, France",
+        "date": "2026-04"
       }
     }
   ]
