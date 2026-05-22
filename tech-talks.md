@@ -336,3 +336,9 @@ The best way to prevent that is becoming aware of the forces at play. So, let's 
 An experimental Development Environment that shows the objects in different ways.
 
 [link](https://www.youtube.com/watch?v=Pot9GnHFOVU)
+
+## Matt Pocock - Software Fundamentals Matter More Than Ever (AI Engineer Europe 2026)
+
+AI coding tools are overhyped and powerful at the same time. Used well, they're extraordinary. Used badly, they'll bury you in spaghetti code faster than any human team could. The difference isn't the tool. It's the process. After 18 months of teaching developers to build with AI agents, Matt Pocock has watched the same patterns emerge: the devs who succeed aren't the ones who delegate everything or nothing. They're the ones who fall back on engineering fundamentals. In this talk, he shares the iterative process his students use to ship high-quality applications with AI agent swarms, and why the principles that make it work (ubiquitous language, vertical slices, TDD, deep modules) are decades-old ideas that didn't break. They got more important.
+
+[link](https://www.youtube.com/watch?v=v4F1gFy-hqg)
