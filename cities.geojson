@@ -2884,6 +2884,16 @@
         "name": "Paraza, France",
         "date": "2026-04"
       }
+    },{
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [-84.08, 9.9325]
+      },
+      "properties": {
+        "name": "San José, Costa Rica",
+        "date": "2026-05"
+      }
     }
   ]
 }
