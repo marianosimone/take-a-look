@@ -115,3 +115,4 @@
 - [Finding Comfort in the Uncertainty](https://annievella.com/posts/finding-comfort-in-the-uncertainty/)
 - [The Worst Programmer I Know](https://dannorth.net/blog/the-worst-programmer)
 - [What if We Replace Guns and Bullets with Bows and Arrows?](https://solar.lowtechmagazine.com/2022/11/what-if-we-replace-guns-and-bullets-with-bows-and-arrows)
+- [Not My Job](https://blog.dbsmasher.com/2022/05/24/not-my-job.html)
