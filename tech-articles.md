@@ -114,4 +114,4 @@
 - [Why Your Engineering Team Is Slow (It's the Codebase, Not the People)](https://piechowski.io/post/codebase-drag-audit/)
 - [Finding Comfort in the Uncertainty](https://annievella.com/posts/finding-comfort-in-the-uncertainty/)
 - [The Worst Programmer I Know](https://dannorth.net/blog/the-worst-programmer)
-
+- [What if We Replace Guns and Bullets with Bows and Arrows?](https://solar.lowtechmagazine.com/2022/11/what-if-we-replace-guns-and-bullets-with-bows-and-arrows)
