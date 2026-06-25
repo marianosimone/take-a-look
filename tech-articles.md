@@ -116,3 +116,7 @@
 - [The Worst Programmer I Know](https://dannorth.net/blog/the-worst-programmer)
 - [What if We Replace Guns and Bullets with Bows and Arrows?](https://solar.lowtechmagazine.com/2022/11/what-if-we-replace-guns-and-bullets-with-bows-and-arrows)
 - [Not My Job](https://blog.dbsmasher.com/2022/05/24/not-my-job.html)
+- [Why Senior Engineers Let Bad Projects Fail](https://lalitm.com/post/why-senior-engineers-let-bad-projects-fail)
+- [Production Is Where the Rigor Goes](https://www.honeycomb.io/blog/production-is-where-the-rigor-goes)
+- [Don't Let AI Write For You](https://alexhwoods.com/dont-let-ai-write-for-you)
+- [The peril of laziness lost](https://bcantrill.dtrace.org/2026/04/12/the-peril-of-laziness-lost)
