@@ -341,4 +341,14 @@ An experimental Development Environment that shows the objects in different ways
 
 AI coding tools are overhyped and powerful at the same time. Used well, they're extraordinary. Used badly, they'll bury you in spaghetti code faster than any human team could. The difference isn't the tool. It's the process. After 18 months of teaching developers to build with AI agents, Matt Pocock has watched the same patterns emerge: the devs who succeed aren't the ones who delegate everything or nothing. They're the ones who fall back on engineering fundamentals. In this talk, he shares the iterative process his students use to ship high-quality applications with AI agent swarms, and why the principles that make it work (ubiquitous language, vertical slices, TDD, deep modules) are decades-old ideas that didn't break. They got more important.
 
+## Scott Wlaschin - "Moving IO to the edges of your app: Functional Core, Imperative Shell" (NDC London 2024)
+
+Modern architectures (such as Onion, Clean and Hexagonal) recommend that interfacing with the outside world be done at the boundaries of your app, not in the middle. Similarly, in functional programming, the core code should be deterministic, and all I/O should be at the edges.
+
+But how can you actually do this in practice? How can you separate I/O from business logic in an elegant way?
+
+In this talk, we'll look at some concrete examples of how to refactor code in this way. We'll also talk about how doing this improves code comprehension, testing, and refactoring.
+
+[link](https://www.youtube.com/watch?v=P1vES9AgfC4)
+
 [link](https://www.youtube.com/watch?v=v4F1gFy-hqg)
