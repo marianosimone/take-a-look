@@ -1536,7 +1536,8 @@
         "coordinates": [-71.96856,-13.521886]
       },
       "properties": {
-        "name": "Cusco, Peru"
+        "name": "Cusco, Peru",
+        "marker-symbol": "heart"
       }
     },
     {
@@ -1636,7 +1637,8 @@
         "coordinates": [-99.133333, 19.433333]
       },
       "properties": {
-        "name": "Distrito Federal, México"
+        "name": "Distrito Federal, México",
+        "marker-symbol": "heart"
       }
     },
     {
@@ -2628,7 +2630,8 @@
       },
       "properties": {
         "name": "Vienna, Austria",
-        "date": "2024-07"
+        "date": "2024-07",
+        "marker-symbol": "heart"
       }
     },
     {
@@ -2806,7 +2809,8 @@
       },
       "properties": {
         "name": "Sintra, Portugal",
-        "date": "2025-07"
+        "date": "2025-07",
+        "marker-symbol": "heart"
       }
     },
     {
