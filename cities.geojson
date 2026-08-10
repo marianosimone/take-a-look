@@ -2894,6 +2894,57 @@
         "name": "San José, Costa Rica",
         "date": "2026-05"
       }
+    },{
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [12.568333, 55.676111]
+      },
+      "properties": {
+        "name": "Copenhagen, Denmark",
+        "date": "2027-08",
+        "marker-symbol": "heart"
+      }
+    },{
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [12.608333, 56.036111]
+      },
+      "properties": {
+        "name": "Helsingør, Denmark",
+        "date": "2027-08"
+      }
+    },{
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [10.388611, 55.395833]
+      },
+      "properties": {
+        "name": "Odense, Denmark",
+        "date": "2027-08"
+      }
+    },{
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [9.744444, 55.498611]
+      },
+      "properties": {
+        "name": "Middelfart, Denmark",
+        "date": "2027-08"
+      }
+    },{
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [9.115278, 55.730833]
+      },
+      "properties": {
+        "name": "Billund, Denmark",
+        "date": "2027-08"
+      }
     }
   ]
 }
