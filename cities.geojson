@@ -398,10 +398,20 @@
       "type": "Feature",
       "geometry": {
         "type": "Point",
-        "coordinates": [113.12833,23.021389]
+        "coordinates": [113.1216, 23.0214]
       },
       "properties": {
         "name": "Foshan, China"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [113.2643879, 34.6434982]
+      },
+      "properties": {
+        "name": "Chenjiagou, China"
       }
     },
     {
@@ -439,7 +449,7 @@
       "type": "Feature",
       "geometry": {
         "type": "Point",
-        "coordinates": [116.5318,35.532776]
+        "coordinates": [116.5871, 35.4151]
       },
       "properties": {
         "name": "Jining, China"
@@ -499,7 +509,7 @@
       "type": "Feature",
       "geometry": {
         "type": "Point",
-        "coordinates": [117.09345,36.13542]
+        "coordinates": [117.087, 36.202]
       },
       "properties": {
         "name": "Tai'an, China"
@@ -559,7 +569,7 @@
       "type": "Feature",
       "geometry": {
         "type": "Point",
-        "coordinates": [113.01936,34.45596]
+        "coordinates": [113.025278, 34.455278]
       },
       "properties": {
         "name": "Dengfeng, China"
@@ -712,7 +722,7 @@
       "type": "Feature",
       "geometry": {
         "type": "Point",
-        "coordinates": [112.46735,34.66579]
+        "coordinates": [112.4539, 34.6197]
       },
       "properties": {
         "name": "Luoyang, China"
@@ -732,7 +742,7 @@
       "type": "Feature",
       "geometry": {
         "type": "Point",
-        "coordinates": [116.99379,36.66216]
+        "coordinates": [117.0207, 36.6702]
       },
       "properties": {
         "name": "Jinan, China"
@@ -752,7 +762,7 @@
       "type": "Feature",
       "geometry": {
         "type": "Point",
-        "coordinates": [121.48737,31.234953]
+        "coordinates": [121.469167, 31.2325]
       },
       "properties": {
         "name": "Shanghai, China"
@@ -872,7 +882,7 @@
       "type": "Feature",
       "geometry": {
         "type": "Point",
-        "coordinates": [114.17359,22.309187]
+        "coordinates": [114.2, 22.3]
       },
       "properties": {
         "name": "Hong Kong, China"
@@ -882,7 +892,7 @@
       "type": "Feature",
       "geometry": {
         "type": "Point",
-        "coordinates": [100.2461,26.678831]
+        "coordinates": [100.2259, 26.8552]
       },
       "properties": {
         "name": "Lijiang, China"
@@ -1252,7 +1262,7 @@
       "type": "Feature",
       "geometry": {
         "type": "Point",
-        "coordinates": [108.93585,34.25381]
+        "coordinates": [108.942222, 34.261111]
       },
       "properties": {
         "name": "Xi'an, China"
@@ -1262,7 +1272,7 @@
       "type": "Feature",
       "geometry": {
         "type": "Point",
-        "coordinates": [113.24516,23.109507]
+        "coordinates": [113.26, 23.13]
       },
       "properties": {
         "name": "Guangzhou, China"
@@ -1564,7 +1574,7 @@
       "type": "Feature",
       "geometry": {
         "type": "Point",
-        "coordinates": [116.39452,39.909336]
+        "coordinates": [116.3975, 39.906667]
       },
       "properties": {
         "name": "Beijing, China"
@@ -1624,7 +1634,7 @@
       "type": "Feature",
       "geometry": {
         "type": "Point",
-        "coordinates": [120.383333, 36.066667]
+        "coordinates": [120.3827, 36.0669]
       },
       "properties": {
         "name": "Qingdao, China"
