@@ -2916,7 +2916,7 @@
       },
       "properties": {
         "name": "Copenhagen, Denmark",
-        "date": "2027-08",
+        "date": "2026-08",
         "marker-symbol": "heart"
       }
     },{
@@ -2927,7 +2927,7 @@
       },
       "properties": {
         "name": "Helsingør, Denmark",
-        "date": "2027-08"
+        "date": "2026-08"
       }
     },{
       "type": "Feature",
@@ -2937,7 +2937,7 @@
       },
       "properties": {
         "name": "Odense, Denmark",
-        "date": "2027-08"
+        "date": "2026-08"
       }
     },{
       "type": "Feature",
@@ -2947,7 +2947,7 @@
       },
       "properties": {
         "name": "Middelfart, Denmark",
-        "date": "2027-08"
+        "date": "2026-08"
       }
     },{
       "type": "Feature",
@@ -2957,7 +2957,17 @@
       },
       "properties": {
         "name": "Billund, Denmark",
-        "date": "2027-08"
+        "date": "2026-08"
+      }
+    },{
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [-83.9232, 35.9617]
+      },
+      "properties": {
+        "name": "Knowxville, TN, USA",
+        "date": "2026-09"
       }
     }
   ]
