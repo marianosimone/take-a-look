@@ -2969,6 +2969,16 @@
         "name": "Knowxville, TN, USA",
         "date": "2026-09"
       }
+    },{
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [-80.843056, 35.227222]
+      },
+      "properties": {
+        "name": "Charlotte, NC, USA",
+        "date": "2024-08"
+      }
     }
   ]
 }
